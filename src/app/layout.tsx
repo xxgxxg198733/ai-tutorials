@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
-import Script from "next/script";
+
 import { ThemeProvider } from "@/components/shared/ThemeProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
@@ -84,18 +84,16 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        {/* Google AdSense Script — loads after page is interactive */}
-        <Script
+        {/* Google AdSense — rendered in initial HTML for crawler verification */}
+        <script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}`}
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
         <meta
           name="google-adsense-account"
           content={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}
         />
-        {/* Preconnect to ad delivery domains */}
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://googleads.g.doubleclick.net" crossOrigin="anonymous" />
       </head>
