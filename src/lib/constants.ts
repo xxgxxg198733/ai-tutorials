@@ -7,7 +7,7 @@ export const SITE_LOCALE = "en_US";
 
 export const ARTICLES_PER_PAGE = 20;
 
-export const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-XXXXXXXXXXXXXXXX";
+export const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861";
 
 export const CATEGORY_SLUGS = [
   "ai-tools",

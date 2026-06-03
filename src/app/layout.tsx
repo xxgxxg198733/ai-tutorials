@@ -87,13 +87,13 @@ export default function RootLayout({
         {/* Google AdSense Script — loads after page is interactive */}
         <Script
           async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-XXXXXXXXXXXXXXXX"}`}
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
         <meta
           name="google-adsense-account"
-          content={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-XXXXXXXXXXXXXXXX"}
+          content={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}
         />
         {/* Preconnect to ad delivery domains */}
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />

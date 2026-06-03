@@ -34,7 +34,7 @@ export function AdSlot({ slot, format = "auto", className = "", style }: AdSlotP
       <ins
         className="adsbygoogle"
         style={{ display: "block", minWidth: "100%" }}
-        data-ad-client={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-XXXXXXXXXXXXXXXX"}
+        data-ad-client={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}
         data-ad-slot={slot}
         data-ad-format={format}
         data-full-width-responsive="true"
