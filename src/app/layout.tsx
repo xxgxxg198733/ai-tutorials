@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/shared/ThemeProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { BackToTop } from "@/components/shared/BackToTop";
+import { CookieConsent } from "@/components/shared/CookieConsent";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/constants";
 import { JsonLd } from "@/components/seo/JsonLd";
 import "./globals.css";
@@ -84,7 +85,12 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        {/* Google AdSense verification */}
+        {/* Google AdSense */}
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}`}
+          crossOrigin="anonymous"
+        />
         <meta
           name="google-adsense-account"
           content={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}
@@ -109,6 +115,7 @@ export default function RootLayout({
           <main className="flex-1">{children}</main>
           <Footer />
           <BackToTop />
+          <CookieConsent />
         </ThemeProvider>
       </body>
     </html>
