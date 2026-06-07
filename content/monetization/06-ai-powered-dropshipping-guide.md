@@ -22,6 +22,7 @@ keywords:
   - Shopify AI dropshipping
   - AI product descriptions
   - AI supplier sourcing
+hidden: true
 ---
 
 ## The New Era of AI-Powered Dropshipping

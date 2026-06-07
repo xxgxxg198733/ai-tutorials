@@ -26,15 +26,17 @@ export function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-1 overflow-x-auto">
-            {categories.map((cat) => (
-              <Link
-                key={cat.slug}
-                href={`/${cat.slug}`}
-                className="px-3 py-2 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-secondary rounded-md transition-colors whitespace-nowrap"
-              >
-                {cat.icon} {cat.title}
-              </Link>
-            ))}
+            {categories
+              .filter((cat) => cat.slug !== "monetization")
+              .map((cat) => (
+                <Link
+                  key={cat.slug}
+                  href={`/${cat.slug}`}
+                  className="px-3 py-2 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-secondary rounded-md transition-colors whitespace-nowrap"
+                >
+                  {cat.icon} {cat.title}
+                </Link>
+              ))}
           </nav>
 
           {/* Actions */}

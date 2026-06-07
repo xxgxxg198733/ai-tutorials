@@ -65,21 +65,23 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
           >
             🏠 Home
           </Link>
-          {categories.map((cat) => (
-            <Link
-              key={cat.slug}
-              href={`/${cat.slug}`}
-              onClick={onClose}
-              className="block px-4 py-3 rounded-lg hover:bg-secondary transition-colors"
-            >
-              <span className="font-medium">
-                {cat.icon} {cat.title}
-              </span>
-              <span className="block text-sm text-muted-foreground mt-0.5">
-                Browse tutorials
-              </span>
-            </Link>
-          ))}
+          {categories
+            .filter((cat) => cat.slug !== "monetization")
+            .map((cat) => (
+              <Link
+                key={cat.slug}
+                href={`/${cat.slug}`}
+                onClick={onClose}
+                className="block px-4 py-3 rounded-lg hover:bg-secondary transition-colors"
+              >
+                <span className="font-medium">
+                  {cat.icon} {cat.title}
+                </span>
+                <span className="block text-sm text-muted-foreground mt-0.5">
+                  Browse tutorials
+                </span>
+              </Link>
+            ))}
           <hr className="my-4 border-border" />
           <Link
             href="/about"

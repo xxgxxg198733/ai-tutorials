@@ -18,6 +18,11 @@ function parseArticleFile(
     const raw = fs.readFileSync(filePath, "utf-8");
     const { data, content } = matter(raw);
 
+    // Skip hidden/draft articles
+    if (data.hidden === true) {
+      return null;
+    }
+
     // Validate required fields
     if (!data.title || !data.description) {
       console.warn(`Skipping ${filePath}: missing title or description`);

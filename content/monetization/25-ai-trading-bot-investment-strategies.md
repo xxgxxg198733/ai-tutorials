@@ -24,6 +24,7 @@ keywords:
   - quantitative trading
   - AI investment tools
   - trading algorithm development
+hidden: true
 ---
 
 ## Important: Read This First
