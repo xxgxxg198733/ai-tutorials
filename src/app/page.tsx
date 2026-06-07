@@ -1,12 +1,10 @@
 import Link from "next/link";
 import { categories } from "@/data/categories";
-import { getFeaturedArticles, getTotalArticleCount } from "@/lib/content-loader";
-import { AdSlot } from "@/components/shared/AdSlot";
-import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/constants";
+import { getFeaturedArticles } from "@/lib/content-loader";
+import { SITE_DESCRIPTION } from "@/lib/constants";
 
 export default function HomePage() {
   const featuredArticles = getFeaturedArticles(6);
-  const totalArticles = getTotalArticleCount();
 
   return (
     <>
@@ -36,18 +34,13 @@ export default function HomePage() {
               </Link>
             </div>
             <div className="mt-6 flex items-center justify-center gap-4 text-sm text-muted-foreground">
-              <span>📚 {totalArticles}+ Tutorials</span>
-              <span>🛠️ 6 Categories</span>
-              <span>✅ Free & Updated</span>
+              <span>📚 In-Depth Tutorials</span>
+              <span>🛠️ Step-by-Step Guides</span>
+              <span>✅ Always Free</span>
             </div>
           </div>
         </div>
       </section>
-
-      {/* Top Ad Banner */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <AdSlot slot="top-banner" format="horizontal" />
-      </div>
 
       {/* Category Grid */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
@@ -76,7 +69,7 @@ export default function HomePage() {
               </p>
               <div className="mt-4 flex items-center justify-between">
                 <span className="text-xs text-muted-foreground bg-secondary px-2 py-1 rounded">
-                  {cat.articleCount} articles
+                  Browse tutorials →
                 </span>
                 <span className="text-sm font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity translate-x-0 group-hover:translate-x-1 transition-transform">
                   Browse →
@@ -86,11 +79,6 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-
-      {/* Homepage Mid Ad */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <AdSlot slot="homepage-mid" format="auto" />
-      </div>
 
       {/* Featured Articles */}
       {featuredArticles.length > 0 && (
@@ -161,7 +149,7 @@ export default function HomePage() {
             Ready to Master AI?
           </h2>
           <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-            Dive into our 200+ tutorials and discover how artificial intelligence can transform your work, life, and income.
+            Browse our tutorials and discover how AI can help you work smarter, learn faster, and build new skills.
           </p>
           <div className="mt-8 flex flex-wrap gap-4 justify-center">
             {categories.slice(0, 3).map((cat) => (
@@ -176,11 +164,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
-      {/* Bottom Ad Banner */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <AdSlot slot="bottom-banner" format="horizontal" />
-      </div>
     </>
   );
 }

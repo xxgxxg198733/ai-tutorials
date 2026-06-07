@@ -84,18 +84,11 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        {/* Google AdSense — rendered in initial HTML for crawler verification */}
-        <script
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}`}
-          crossOrigin="anonymous"
-        />
+        {/* Google AdSense verification */}
         <meta
           name="google-adsense-account"
           content={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-1078773058136861"}
         />
-        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://googleads.g.doubleclick.net" crossOrigin="anonymous" />
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>

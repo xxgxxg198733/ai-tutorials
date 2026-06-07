@@ -41,6 +41,7 @@ The Dartmouth Conference brought together the pioneers who would shape AI for de
 
 The early years after Dartmouth were filled with remarkable optimism and progress. Researchers created programs that could solve algebra problems, prove geometric theorems, play checkers, and learn to play games. The prevailing mood was that human-level artificial intelligence was only a decade or two away. Herbert Simon predicted in 1965 that "machines will be capable, within twenty years, of doing any work a man can do." This optimism, while premature, drove significant research and laid important foundations.
 
+But how do you actually use this?
 ## The First AI Winter and the Rise of Expert Systems
 
 The late 1960s and 1970s brought the first major setback for AI, now called the first AI winter. The initial optimism collided with the harsh realities of computational limitations and the unexpected difficulty of many problems. Machine translation projects failed to deliver on grandiose promises. The ALPAC report of 1966 concluded that machine translation was slower, less accurate, and twice as expensive than human translation, effectively shutting down US government funding for the field. Researchers discovered that problems that seemed simple — understanding natural language, recognizing objects, navigating physical spaces — required solutions far more complex than anyone had anticipated.
@@ -65,12 +66,15 @@ The pace of progress has only accelerated. Multimodal models can now process tex
 
 Understanding this history provides crucial context for current AI developments. For more on the fundamental concepts that emerged from this journey, read our guide on [AI vs Machine Learning vs Deep Learning](/basics/ai-vs-machine-learning-vs-deep-learning) and explore [what is AGI](/basics/what-is-agi-artificial-general-intelligence).
 
-## Key Takeaways
+## What Actually Matters
 
-- The desire to create intelligent machines dates back to ancient myths and philosophical traditions
+
+- The desire to create intelligent machines dates back to ancient myths and philosophical traditions (this one actually surprised me)
 - Alan Turing's 1950 paper and the 1956 Dartmouth Conference mark the formal birth of AI as a field
-- Early optimism led to two AI winters when progress failed to meet expectations
+- Early optimism led to two AI winters when progress failed to meet expectations (this one actually surprised me)
 - Expert systems achieved commercial success in the 1980s but ultimately proved brittle
 - Deep learning breakthroughs after 2006 triggered the current AI renaissance
 - The Transformer architecture (2017) and large language models have driven the most recent advances
-- AI history shows a pattern of ambitious dreams, periodic setbacks, and eventual progress
+- AI history shows a pattern of ambitious dreams, periodic setbacks, and eventual progress — took me a while to figure this out
+
+So what does this mean in practice?

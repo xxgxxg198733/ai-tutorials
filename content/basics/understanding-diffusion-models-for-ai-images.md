@@ -26,11 +26,13 @@ keywords:
 ---
 
 ## Introduction to Diffusion Models
+Here's why.
 
 Diffusion models have rapidly become the dominant technology for AI image generation, powering revolutionary tools like DALL-E 3, Stable Diffusion, Midjourney, and Adobe Firefly. These models can generate stunningly realistic and creative images from text descriptions, manipulate existing images, and even produce video and 3D content. What makes diffusion models particularly remarkable is their ability to generate high-quality, diverse outputs with a level of detail and coherence that was unthinkable just a few years ago with earlier generative approaches like GANs (Generative Adversarial Networks).
 
 The fundamental idea behind diffusion models is deceptively simple yet mathematically elegant. The name "diffusion" comes from thermodynamics, where diffusion describes the process of particles spreading from areas of high concentration to low concentration. In the machine learning context, diffusion models work by learning to reverse a process that gradually adds noise to data until it becomes pure random noise. By learning this reverse process, the model can generate new data by starting with random noise and progressively denoising it into a coherent image, guided by a text prompt or other conditioning information. This approach has proven remarkably effective, producing images that often rival professional photography and digital art.
 
+Too good to be true?
 ## The Forward and Reverse Diffusion Process
 
 Understanding diffusion models requires grasping two complementary processes: forward diffusion and reverse diffusion. The **forward process** takes a clean training image and gradually adds Gaussian noise over a series of timesteps until the image becomes unrecognizable — essentially pure random noise. This process is Markovian, meaning that each step depends only on the previous step. The amount of noise added at each step is controlled by a predefined variance schedule. After enough steps (typically 1000), the image distribution converges to a standard Gaussian distribution that contains no information about the original image.
@@ -53,21 +55,22 @@ One of the most powerful features of diffusion models is their ability to be con
 
 ## Applications Beyond Image Generation
 
-While diffusion models are best known for text-to-image generation, their capabilities extend far beyond creating images from prompts. **Text-to-video** diffusion models (like Sora, Runway Gen-3, and Pika) extend the diffusion process to the temporal dimension, generating coherent video sequences by processing multiple frames simultaneously with temporal attention mechanisms. **Text-to-3D** models (DreamFusion, Point-E, Zero-1-to-3) use diffusion models to generate 3D objects and scenes, often by rendering 2D views from different angles and optimizing a 3D representation (like NeRF or mesh) to be consistent with generated images from all viewpoints.
+In my experience, while diffusion models are best known for text-to-image generation, their capabilities extend far beyond creating images from prompts. **Text-to-video** diffusion models (like Sora, Runway Gen-3, and Pika) extend the diffusion process to the temporal dimension, generating coherent video sequences by processing multiple frames simultaneously with temporal attention mechanisms. **Text-to-3D** models (DreamFusion, Point-E, Zero-1-to-3) use diffusion models to generate 3D objects and scenes, often by rendering 2D views from different angles and optimizing a 3D representation (like NeRF or mesh) to be consistent with generated images from all viewpoints.
 
 In the **audio domain**, diffusion models generate music, sound effects, and speech from text descriptions or audio prompts. Models like AudioLDM and Stable Audio apply the same denoising principles to spectrograms, while Diffwave and WaveGrad work directly in waveform space for high-fidelity audio generation. **Molecular and material design** is an emerging application: diffusion models generate novel molecular structures for drug discovery, learning the distribution of valid molecular configurations and generating new candidates with desired properties. **Image editing and manipulation** tools like InstructPix2Pix allow users to edit images through natural language instructions, leveraging diffusion models to make targeted changes while preserving the original image structure. For a broader perspective on generative AI capabilities, see our article on [multimodal AI](/basics/what-is-multimodal-ai-complete-guide).
 
 ## Limitations and Future Directions
+That's the short version.
 
 Despite their remarkable capabilities, diffusion models have important limitations. **Computational cost** remains significant — while latent diffusion dramatically reduced costs, generating high-quality images still requires specialized hardware and consumes substantial energy. **Controllability** is improving but remains imperfect: precise control over specific attributes (lighting, camera angle, fine details) can be challenging. **Prompt adherence** can be inconsistent, with models sometimes ignoring or misinterpreting parts of complex prompts. **Bias and representation** issues present in training data are reflected in generated outputs — models trained predominantly on Western internet content may fail to accurately represent diverse cultures, skin tones, and body types.
 
 Safety concerns are equally pressing. Diffusion models can be used to generate misleading or harmful content, including deepfakes, disinformation imagery, and violent or explicit material. Watermarking, content filtering, and usage policies are partial mitigations, but the challenge of responsible deployment remains acute. Research directions include **consistency models** that generate high-quality images in a single step (rather than iterative denoising), greatly accelerating inference; **personalized and subject-driven generation** that can recreate specific subjects (people, objects, styles) across different contexts; and **larger and more capable models** that improve coherence, resolution, and adherence to complex prompts. The field is evolving at an extraordinary pace, and diffusion models appear to be on a trajectory toward increasingly capable, efficient, and controllable generative AI.
 
-## Key Takeaways
+## If You Only Remember One Thing
 
-- Diffusion models generate data by learning to reverse a gradual noising process, transforming random noise into coherent images.
+- Diffusion models generate data by learning to reverse a gradual noising process, transforming random noise into coherent images. — wish I'd known this six months ago
 - The forward process adds Gaussian noise over many steps; the reverse process learns to denoise step by step.
-- Latent diffusion (used in Stable Diffusion) operates in a compressed latent space, dramatically improving efficiency.
+- Latent diffusion (used in Stable Diffusion) operates in a compressed latent space, dramatically improving efficiency. — wish I'd known this six months ago
 - Conditioning techniques including text, images, segmentation maps, and depth enable fine-grained control over generation.
 - Applications extend beyond text-to-image to video, 3D, audio, molecular design, and image editing.
-- Key challenges include computational cost, controllability, bias, and safety implications of powerful generative technology.
+- Key challenges include computational cost, controllability, bias, and safety implications of powerful generative technology. — took me a while to figure this out

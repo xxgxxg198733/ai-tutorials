@@ -1,7 +1,7 @@
 export const SITE_NAME = "AI Tutorials Hub";
-export const SITE_TAGLINE = "Master AI Tools, Boost Productivity, and Monetize Your Skills";
+export const SITE_TAGLINE = "Learn AI tools through practical, hands-on tutorials";
 export const SITE_DESCRIPTION =
-  "Comprehensive AI tutorials covering ChatGPT, Midjourney, Claude, and 200+ tools. Learn how to use AI for work, daily life, and income generation. Expert guides with step-by-step instructions.";
+  "Practical AI tutorials for real people. Learn ChatGPT, Midjourney, Claude, and dozens of other AI tools through step-by-step guides, honest reviews, and real-world examples. No jargon, no hype.";
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://useaitools.fun";
 export const SITE_LOCALE = "en_US";
 

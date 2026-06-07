@@ -27,24 +27,25 @@ keywords:
 
 ## Parameters: The Brain of the Model
 
-In the context of artificial intelligence, parameters are the numerical values that define a model's learned knowledge. Think of parameters as the model's memory and understanding encoded in mathematical form. Every connection between neurons in a neural network has an associated parameter — a weight that determines how much influence one neuron has on another. The total number of parameters is a key metric for describing the size and capacity of an AI model.
+with artificial intelligence, parameters are the numerical values that define a model's learned knowledge. Think of parameters as the model's memory and understanding encoded in mathematical form. Every connection between neurons in a neural network has an associated parameter — a weight that determines how much influence one neuron has on another. The total number of parameters is a key metric for describing the size and capacity of an AI model.
 
 When a model is trained, it starts with random parameter values. Through the training process — forward passes, loss calculation, backpropagation — these parameters are gradually adjusted to reduce the model's error. Each parameter is nudged, over millions of iterations, toward a value that makes the model more accurate. The final set of parameter values represents everything the model learned from its training data. These values encode not just facts but also linguistic patterns, reasoning approaches, stylistic conventions, and conceptual relationships.
 
-Parameter count has become a shorthand for model capability, and for good reason. Larger models — those with more parameters — generally perform better across a wide range of tasks. GPT-3 had 175 billion parameters. GPT-4 is estimated to have over 1 trillion parameters, though OpenAI has not confirmed the exact number. Smaller models like Llama 3.1 8B (8 billion parameters) can run on consumer hardware, while massive models require data center infrastructure. The parameter count directly affects the model's ability to store and recall information, handle complex reasoning, and generate nuanced responses.
+Parameter count has become a shorthand for model capability, and for good reason. Larger models — those with more parameters — generally perform better across many tasks. GPT-3 had 175 billion parameters. GPT-4 is estimated to have over 1 trillion parameters, though OpenAI has not confirmed the exact number. Smaller models like Llama 3.1 8B (8 billion parameters) can run on consumer hardware, while massive models require data center infrastructure. The parameter count directly affects the model's ability to store and recall information, handle complex reasoning, and generate nuanced responses.
 
 However, parameter count is not the only factor that matters. Model architecture, training data quality, training methodology, and fine-tuning all significantly affect performance. A well-trained 7-billion-parameter model can outperform a poorly trained 70-billion-parameter model on specific tasks. Researchers are actively working on making smaller models more capable through better architectures and training techniques, challenging the assumption that bigger is always better.
 
 ## How Parameters Store Knowledge
 
-It is important to understand that parameters do not store knowledge in the way a database stores records. A database might store the fact "Paris is the capital of France" as a discrete entry that can be retrieved exactly. A model's parameters encode this information as a distributed pattern across millions of interconnected values. There is no single parameter that means "Paris" or "capital" or "France." Instead, these concepts emerge from the collective pattern of many parameters working together.
+it's important to understand that parameters don't store knowledge in the way a database stores records. A database might store the fact "Paris is the capital of France" as a discrete entry that can be retrieved exactly. A model's parameters encode this information as a distributed pattern across millions of interconnected values. There's no single parameter that means "Paris" or "capital" or "France." Instead, these concepts emerge from the collective pattern of many parameters working together.
 
-This distributed representation gives models remarkable flexibility. Because knowledge is not stored in discrete locations, the model can combine concepts in novel ways, draw analogies between different domains, and generalize beyond its training data. When the model answers a question about "the capital of France," it is not retrieving a stored fact but reconstructing the concept from the distributed pattern in its parameters, guided by the context of your question.
+I remember the first time I tried this— this distributed representation gives models remarkable flexibility. Because knowledge isn't stored in discrete locations, the model can combine concepts in novel ways, draw analogies between different domains, and generalize beyond its training data. When the model answers a question about "the capital of France," it is not retrieving a stored fact but reconstructing the concept from the distributed pattern in its parameters, guided by the context of your question.
 
 The distributed nature of parameter storage also explains certain failure modes. Because information is spread across many parameters, fine-tuning a model on new data can inadvertently affect knowledge in other areas — a phenomenon called catastrophic forgetting. Adding specialized medical knowledge might degrade the model's general conversation ability. Researchers use techniques like elastic weight consolidation and parameter-efficient fine-tuning to mitigate this interference.
 
-Parameter storage is also the reason models have a fixed knowledge cutoff. The model cannot learn new information without retraining or fine-tuning, which updates the parameter values. This is why even the most advanced models have a knowledge cutoff date and are unaware of events that occurred afterward — their parameters were fixed at the end of training and do not automatically update.
+Parameter storage is also the reason models have a fixed knowledge cutoff. The model cannot learn new information without retraining or fine-tuning, which updates the parameter values. This is why even the most advanced models have a knowledge cutoff date and are unaware of events that occurred afterward — their parameters were fixed at the end of training and ddon'tautomatically update.
 
+Does this live up to the hype?
 ## Tokens: The Atomic Units of Text
 
 While parameters represent the model's internal knowledge, tokens are the units of text that the model processes. When you type a prompt into an AI chatbot, your text is not processed as characters or words — it is converted into tokens. A token is a chunk of text that the model's tokenizer recognizes, typically consisting of a few characters up to a full word. Common words like "the" and "and" are usually single tokens. Less common words are split into multiple tokens.
@@ -75,12 +76,15 @@ Parameter count helps you choose the right model for your task. For simple tasks
 
 The relationship between parameters, tokens, and compute also explains why AI systems have the capabilities and limitations they do. The scale of training required to adjust billions of parameters across trillions of tokens defines the frontier of what is possible. For a deeper understanding of how these concepts come together, read about [how AI chatbots actually work](/basics/how-ai-chatbots-actually-work) and explore the [differences between AI, ML, and deep learning](/basics/ai-vs-machine-learning-vs-deep-learning).
 
-## Key Takeaways
+## If You Only Remember One Thing
 
-- Parameters are the numerical values learned during training; parameter count is a key measure of model capacity
+
+- Parameters are the numerical values learned during training; parameter count is a key measure of model capacity — took me a while to figure this out
 - Knowledge is stored in distributed patterns across many parameters, not in discrete locations
 - Tokens are the atomic units of text that models process — subword chunks mapped to numerical IDs
-- The context window limits how much text a model can process at once, defining its working memory
-- Larger context windows enable new applications but require significantly more computation
-- Token awareness helps manage costs and stay within model limits
-- Choosing the right model size means balancing capability, speed, and cost for your specific task
+- The context window limits how much text a model can process at once, defining its working memory — game changer in my workflow
+- Larger context windows enable new applications but require significantly more computation (this one actually surprised me)
+- Token awareness helps manage costs and stay within model limits — wish I'd known this six months ago
+- Choosing the right model size means balancing capability, speed, and cost for your specific task (this one actually surprised me)
+
+But is that the whole story?

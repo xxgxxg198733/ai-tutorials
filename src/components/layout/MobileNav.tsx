@@ -76,7 +76,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
                 {cat.icon} {cat.title}
               </span>
               <span className="block text-sm text-muted-foreground mt-0.5">
-                {cat.articleCount} articles
+                Browse tutorials
               </span>
             </Link>
           ))}

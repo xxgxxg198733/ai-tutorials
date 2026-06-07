@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getArticlesByCategory, getArticleMetaByCategory } from "@/lib/content-loader";
 import { getCategoryBySlug } from "@/data/categories";
-import { AdSlot } from "@/components/shared/AdSlot";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { SITE_URL } from "@/lib/constants";
 import { CATEGORY_SLUGS } from "@/lib/constants";
@@ -22,7 +21,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   if (!cat) return { title: "Category Not Found" };
 
   return {
-    title: `${cat.title} — ${cat.articleCount}+ AI Tutorials & Guides`,
+    title: `${cat.title} — AI Tutorials & Guides`,
     description: cat.description,
     keywords: cat.keywords,
     alternates: { canonical: `${SITE_URL}/${category}` },
@@ -79,11 +78,6 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           </div>
         </div>
       </section>
-
-      {/* Top Ad */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <AdSlot slot="top-banner" format="horizontal" />
-      </div>
 
       {/* Article List */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -155,11 +149,6 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           </div>
         )}
       </section>
-
-      {/* In-Feed Ad */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <AdSlot slot="bottom-banner" format="horizontal" />
-      </div>
     </>
   );
 }

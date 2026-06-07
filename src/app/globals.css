@@ -58,30 +58,6 @@ body {
   font-family: var(--font-sans, Arial, Helvetica, sans-serif);
 }
 
-/* Ad slot container styling */
-.ad-container {
-  min-height: 100px;
-  background: var(--muted);
-  border: 1px dashed var(--border);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 0.5rem;
-  overflow: hidden;
-}
-
-.ad-container::before {
-  content: "Advertisement";
-  color: var(--muted-foreground);
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
-
-.ad-container:has(ins.adsbygoogle[data-ad-status="filled"])::before {
-  display: none;
-}
-
 /* Smooth scroll */
 html {
   scroll-behavior: smooth;

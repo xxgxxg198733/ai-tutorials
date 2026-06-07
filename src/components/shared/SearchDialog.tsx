@@ -107,7 +107,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search 200+ AI tutorials..."
+              placeholder="Search AI tutorials..."
               className="flex-1 py-4 bg-transparent outline-none text-foreground placeholder:text-muted-foreground"
             />
             <button
@@ -125,7 +125,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
           <div className="max-h-80 overflow-y-auto">
             {query.trim() === "" ? (
               <div className="p-6 text-center text-muted-foreground text-sm">
-                Type to search across all 200+ AI tutorials...
+                Type to search across all AI tutorials...
               </div>
             ) : results.length === 0 ? (
               <div className="p-6 text-center text-muted-foreground text-sm">

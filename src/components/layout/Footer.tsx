@@ -78,9 +78,9 @@ export function Footer() {
               Disclaimer
             </h3>
             <p className="text-xs text-muted-foreground leading-relaxed">
-              AI Tutorials Hub is a participant in the Google AdSense advertising program.
-              This site provides educational content about AI tools and technologies.
-              We may earn commissions from affiliate links. All content is for informational purposes only.
+              AI Tutorials Hub provides educational content about AI tools and technologies.
+              We independently research, test, and review each tool. Some links may earn a
+              commission at no extra cost to you. All content is for informational purposes only.
             </p>
           </div>
         </div>

@@ -104,7 +104,7 @@ export default function ContactPage() {
                 <div>
                   <strong className="block text-sm">Email</strong>
                   <span className="text-sm text-muted-foreground">
-                    contact@aitutorialshub.com
+                    xxgxxg198733@gmail.com
                   </span>
                 </div>
               </li>

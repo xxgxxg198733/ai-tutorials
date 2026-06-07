@@ -7,7 +7,6 @@ import {
   getAllSlugs,
 } from "@/lib/content-loader";
 import { getCategoryBySlug } from "@/data/categories";
-import { AdSlot } from "@/components/shared/AdSlot";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { ArticleHeader } from "@/components/article/ArticleHeader";
 import { ArticleContent } from "@/components/article/ArticleContent";
@@ -16,6 +15,7 @@ import { Breadcrumb } from "@/components/article/Breadcrumb";
 import { RelatedArticles } from "@/components/article/RelatedArticles";
 import { ArticleNavigation } from "@/components/article/ArticleNavigation";
 import { DownloadPDFButton } from "@/components/shared/DownloadPDFButton";
+import { ArticleCTA } from "@/components/shared/ArticleCTA";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 interface ArticlePageProps {
@@ -110,23 +110,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         {/* Breadcrumb */}
         <Breadcrumb category={cat} article={article} />
 
-        {/* Top Ad Banner */}
-        <AdSlot slot="top-banner" format="horizontal" />
-
         {/* Article Header */}
         <ArticleHeader article={article} category={cat} />
-
-        {/* Ad below header */}
-        <AdSlot slot="top-banner" format="auto" className="md:hidden" />
 
         <div className="mt-8 flex gap-8">
           {/* Table of Contents (Desktop Sidebar) */}
           <aside className="hidden lg:block w-64 shrink-0">
             <div className="sticky top-24">
               <TableOfContents headings={headings} />
-              <div className="mt-6">
-                <AdSlot slot="sidebar-rectangle" format="rectangle" />
-              </div>
             </div>
           </aside>
 
@@ -134,11 +125,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className="flex-1 min-w-0 max-w-3xl">
             <ArticleContent content={article.content} />
 
-            {/* In-Article Ad */}
-            <AdSlot slot="in-article" format="auto" />
-
             {/* Article Navigation (Prev/Next) */}
             <ArticleNavigation prev={prev} next={next} />
+
+            {/* Affiliate CTA — shown only for tools with affiliate programs */}
+            {article.affiliate && (
+              <ArticleCTA
+                affiliate={article.affiliate}
+                articleSlug={article.slug}
+              />
+            )}
 
             {/* Download PDF Button */}
             <div className="mt-8 flex justify-center">
@@ -149,13 +145,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           {/* Right Sidebar (desktop only) */}
           <aside className="hidden xl:block w-72 shrink-0">
             <div className="sticky top-24">
-              <AdSlot slot="sidebar-rectangle" format="rectangle" />
-              <div className="mt-6">
-                <h3 className="font-semibold text-sm mb-3 text-muted-foreground uppercase tracking-wider">
-                  Related Articles
-                </h3>
-                <RelatedArticles articles={relatedArticles} compact />
-              </div>
+              <h3 className="font-semibold text-sm mb-3 text-muted-foreground uppercase tracking-wider">
+                Related Articles
+              </h3>
+              <RelatedArticles articles={relatedArticles} compact />
             </div>
           </aside>
         </div>
@@ -165,8 +158,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <RelatedArticles articles={relatedArticles} />
         </div>
 
-        {/* Bottom Ad */}
-        <AdSlot slot="bottom-banner" format="horizontal" />
       </article>
     </>
   );

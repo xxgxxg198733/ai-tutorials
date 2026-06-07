@@ -1,3 +1,9 @@
+export interface AffiliateInfo {
+  tool: string;
+  cta: string;
+  url: string;
+}
+
 export interface Article {
   slug: string;
   title: string;
@@ -12,6 +18,7 @@ export interface Article {
   tags: string[];
   keywords: string[];
   content: string;
+  affiliate?: AffiliateInfo;
 }
 
 export interface Category {
@@ -36,6 +43,7 @@ export interface ArticleMeta {
   coverAlt: string;
   tags: string[];
   keywords: string[];
+  affiliate?: AffiliateInfo;
 }
 
 export interface NavItem {

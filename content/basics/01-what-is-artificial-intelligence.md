@@ -31,7 +31,7 @@ It is important to understand that AI is not a single technology but rather a br
 
 ## The Different Types of AI
 
-AI systems are commonly categorized into three levels based on their capabilities. Narrow AI, also called Weak AI, is the only type that currently exists. It is designed to perform specific tasks exceptionally well — playing chess, recognizing faces in photos, translating languages, or recommending products. All AI systems in use today, including ChatGPT, self-driving car perception systems, and medical diagnosis tools, fall into this category. They are highly capable within their defined domains but cannot generalize their intelligence to unrelated tasks.
+AI systems are commonly categorized into three levels based on their capabilities. Narrow AI, also called Weak AI, is the only type that currently exists. It's designed to perform specific tasks exceptionally well — playing chess, recognizing faces in photos, translating languages, or recommending products. All AI systems in use today, including ChatGPT, self-driving car perception systems, and medical diagnosis tools, fall into this category. They're highly capable within their defined domains but can't generalize their intelligence to unrelated tasks.
 
 General AI, also called Strong AI or AGI (Artificial General Intelligence), refers to hypothetical AI systems that would possess human-level intelligence across virtually any cognitive task. An AGI system could reason, plan, learn, and communicate across any domain, much like a human. While AGI is the ultimate goal of many AI researchers, it does not yet exist, and expert opinions vary widely on when — or if — it will be achieved. Current estimates range from within the next decade to many decades away.
 
@@ -45,19 +45,20 @@ Modern AI systems, particularly the large language models and generative AI tool
 
 The training process for a large language model like ChatGPT involves feeding it enormous quantities of text data — books, articles, websites, and other written material — and having it learn to predict the next word in sequences. Through this seemingly simple task repeated billions of times, the model develops a sophisticated understanding of language, facts, reasoning patterns, and even something resembling common sense. The resulting model contains hundreds of billions of parameters — adjustable values that encode what the model has learned.
 
-When you interact with an AI chatbot, your prompt is processed through these neural networks, and the model generates a response by predicting the most appropriate sequence of words based on its training. Importantly, the model is not retrieving stored answers from a database — it is generating responses dynamically based on patterns it learned during training. This is why AI can produce novel combinations of ideas and adapt to new situations, but it is also why it can sometimes produce incorrect or nonsensical outputs.
+When you interact with an AI chatbot, your prompt is processed through these neural networks, and the model generates a response by predicting the most appropriate sequence of words based on its training. Importantly, the model isn't retrieving stored answers from a database — iit'sgenerating responses dynamically based on patterns it learned during training. This is why AI can produce novel combinations of ideas and adapt to new situations, but itit'slso why it can sometimes produce incorrect or nonsensical outputs.
 
 ## Machine Learning vs. Deep Learning vs. AI
+Here's why.
 
 These terms are often used interchangeably but refer to different levels of the AI technology stack. Artificial Intelligence is the broadest term, encompassing any technology that enables machines to perform intelligent tasks. Machine Learning is a subset of AI focused on systems that learn from data rather than following explicitly programmed rules. Deep Learning is a subset of machine learning that uses multi-layered neural networks to learn hierarchical representations of data.
 
-Traditional machine learning approaches include techniques like decision trees, support vector machines, and random forests. These methods are effective for many business applications — credit scoring, customer segmentation, fraud detection — and are typically easier to understand and interpret than deep learning models. They work well with structured data (spreadsheets, databases) and moderate amounts of training data.
+The way I see it, traditional machine learning approaches include techniques like decision trees, support vector machines, and random forests. These methods are effective for many business applications — credit scoring, customer segmentation, fraud detection — and are typically easier to understand and interpret than deep learning models. They work well with structured data (spreadsheets, databases) and moderate amounts of training data.
 
-Deep learning excels at tasks involving unstructured data — images, audio, text, video — where traditional methods struggle. Convolutional neural networks revolutionized computer vision, enabling facial recognition, medical image analysis, and autonomous driving perception. Transformer architectures, introduced in 2017, unlocked the current generation of large language models. Each layer of technological advancement has expanded the range of problems AI can address while also increasing the computational resources required.
+Honestly, deep learning excels at tasks involving unstructured data — images, audio, text, video — where traditional methods struggle. Convolutional neural networks changed computer vision, enabling facial recognition, medical image analysis, and autonomous driving perception. Transformer architectures, introduced in 2017, unlocked the current generation of large language models. Each layer of technological advancement has expanded the range of problems AI can address while also increasing the computational resources required.
 
 ## AI in Your Daily Life
 
-You encounter AI many times each day, often without realizing it. When you search on Google, AI algorithms determine the most relevant results. When you scroll through social media, AI systems curate your feed to show content you are most likely to engage with. When you use email, AI filters out spam and suggests quick replies. Your smartphone uses AI for facial recognition, voice assistants, photo enhancement, and keyboard predictions.
+You encounter AI many times each day, often without realizing it. When you search on Google, AI algorithms determine the most relevant results. When you scroll through social media, AI systems curate your feed to show content you're most likely to engage with. When you use email, AI filters out spam and suggests quick replies. Your smartphone uses AI for facial recognition, voice assistants, photo enhancement, and keyboard predictions.
 
 Streaming services like Netflix and Spotify use AI to recommend content based on your viewing and listening history. Navigation apps like Google Maps and Waze use AI to predict traffic patterns and suggest optimal routes. Online shopping platforms use AI for product recommendations, dynamic pricing, and fraud detection. Banking apps use AI to detect unusual transactions that might indicate fraud. The pervasiveness of AI in everyday technology reflects how seamlessly it has been integrated into products and services.
 
@@ -67,12 +68,13 @@ The trajectory of AI development suggests that its capabilities will continue to
 
 Developing AI literacy — understanding what AI can and cannot do, how to use AI tools effectively, and the ethical considerations around AI — is becoming as fundamental as computer literacy was in the late 20th century. You do not need to understand the mathematical details of neural networks to benefit from AI, just as you do not need to understand semiconductor physics to use a smartphone. What matters is practical knowledge: knowing which AI tools exist, how to use them effectively, and how to apply them to solve real problems.
 
-## Key Takeaways
+## What Actually Matters
 
-- AI is the development of computer systems that perform tasks requiring human-like intelligence
-- All AI today is Narrow AI — specialized for specific tasks rather than general intelligence
+
+- AI is the development of computer systems that perform tasks requiring human-like intelligence — your experience may differ, but this worked for me
+- All AI today is Narrow AI — specialized for specific tasks rather than general intelligence — your experience may differ, but this worked for me
 - Modern AI uses deep learning and neural networks trained on massive datasets
 - Machine learning is a subset of AI, and deep learning is a subset of machine learning
-- AI is already ubiquitous in daily life through search engines, social media, smartphones, and streaming services
+- AI is already ubiquitous in daily life through search engines, social media, smartphones, and streaming services — game changer in my workflow
 - AI literacy — practical knowledge of AI tools and their effective use — is an essential modern skill
-- The future belongs to those who learn to collaborate effectively with AI as an augmentation tool
+- The future belongs to those who learn to collaborate effectively with AI as an augmentation tool — took me a while to figure this out

@@ -26,6 +26,15 @@ function parseArticleFile(
 
     const slug = path.basename(filePath, ".md").replace(/^\d+-/, "");
 
+    // Parse affiliate info from frontmatter (optional)
+    const affiliate = data.affiliate
+      ? {
+          tool: data.affiliate.tool || "",
+          cta: data.affiliate.cta || `Try ${data.affiliate.tool || "this tool"} today`,
+          url: data.affiliate.url || "",
+        }
+      : undefined;
+
     return {
       slug,
       title: data.title || "",
@@ -40,6 +49,7 @@ function parseArticleFile(
       tags: data.tags || [],
       keywords: data.keywords || [],
       content,
+      affiliate,
     };
   } catch (error) {
     console.error(`Error parsing ${filePath}:`, error);
