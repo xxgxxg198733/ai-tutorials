@@ -14,7 +14,6 @@ import { TableOfContents } from "@/components/article/TableOfContents";
 import { Breadcrumb } from "@/components/article/Breadcrumb";
 import { RelatedArticles } from "@/components/article/RelatedArticles";
 import { ArticleNavigation } from "@/components/article/ArticleNavigation";
-import { DownloadPDFButton } from "@/components/shared/DownloadPDFButton";
 import { ArticleCTA } from "@/components/shared/ArticleCTA";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
@@ -136,10 +135,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               />
             )}
 
-            {/* Download PDF Button */}
-            <div className="mt-8 flex justify-center">
-              <DownloadPDFButton articleTitle={article.title} />
-            </div>
           </div>
 
           {/* Right Sidebar (desktop only) */}
