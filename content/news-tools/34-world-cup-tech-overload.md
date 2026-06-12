@@ -5,8 +5,8 @@ category: news-tools
 order: 34
 date: 2026-06-12
 readingTime: 10
-coverImage: "https://images.unsplash.com/photo-1489944440617-cf1a6dc52b14?w=1200&h=630&fit=crop"
-coverAlt: "Soccer stadium at night with high-tech equipment visible, World Cup atmosphere"
+coverImage: "/images/worldcup-cover.jpg"
+coverAlt: "Split-scene: traditional leather soccer ball vs futuristic holographic circuit ball — the clash of old and new football, AI generated via Seedream"
 tags:
   - World Cup 2026
   - Football Technology
