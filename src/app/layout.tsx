@@ -85,6 +85,7 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         {/* Google AdSense */}
         <script
           async
