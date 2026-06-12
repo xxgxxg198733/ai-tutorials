@@ -34,7 +34,7 @@ So first — the referee. In Mexico vs South Africa, the ref walks out, and I'm 
 
 And I'm like... are we watching football or a reality show? The ref runs around, he sees all the shoving, the fouls, the diving. Yeah it's kind of cool. But the whole point of football is you don't know what's gonna happen next. Now you give me the ref's first‑person view and it feels like I'm playing some VR game. And then South Africa got two red cards in the second half — the camera's shaking all over the place. Dude, I got dizzy. Felt like I was the one running for 90 minutes. No thanks.
 
-![Referee wearing head-mounted camera during World Cup match](https://images.unsplash.com/photo-1489944440617-cf1a6dc52b14?w=800&h=400&fit=crop)
+![Referee wearing head-mounted camera during World Cup match — AI generated via Seedream](/images/refcam.jpg)
 
 ## AI Offside: Millimeter Justice
 
@@ -56,7 +56,7 @@ Now here's what really bugged me. The cooling breaks. They stop the game for thr
 
 And the predictions, man. That really gave me chills. Some Chinese tech company — I'm not gonna name names — before the games they said Mexico 2‑0 South Africa, South Korea 2‑1 Czech Republic. I laughed. If football can be calculated, why bother playing? Then I woke up the next morning and both scores were right. They even said South Africa would get a red card. How? They don't care about history or "magic" — just altitude, temperature, humidity, player fitness data. Cold, hard numbers. I got chills. The whole point of football is the upset. The underdog winning. If big data can guess every result before kickoff, why stay up all night? Just read the prediction report.
 
-![Soccer field with overlay of data analytics and technology graphics](https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&h=400&fit=crop)
+![Soccer field with futuristic holographic data overlays — AI generated via Seedream](/images/datafield.jpg)
 
 ## What I Miss
 
