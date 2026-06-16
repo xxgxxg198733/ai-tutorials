@@ -5,8 +5,8 @@ category: monetization
 order: 1
 date: 2026-06-01
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1553729459-afe8f2e2edb2?w=1200&h=630&fit=crop"
-coverAlt: "Person making money online with AI tools displayed on laptop screen"
+coverImage: "/images/monetization-cover.jpg"
+coverAlt: "Modern home office with laptop showing AI content creation, coffee and notebook on desk — AI generated via Seedream"
 tags:
   - AI Monetization
   - Content Creation
@@ -31,7 +31,7 @@ I'm telling you this upfront because there's way too much hype about "making pas
 
 This article covers what I've actually tried and what I've actually earned. No inflated numbers. No promises. Just what worked for me and what didn't.
 
-![Freelancer using AI tools to create content and earn money](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&h=400&fit=crop)
+![Modern home office desk with AI content creation workspace — AI generated via Seedream](/images/monetization-cover.jpg)
 
 ## AI-Assisted Blogging: The Slow Burn
 
