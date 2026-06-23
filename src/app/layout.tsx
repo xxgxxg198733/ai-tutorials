@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/shared/ThemeProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { BackToTop } from "@/components/shared/BackToTop";
+import { Analytics } from "@vercel/analytics/react";
 import { CookieConsent } from "@/components/shared/CookieConsent";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/constants";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -117,6 +118,7 @@ export default function RootLayout({
           <Footer />
           <BackToTop />
           <CookieConsent />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
