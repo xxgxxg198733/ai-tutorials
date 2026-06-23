@@ -28,10 +28,8 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_BRANCH: ${{ github.ref_name }}
 
-      - name: Trigger Vercel deploy
-        run: |
-          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}" > /dev/null
+      # Vercel auto-deploys on push — no manual trigger needed

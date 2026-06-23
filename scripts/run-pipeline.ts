@@ -6,7 +6,7 @@
  * Required env vars:
  *   DEEPSEEK_API_KEY   — for content rewriting
  *   PEXELS_API_KEY     — for image fetching
- *   GITHUB_TOKEN       — for committing files
+ *   GH_TOKEN           — for committing files
  *   GITHUB_REPO        — "owner/repo"
  *   GITHUB_BRANCH      — branch name (defaults to "main")
  */
@@ -16,7 +16,7 @@ import { runPipeline } from "../src/lib/pipeline";
 async function main() {
   console.log("=== AI Content Pipeline ===\n");
 
-  const required = ["DEEPSEEK_API_KEY", "PEXELS_API_KEY", "GITHUB_TOKEN", "GITHUB_REPO"];
+  const required = ["DEEPSEEK_API_KEY", "PEXELS_API_KEY", "GH_TOKEN", "GITHUB_REPO"];
   const missing = required.filter((k) => !process.env[k]);
 
   if (missing.length > 0) {

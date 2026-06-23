@@ -8,7 +8,7 @@ import { rewriteArticle } from "./rewriter";
 import { fetchCoverImage, fetchInlineImage } from "./pexels";
 import type { RawArticle } from "./fetcher";
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
+const GITHUB_TOKEN = process.env.GH_TOKEN || "";
 const GITHUB_REPO = process.env.GITHUB_REPO || ""; // "owner/repo"
 const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
 
