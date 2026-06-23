@@ -1,5 +1,5 @@
 /**
- * AI-powered content rewriter.
+ * AI-powered content rewriter — uses DeepSeek API.
  * Takes a raw article and rewrites it with strict human-voice instructions.
  * Output: 1200+ words, no AI-isms, personal anecdotes, varied structure.
  */
@@ -8,7 +8,8 @@ import { categorize } from "./categorizer";
 import { nextAuthor } from "./authors";
 import type { RawArticle } from "./fetcher";
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || "";
+const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
+const DEEPSEEK_BASE = "https://api.deepseek.com/v1/chat/completions";
 
 interface RewrittenArticle {
   title: string;
@@ -37,13 +38,13 @@ const SYSTEM_PROMPT = `You are a professional tech journalist with 15 years of e
 
 CRITICAL: Write at least 1200 words. Include at least 2 places where you reference the original source with "According to [Source Name]..." or "[Source Name] reported that...".
 
-The output format is Markdown with H2 headings. Include exactly one image placeholder: ![description](IMAGE_PLACEHOLDER)`;
+The output MUST be valid JSON only (no markdown wrapping). Format: {"title":"...","description":"...","content":"Markdown with H2 headings, include ![description](IMAGE_PLACEHOLDER) once","tags":["tag1","tag2","tag3"],"keywords":["kw1","kw2","kw3","kw4","kw5"],"imageQuery":"short phrase for image search"}`;
 
 export async function rewriteArticle(
   raw: RawArticle
 ): Promise<RewrittenArticle | null> {
-  if (!ANTHROPIC_API_KEY) {
-    console.error("ANTHROPIC_API_KEY not configured");
+  if (!DEEPSEEK_API_KEY) {
+    console.error("DEEPSEEK_API_KEY not configured");
     return null;
   }
 
@@ -56,39 +57,43 @@ Source: ${raw.source} (${raw.url})
 Summary: ${raw.description}
 Published: ${raw.publishedAt}
 
-Rewrite this into a 1200+ word article for a general tech audience. Follow your writing style exactly. Include a compelling title (not clickbait), a one-sentence description, and 3-5 relevant tags. The article category is: ${category}. The author is ${author}. Reference the original source at least twice using "According to ${raw.source}..." or similar phrasing.
+Rewrite this into a 1200+ word article. Category: ${category}. Author: ${author}.
+Reference source at least twice: "According to ${raw.source}..."
 
-Output as a JSON object with fields: title, description, content (Markdown with H2 headings), tags (array of 3-5 strings), keywords (array of 5-8 strings), imageQuery (a short phrase describing what image to pair with this article).`;
+Output ONLY valid JSON (no markdown wrapping around the JSON):`;
 
   try {
-    const res = await fetch("https://api.anthropic.com/v1/messages", {
+    const res = await fetch(DEEPSEEK_BASE, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
+        Authorization: `Bearer ${DEEPSEEK_API_KEY}`,
       },
       body: JSON.stringify({
-        model: "claude-sonnet-4-6",
-        max_tokens: 3000,
-        system: SYSTEM_PROMPT,
-        messages: [{ role: "user", content: userMessage }],
+        model: "deepseek-chat",
+        messages: [
+          { role: "system", content: SYSTEM_PROMPT },
+          { role: "user", content: userMessage },
+        ],
+        max_tokens: 4096,
+        temperature: 0.8,
       }),
-      signal: AbortSignal.timeout(60000),
+      signal: AbortSignal.timeout(90000),
     });
 
     if (!res.ok) {
-      console.error(`Anthropic API error ${res.status}: ${await res.text()}`);
+      const errText = await res.text();
+      console.error(`DeepSeek API error ${res.status}: ${errText}`);
       return null;
     }
 
     const data = await res.json();
-    const text = data.content?.[0]?.text || "";
+    const text = data.choices?.[0]?.message?.content || "";
 
     // Parse JSON from response
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     if (!jsonMatch) {
-      console.error("Failed to parse JSON from rewrite response");
+      console.error("Failed to parse JSON from rewrite response:", text.slice(0, 200));
       return null;
     }
 
@@ -106,8 +111,8 @@ Output as a JSON object with fields: title, description, content (Markdown with 
       keywords: parsed.keywords || [],
       imageQuery: parsed.imageQuery || raw.title,
     };
-  } catch (err) {
-    console.error("Rewrite failed:", err);
+  } catch (err: any) {
+    console.error("Rewrite failed:", err.message);
     return null;
   }
 }
