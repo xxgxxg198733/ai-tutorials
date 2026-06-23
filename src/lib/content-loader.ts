@@ -110,7 +110,7 @@ function getCachedArticles(): Article[] {
 export function getArticlesByCategory(category: string): Article[] {
   return getCachedArticles()
     .filter((a) => a.category === category)
-    .sort((a, b) => a.order - b.order);
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
 /**
