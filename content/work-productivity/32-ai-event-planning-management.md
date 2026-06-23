@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 32
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200"
-coverAlt: "Large conference event with attendees and stage setup"
+coverImage: "/images/auto/pexels-ai-event-planning-and-management.jpg"
+coverAlt: "Large audience gathered in a spacious auditorium for a presentation or event with stage view."
 tags:
   - event planning
   - event management

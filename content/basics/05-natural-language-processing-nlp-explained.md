@@ -5,8 +5,8 @@ category: basics
 order: 5
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1586339949916-3e5487c21c39?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of natural language processing with text and code"
+coverImage: "/images/auto/pexels-natural-language-processing-nlp-explaine.jpg"
+coverAlt: "Close-up image featuring detailed programming code on a computer screen, ideal for tech-related themes."
 tags:
   - Natural Language Processing
   - NLP
@@ -42,7 +42,7 @@ What surprised me was context dependence adds another layer of complexity. Words
 
 Reference resolution is another significant challenge. When a paragraph uses pronouns like "it," "they," or "that," the NLP system must determine what each pronoun refers to. In a sentence like "The trophy wouldn't fit in the suitcase because it was too big," humans immediately know "it" refers to the trophy based on world knowledge. But in "The trophy would not fit in the suitcase because it was too small," the referent shifts to the suitcase. This kind of reasoning requires understanding the physical properties of objects and the constraints of the situation — knowledge that must be learned or programmed into the system.
 
-![A visualization of text being analyzed by an NLP system showing word relationships](https://images.unsplash.com/photo-1555421689-491a97ff2040?w=800&h=400&fit=crop)
+![Close-up image featuring detailed programming code on a computer screen, ideal for tech-related themes.](/images/auto/pexels-natural-language-processing-nlp-explaine.jpg)
 
 ## Key NLP Tasks and Techniques
 

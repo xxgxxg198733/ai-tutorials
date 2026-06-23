@@ -5,8 +5,8 @@ category: "basics"
 order: 33
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200"
-coverAlt: "Network of connected edge devices representing distributed AI computing"
+coverImage: "/images/auto/pexels-understanding-edge-ai-and-on-device-ml.jpg"
+coverAlt: "Detailed close-up of a computer circuit board showcasing electronic components."
 tags:
   - Edge AI
   - On-Device ML
@@ -39,7 +39,7 @@ The successful deployment of edge AI depends critically on specialized hardware 
 
 Beyond smartphones, a diverse ecosystem of edge AI hardware has emerged. **Microcontroller-class devices** like the Arduino Nicla Vision and Espressif ESP32-S3 bring basic AI capability to ultra-low-power devices running on coin cell batteries, enabling applications like keyword spotting, anomaly detection, and simple image classification in IoT sensors. These devices run **TinyML** — machine learning on microcontrollers with as little as 256KB of RAM and 2MB of flash storage. **Single-board computers** like the NVIDIA Jetson series (Orin, Xavier NX) and Google Coral provide more capable edge AI for robotics, drones, and smart cameras, supporting complex models with GPU acceleration. **Edge servers** from Dell, HPE, and AWS (Outposts, Snowball Edge) bring intermediate compute capacity between device and cloud for applications needing more power than a device but lower latency than the cloud. **Custom AI accelerators** like Intel's Movidius, Google's Edge TPU, and Hailo-8 provide specialized inference chips optimized for specific deployment scenarios. For more on how these models are optimized for edge deployment, see our article on [AI model compression and optimization](/basics/ai-model-compression-and-optimization).
 
-![Edge AI hardware stack from microcontrollers to edge servers](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800)
+![Detailed close-up of a computer circuit board showcasing electronic components.](/images/auto/pexels-understanding-edge-ai-and-on-device-ml.jpg)
 
 ## Model Optimization for Edge Deployment
 

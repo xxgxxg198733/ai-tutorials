@@ -5,8 +5,8 @@ category: daily-life
 order: 6
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1558002038-1055907df827?w=1200&h=630&fit=crop"
-coverAlt: "Smart home control panel with modern living room interior"
+coverImage: "/images/auto/pexels-ai-home-automation-and-smart-living-your.jpg"
+coverAlt: "Interior of contemporary light apartment with couch with pillows near table on carpet and cabinet with TV on wall with speakers near lamps on ceiling"
 tags:
   - Smart Home
   - Home Automation
@@ -33,7 +33,7 @@ The key difference between traditional smart home devices and AI-powered systems
 
 I'll be honest: true AI home automation integrates multiple systems so they work together intelligently. When you say goodnight, the AI doesn't just turn off the lights. It adjusts the thermostat, locks the doors, arms the security system, ensures all appliances are in safe modes, and sets the morning alarm based on your calendar. This coordinated intelligence transforms individual smart devices into a genuinely smart home.
 
-![Smart home dashboard showing connected devices and energy usage analytics](https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=400&fit=crop)
+![Interior of contemporary light apartment with couch with pillows near table on carpet and cabinet with TV on wall with speakers near lamps on ceiling](/images/auto/pexels-ai-home-automation-and-smart-living-your.jpg)
 
 ## AI Lighting and Climate Control
 

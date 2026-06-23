@@ -5,8 +5,8 @@ category: "basics"
 order: 30
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
-coverAlt: "Split visualization comparing training and inference phases of AI models"
+coverImage: "/images/auto/pexels-understanding-ai-inference-vs-training.jpg"
+coverAlt: "Abstract black and white graphic featuring a multimodal model pattern with various shapes."
 tags:
   - Model Training
   - Inference
@@ -37,7 +37,7 @@ The training phase is where the model learns its parameters (weights and biases)
 
 The backward pass implements **backpropagation**, the algorithm that makes deep learning feasible. Starting from the loss value, the algorithm computes the gradient of the loss with respect to every parameter in the network using the chain rule of calculus. These gradients indicate the direction and magnitude of adjustment needed for each parameter to reduce the loss. An **optimizer** (like SGD, Adam, or AdamW) then updates the parameters using these gradients, adjusting them by a small amount determined by the **learning rate**. This forward-backward-update cycle repeats over the entire training dataset multiple times (epochs), gradually converging to a set of parameters that minimizes the loss. Training requires storing all the intermediate activations from the forward pass for use during backpropagation, which means memory requirements during training are typically 3-4 times higher than during inference for the same model. Training also requires gradients to flow through the entire network, necessitating high numerical precision (FP32 or mixed FP16/FP32) and specialized hardware like GPUs or TPUs optimized for the matrix operations that dominate both forward and backward passes.
 
-![Diagram comparing the forward pass during inference with the forward and backward passes during training](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
+![Abstract black and white graphic featuring a multimodal model pattern with various shapes.](/images/auto/pexels-understanding-ai-inference-vs-training.jpg)
 
 ## The Inference Phase: Applying Learned Knowledge
 

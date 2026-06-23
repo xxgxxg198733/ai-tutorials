@@ -5,8 +5,8 @@ category: news-tools
 order: 15
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&h=630&fit=crop"
-coverAlt: "Movie theater screen with AI-generated visual effects and cinematic imagery"
+coverImage: "/images/auto/pexels-how-ai-is-changing-the-film-and-entertai.jpg"
+coverAlt: "A group of people in a cinema watching a 3D movie wearing glasses, sitting in a dark theater."
 tags:
   - AI Film Industry
   - AI Entertainment
@@ -40,7 +40,7 @@ Major studios and streaming platforms are using AI for script analysis, evaluati
 
 The Writers Guild agreements established in 2024 and 2025 set important precedents for AI use in professional screenwriting. These agreements preserved the requirement for human authorship in credited writing while allowing writers to use AI tools as part of their creative process. The agreements also established transparency requirements, ensuring that producers disclose when AI-generated material is being incorporated into projects. This regulatory framework has provided clarity that allows writers and studios to explore AI collaboration while protecting the creative and economic interests of human writers.
 
-![AI-powered visual effects being created on a studio workstation](https://images.unsplash.com/photo-1598899134731-147be1882d27?w=800&h=450&fit=crop)
+![A group of people in a cinema watching a 3D movie wearing glasses, sitting in a dark theater.](/images/auto/pexels-how-ai-is-changing-the-film-and-entertai.jpg)
 
 ## AI Visual Effects and Post-Production
 

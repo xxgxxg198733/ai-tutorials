@@ -5,8 +5,8 @@ category: "basics"
 order: 26
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
-coverAlt: "Dashboard-like visualization showing AI benchmark scores and metrics"
+coverImage: "/images/auto/pexels-understanding-ai-benchmarks-and-evaluati.jpg"
+coverAlt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
 tags:
   - AI Evaluation
   - Benchmarks
@@ -37,7 +37,7 @@ Natural language understanding has one of the richest ecosystems of evaluation b
 
 The **MMLU (Massive Multitask Language Understanding)** benchmark, introduced in 2020, has become the gold standard for evaluating the breadth of knowledge in LLMs. MMLU covers 57 subjects across STEM, humanities, social sciences, and other domains, testing knowledge at high school to professional level. Models answer multiple-choice questions covering subjects from abstract algebra to world history. MMLU scores are widely reported and compared, and human expert baselines provide a reference point. **HellaSwag** tests commonsense reasoning by asking models to choose the most plausible ending for a narrative, requiring understanding of everyday situations and physical world dynamics. **TruthfulQA** specifically measures model tendency to produce false or misleading information, testing whether models can recognize and avoid common misconceptions. For more on how these models process language, see our guide on [the transformer architecture](/basics/the-transformer-architecture-explained).
 
-![Visual comparison of different AI benchmark scores across model families](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800)
+![Abstract visualization of data analytics with graphs and charts showing dynamic growth.](/images/auto/pexels-understanding-ai-benchmarks-and-evaluati.jpg)
 
 ## Reasoning and Problem-Solving Benchmarks
 

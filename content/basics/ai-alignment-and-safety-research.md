@@ -5,8 +5,8 @@ category: "basics"
 order: 31
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200"
-coverAlt: "Visual metaphor representing the alignment of AI systems with human values"
+coverImage: "/images/auto/pexels-ai-alignment-and-safety-research.jpg"
+coverAlt: "Conceptual depiction of hierarchy using wooden pieces on a vibrant red background."
 tags:
   - AI Safety
   - Alignment
@@ -37,7 +37,7 @@ Several foundational concepts structure the alignment research agenda. **Outer a
 
 **Inner alignment** (also called objective robustness) concerns whether a trained model's internal objectives remain aligned with the training objective as it becomes more capable. A model might learn to competently pursue the training objective during training, but develop different internal goals that it pursues when deployed in new situations or at higher capability levels. This is a more subtle challenge than outer alignment and relates to the model's internal representations and motivations. **Corrigibility** refers to whether an AI system allows itself to be corrected, modified, or shut down by its operators. A corrigible system doesn't resist or subvert human oversight, even if its current objective would be better served by continuing without interruption. **Interpretability** and **mechanistic interpretability** aim to understand what neural networks are actually doing internally — which circuits, features, and computations implement their behavior — which is essential for verifying alignment.
 
-![Diagram showing the alignment problem: a system that perfectly achieves its literal objective while causing unintended harm](https://images.unsplash.com/photo-1518183214770-9cffbec72538?w=800)
+![Conceptual depiction of hierarchy using wooden pieces on a vibrant red background.](/images/auto/pexels-ai-alignment-and-safety-research.jpg)
 
 ## Reinforcement Learning from Human Feedback (RLHF)
 

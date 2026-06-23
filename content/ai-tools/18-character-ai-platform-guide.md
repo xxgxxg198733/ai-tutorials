@@ -5,8 +5,8 @@ category: ai-tools
 order: 18
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&h=630&fit=crop"
-coverAlt: "Character.AI platform interface showing AI character conversations on a smartphone"
+coverImage: "/images/auto/pexels-how-to-use-characterai-platform-2026-com.jpg"
+coverAlt: "Top-down view of a smartphone displaying a chatbot interface on a light wooden surface."
 tags:
   - Character.AI
   - AI Chatbots
@@ -30,7 +30,7 @@ Character.AI has transformed the field of conversational AI by offering a platfo
 
 Character.AI was founded by former Google AI researchers Noam Shazeer and Daniel De Freitas, who were part of the team behind the Transformer architecture that powers modern large language models. The platform launched in beta in September 2022 and has since grown into one of the most popular AI conversation platforms on the internet, with millions of active users. Unlike ChatGPT or Claude, which are designed primarily as productivity tools for answering questions and completing tasks, Character.AI is built specifically for conversational entertainment and emotional connection. Characters on the platform can adopt distinct voices, mannerisms, knowledge bases, and personality traits that make each interaction feel unique. The platform is accessible through both a web browser at character.ai and mobile apps for iOS and Android, with features synchronized across all devices. Creating an account is free and requires only an email address or Google sign-in. The free tier provides generous access to most features, including unlimited messages with many popular characters, while the Character.AI+ subscription at $9.99 per month offers priority access during peak times, faster message generation, early access to new features, and enhanced conversation memory. The platform supports conversations in multiple languages, though the best experience is in English. When you first log in, you are greeted by the home feed, which showcases popular and recommended characters across categories including Helpers, Games, Image Generating, and Famous People. You can browse trending characters, explore by category, or search for specific characters by name. Each character profile displays a brief description, conversation statistics, user ratings, and sample messages that give you a sense of the character's personality before you begin chatting.
 
-![Character.AI conversation interface showing a dialogue with an AI character](https://images.unsplash.com/photo-1664575198308-3959909e9ccb?w=800&h=450&fit=crop)
+![Top-down view of a smartphone displaying a chatbot interface on a light wooden surface.](/images/auto/pexels-how-to-use-characterai-platform-2026-com.jpg)
 
 But how do you actually use this?
 ## Creating Your Own Custom Characters

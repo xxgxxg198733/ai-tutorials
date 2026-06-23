@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 22
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200"
-coverAlt: "Product management team reviewing roadmap and analytics in a collaborative session"
+coverImage: "/images/auto/pexels-ai-for-product-management-workflows.jpg"
+coverAlt: "Multiracial group of colleagues speaking and checking documents at table in contemporary conference hall"
 tags:
   - product management
   - AI product tools

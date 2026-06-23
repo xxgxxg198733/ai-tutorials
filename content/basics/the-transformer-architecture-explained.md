@@ -5,8 +5,8 @@ category: "basics"
 order: 24
 date: 2026-06-03
 readingTime: 16
-coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200"
-coverAlt: "Visualization of transformer architecture showing connected attention layers"
+coverImage: "/images/auto/pexels-the-transformer-architecture-explained.jpg"
+coverAlt: "Abstract image featuring digital cubes with vibrant LED lighting effects, representing technology."
 tags:
   - Transformer
   - Architecture
@@ -38,7 +38,7 @@ At the heart of the transformer architecture lies the **self-attention mechanism
 
 These attention scores are then passed through a softmax function to produce attention weights that sum to 1, which are used to compute a weighted sum of the Value vectors. The result is that each position's output is a context-aware mixture of information from all other positions. This formulation has several crucial properties. It captures **long-range dependencies** effortlessly — information can flow directly between any two positions, regardless of distance. It is **permutation-equivariant** — the output for a given token depends on all other tokens through the attention weights. It enables **parallel computation** — all attention scores for all positions can be computed simultaneously using matrix operations, unlike RNNs which require sequential processing. The "multi-head" aspect of multi-head attention runs multiple attention operations in parallel with different learned projections, allowing the model to attend to information from different representation subspaces at different positions.
 
-![Transformer architecture diagram showing the encoder-decoder structure with attention mechanisms](https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800)
+![Abstract image featuring digital cubes with vibrant LED lighting effects, representing technology.](/images/auto/pexels-the-transformer-architecture-explained.jpg)
 
 ## The Encoder-Decoder Structure
 Really well, actually.

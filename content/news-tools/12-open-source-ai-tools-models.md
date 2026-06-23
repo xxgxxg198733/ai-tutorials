@@ -5,8 +5,8 @@ category: news-tools
 order: 12
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=630&fit=crop"
-coverAlt: "Open source code displayed on a monitor with AI-related repositories"
+coverImage: "/images/auto/pexels-open-source-ai-tools-and-models-guide.jpg"
+coverAlt: "Detailed view of Ruby on Rails code highlighting software development intricacies."
 tags:
   - Open Source AI
   - Open Source LLMs
@@ -40,7 +40,7 @@ Mistral AI has emerged as a leading European open source AI company, releasing m
 
 The open source ecosystem also includes numerous specialized models. CodeLlama provides optimized coding capabilities for developers. Meditron offers specialized medical knowledge for healthcare applications. FinGPT brings financial domain expertise. These specialized models, created through fine-tuning base models on domain-specific data, demonstrate the power of open source to create tailored solutions for specific industries and use cases. The Hugging Face model hub now hosts over a million models, representing an unprecedented resource for AI practitioners.
 
-![Open source AI tools running on a developer's workstation](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=450&fit=crop)
+![Detailed view of Ruby on Rails code highlighting software development intricacies.](/images/auto/pexels-open-source-ai-tools-and-models-guide.jpg)
 
 ## Open Source Image and Multi-Modal Models
 Game changer.

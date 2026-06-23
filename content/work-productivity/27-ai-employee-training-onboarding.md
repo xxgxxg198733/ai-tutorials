@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 27
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200"
-coverAlt: "New employees participating in an interactive training session"
+coverImage: "/images/auto/pexels-ai-for-employee-training-and-onboarding.jpg"
+coverAlt: "A diverse group of professionals attentively listening at a conference seminar."
 tags:
   - employee training
   - onboarding

@@ -5,8 +5,8 @@ category: ai-tools
 order: 32
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&h=630&fit=crop"
-coverAlt: "Pika AI video generation interface showing AI-created video clips with editing controls and style options"
+coverImage: "/images/auto/pexels-pika-ai-video-generation-guide-2026-crea.jpg"
+coverAlt: "Close-up of a video editing software interface showing timeline and controls."
 tags:
   - Pika AI
   - AI Video Generation
@@ -30,7 +30,7 @@ Pika AI has rapidly emerged as one of the most innovative and accessible AI vide
 
 Pika AI is accessible through a web browser at pika.art and through an official Discord server where the community shares creations and techniques. The web interface is the primary creation platform, offering a clean, intuitive design that lowers the barrier to entry for AI video creation. To get started, sign up with your email address or Google account. Pika offers a free tier that provides 500 credits per month (typically enough for 50 to 100 short video generations depending on quality settings). The paid plans include the Basic plan at $10 per month (2,500 credits, 720p resolution, longer clip length), the Pro plan at $28 per month (7,000 credits, 1080p resolution, commercial usage rights, priority processing), and the Unlimited plan at $56 per month (unlimited generations, 4K resolution, all features, early access to new models). Each video generation consumes credits based on the clip length, resolution, and generation type -- standard short clips (3 seconds) consume fewer credits than extended clips (10+ seconds) or high-resolution generations. When you access the Pika web interface, you are presented with the main generation dashboard. The central input area accepts your text prompt, with options to include a reference image, a starting video, or both. Below the input area are controls for generation parameters: aspect ratio (16:9, 9:16, 1:1, 4:3, 2.39:1 cinematic), motion scale (how much motion the AI generates, from subtle to dramatic), negative prompt (what you do not want in the video), and seed (for reproducible results). A library of style presets lets you apply specific visual aesthetics: Cinematic (film-like quality with depth of field and color grading), Anime (stylized animation), 3D Render (CGI-like appearance), Pixel Art (retro game aesthetic), Claymation (stop-motion look), and dozens more. Each preset modifies the AI's generation parameters to produce a distinct visual style. The generated video appears in a preview player where you can play it, download it, share it, or use it as input for further editing. Pika also provides a "Video to Video" feature where you can upload an existing video and transform its style while preserving the motion and structure. For example, you could upload a video of someone dancing shot on a smartphone and transform it into a cinematic film noir scene with period-appropriate styling, or convert a live-action video into a fully animated cartoon.
 
-![Pika AI video generation editor showing prompt input with style presets and generated video preview](https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=450&fit=crop)
+![Close-up of a video editing software interface showing timeline and controls.](/images/auto/pexels-pika-ai-video-generation-guide-2026-crea.jpg)
 
 ## Mastering Prompts for AI Video Generation
 

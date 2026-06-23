@@ -6,8 +6,8 @@ order: 1
 date: 2026-06-01
 updatedDate: 2026-06-07
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
-coverAlt: "ChatGPT interface on a laptop screen showing AI conversation"
+coverImage: "/images/auto/pexels-chatgpt-complete-guide-2026-from-beginne.jpg"
+coverAlt: "Close-up of a smartphone showing a chat interface with a laptop in the background."
 tags:
   - ChatGPT
   - OpenAI
@@ -42,7 +42,7 @@ The free tier gives you access to a capable model with reasonable usage limits. 
 
 ChatGPT Plus costs $20/month and gets you access to the latest models, faster responses, priority during busy periods, and extras like image generation and advanced data analysis. If you use it professionally — writing, coding, research — the upgrade pays for itself. If you're just curious, stick with free until you hit a wall.
 
-![ChatGPT interface showing the chat window and sidebar](https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&h=400&fit=crop)
+![Close-up of a smartphone showing a chat interface with a laptop in the background.](/images/auto/pexels-chatgpt-complete-guide-2026-from-beginne.jpg)
 
 Here's my first piece of real advice: how you phrase your prompt is everything. A vague question gets a vague answer. "Tell me about AI" is useless. "Explain how large language models work, using analogies a high school student would understand, in about 300 words" — that gets you something actually helpful.
 

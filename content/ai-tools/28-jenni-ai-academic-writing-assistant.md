@@ -5,8 +5,8 @@ category: ai-tools
 order: 28
 date: 2026-06-03
 readingTime: 10
-coverImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
-coverAlt: "Jenni AI academic writing interface showing essay editing with citation suggestions and formatting tools"
+coverImage: "/images/auto/pexels-jenni-ai-academic-writing-assistant-2026.jpg"
+coverAlt: "A laptop screen showing a code editor with a cute orange crab plush toy beside it."
 tags:
   - Jenni AI
   - Academic Writing
@@ -33,7 +33,7 @@ Jenni AI has emerged as one of the most specialized and effective AI writing ass
 
 Jenni AI is designed specifically for academic writing, which means it approaches content generation differently than marketing-focused AI tools. The platform prioritizes accuracy, citation, and scholarly tone over persuasive or sales-oriented language. To begin, visit jenni.ai and create an account. The free tier provides 600 AI words per day, which is sufficient for light use like drafting paragraphs or improving specific sections. For serious academic work, the Unlimited plan at $20 per month (or $15 per month billed annually) removes word limits and unlocks all features including advanced citation management, plagiarism checks, and priority support. The platform also offers a 7-day free trial of the Unlimited plan so you can evaluate all features before committing. When you first log in, Jenni AI presents a clean, distraction-free editor that resembles a simplified word processor. The main editing area is where you write your document, with the AI assistant accessible through a sidebar panel and through keyboard shortcuts. Jenni AI supports writing in over 20 languages and can translate academic content between languages while maintaining scholarly terminology and citation formatting. The platform works with all major academic style guides including APA 7th edition, MLA 9th edition, Chicago Manual of Style (both notes-bibliography and author-date), Harvard referencing, Vancouver style, IEEE, and thousands of specific journal style guides. When you start a new document, you can specify your target style guide, and Jenni AI will automatically format all citations, references, and in-text citations according to that style. This style awareness extends to the AI's writing suggestions -- it understands that academic writing requires formal tone, precise language, evidence-based claims, and proper attribution, and it generates content that meets these standards. The editor includes a word counter, readability score, and citation count, helping you track your progress toward academic writing goals.
 
-![Jenni AI academic editor showing in-line citation suggestions and paraphrasing tools in a research paper](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=450&fit=crop)
+![A laptop screen showing a code editor with a cute orange crab plush toy beside it.](/images/auto/pexels-jenni-ai-academic-writing-assistant-2026.jpg)
 
 ## Core Writing Features: Autocomplete, Paraphrase, and Completion
 

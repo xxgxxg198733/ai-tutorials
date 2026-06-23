@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 26
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200"
-coverAlt: "Content marketing team planning editorial calendar and publishing schedule"
+coverImage: "/images/auto/pexels-ai-content-calendar-and-publishing-workf.jpg"
+coverAlt: "Close-up of a notebook page with 'Content Strategy' written on it, ideal for business planning visuals."
 tags:
   - content marketing
   - editorial calendar

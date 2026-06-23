@@ -5,8 +5,8 @@ category: "daily-life"
 order: 26
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200"
-coverAlt: "Open book with a smartphone displaying an AI reading app next to it"
+coverImage: "/images/auto/pexels-ai-book-recommendations-and-reading-tool.jpg"
+coverAlt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
 tags: ["book recommendations", "reading apps", "AI books", "literary analysis", "reading tools"]
 keywords: ["AI book recommendation", "reading app AI", "personalized book finder", "AI reading companion", "book discovery tool", "smart note-taking app", "literary analysis AI", "reading tracker app", "book summarizer AI", "digital reading assistant"]
 ---
@@ -21,7 +21,7 @@ The core challenge in book discovery is that a reader's taste is multidimensiona
 
 The technology behind these recommendations has evolved significantly from simple collaborative filtering. Modern AI book recommenders use natural language processing to analyze the actual text of books, identifying stylistic fingerprints, thematic patterns, and narrative structures. This allows them to recommend books based on literary qualities rather than just genre or author similarity. For example, if you love the intricate world-building of Brandon Sanderson but find his prose style too direct, an AI might recommend Susanna Clarke, whose complex world-building is paired with a more literary prose style—a connection that would be invisible to a simpler recommendation engine. Some platforms now offer "reading personality" assessments that analyze your preferences across multiple dimensions—plot-driven versus character-driven, fast-paced versus leisurely, optimistic versus dark—providing a detailed profile that generates remarkably accurate recommendations.
 
-![Person reading a book while using a tablet with AI reading tools](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800)
+![Close-up of a smartphone displaying ChatGPT app held over AI textbook.](/images/auto/pexels-ai-book-recommendations-and-reading-tool.jpg)
 
 ## AI Reading Companions and Interactive Books
 

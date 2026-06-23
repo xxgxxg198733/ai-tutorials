@@ -5,8 +5,8 @@ category: ai-tools
 order: 10
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&h=630&fit=crop"
-coverAlt: "Adobe Firefly AI design interface on a tablet with creative tools"
+coverImage: "/images/auto/pexels-adobe-firefly-ai-design-tutorial-2026-ge.jpg"
+coverAlt: "A man indoors wearing a VR headset while writing on a tablet with a stylus pen."
 tags:
   - Adobe Firefly
   - AI Design
@@ -34,7 +34,7 @@ That's the short version.
 
 Adobe Firefly is Adobe's generative AI suite, offering text-to-image generation, generative fill, text effects, and recolor capabilities. What distinguishes Firefly from competitors like Midjourney and DALL-E 3 is its commercial safety -- Firefly's models are trained on Adobe Stock images, openly licensed content, and public domain works, meaning the outputs are legally safer for commercial use than models trained on web-scraped data. Adobe also provides Content Credentials, a digital "nutrition label" that attaches attribution data to AI-generated images, supporting transparency and proper attribution. Firefly is accessible through multiple entry points. The primary web application is firefly.adobe.com, which provides a standalone interface for image generation, text effects, and design templates. For Creative Cloud subscribers, Firefly is embedded directly into Photoshop (Generative Fill and Generative Expand), Illustrator (Generative Recolor and text-to-vector), and Adobe Express (text-to-image and design templates). Firefly is included in Creative Cloud plans based on a "generative credit" system. Free users receive a limited number of monthly credits (typically 25), while paid Creative Cloud subscribers get a larger allocation (usually 250 or more depending on the plan). Additional credits can be purchased as needed. Enterprise customers can negotiate custom credit allocations and get enhanced security and compliance features. The credit system applies across all Firefly entry points -- using Generative Fill in Photoshop consumes the same credits as generating a new image on the web interface. For heavy users, Adobe also offers a Firefly standalone subscription that provides more credits without requiring a full Creative Cloud subscription. This flexible access model means Firefly is available whether you are a casual user experimenting with AI or a professional designer integrating AI into daily workflows.
 
-![Adobe Firefly interface showing generative image creation tools](https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&h=450&fit=crop)
+![A man indoors wearing a VR headset while writing on a tablet with a stylus pen.](/images/auto/pexels-adobe-firefly-ai-design-tutorial-2026-ge.jpg)
 
 ## Text-to-Image Generation and Prompt Techniques
 

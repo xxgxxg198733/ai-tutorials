@@ -5,8 +5,8 @@ category: ai-tools
 order: 9
 date: 2026-06-03
 readingTime: 10
-coverImage: "https://images.unsplash.com/photo-1654277041218-35624ba1ebce?w=1200&h=630&fit=crop"
-coverAlt: "Notion workspace with AI features on a laptop screen"
+coverImage: "/images/auto/pexels-notion-ai-writing-assistant-guide-2026-f.jpg"
+coverAlt: "A man working on a laptop in a cozy, modern office space with a focus on technology."
 tags:
   - Notion AI
   - AI Writing Assistant
@@ -33,7 +33,7 @@ Notion has evolved from a simple note-taking app into a comprehensive workspace 
 
 Notion AI is available as an add-on to any Notion plan, including Free, Plus, Business, and Enterprise tiers. The AI add-on costs $10 per month per member on monthly billing or $8 per member per month on annual billing. For teams, this means every workspace member gets AI access, and usage is pooled across the team. Notion also offers a free trial of AI features, giving you a limited number of AI responses to evaluate the tool before committing. Once activated, Notion AI appears throughout the interface with various entry points. You can access it by pressing the spacebar on an empty line (which opens the AI commands menu), using keyboard shortcuts (Cmd+J on macOS, Ctrl+J on Windows/Linux), highlighting existing text to reveal the AI writing toolbar, or using the dedicated AI button in the top navigation bar. The AI assistant works contextually -- it understands the page you are editing, the database you are viewing, and the surrounding content, allowing it to generate relevant suggestions rather than generic outputs. For example, if you're in a project management database, Notion AI can generate status updates based on project data. If yyou'rein a meeting notes page, it can summarize action items from the notes you've already written. This contextual awareness distinguishes Notion AI from standalone AI writing tools that have no understanding of your workspace structure or existing content. The AI features extend across all Notion content types: pages, databases, comments, and even entire workspaces. Enterprise customers plus benefit from enhanced security controls, including data processing agreements and options for data not being used for model training.
 
-![Notion AI interface showing writing assistance in a document](https://images.unsplash.com/photo-1654277041218-35624ba1ebce?w=800&h=450&fit=crop)
+![A man working on a laptop in a cozy, modern office space with a focus on technology.](/images/auto/pexels-notion-ai-writing-assistant-guide-2026-f.jpg)
 
 ## AI-Powered Writing and Editing
 Trust me on this.

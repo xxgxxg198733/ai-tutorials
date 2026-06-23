@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 31
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200"
-coverAlt: "Technical writer creating software documentation with AI assistance tools"
+coverImage: "/images/auto/pexels-ai-for-technical-documentation-writing.jpg"
+coverAlt: "Close-up of AI-assisted coding with menu options for debugging and problem-solving."
 tags:
   - technical writing
   - documentation

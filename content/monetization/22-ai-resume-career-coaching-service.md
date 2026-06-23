@@ -5,8 +5,8 @@ category: "monetization"
 order: 22
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1600"
-coverAlt: "Professional resume and career documents with laptop and coffee"
+coverImage: "/images/auto/pexels-ai-resume-and-career-coaching-service.jpg"
+coverAlt: "Top view of a desk with resume, coffee cup, and laptop on a wooden surface, ideal for business concepts."
 tags:
   - AI resume writing
   - career coaching
@@ -32,7 +32,7 @@ The job market has become increasingly competitive, with hundreds of applicants 
 
 The career services market is substantial and growing. Millions of people change jobs, graduate from school, or seek career advancement each year, creating consistent demand for professional resume writing and coaching services. AI-enhanced services offer distinct advantages over traditional resume writing. AI can analyze job descriptions, identify keywords, optimize formatting for applicant tracking systems, and generate customized versions for different applications in minutes rather than hours. This efficiency allows you to serve more clients while delivering superior results, creating a scalable business model with healthy profit margins.
 
-![Professional reviewing a polished resume on a tablet](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200)
+![Top view of a desk with resume, coffee cup, and laptop on a wooden surface, ideal for business concepts.](/images/auto/pexels-ai-resume-and-career-coaching-service.jpg)
 
 ## AI Resume Writing and Optimization
 

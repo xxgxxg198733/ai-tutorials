@@ -5,8 +5,8 @@ category: daily-life
 order: 7
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200&h=630&fit=crop"
-coverAlt: "Person browsing streaming content recommendations on a smart TV"
+coverImage: "/images/auto/pexels-ai-for-entertainment-recommendations-dis.jpg"
+coverAlt: "Smart TV displaying streaming content in modern living room setting with exposed brick wall."
 tags:
   - AI Entertainment
   - Recommendations
@@ -32,7 +32,7 @@ The fundamental challenge of entertainment recommendation is the cold-start prob
 
 What makes modern AI recommendation systems so effective is their ability to understand context. The same person might want an intense thriller on a Saturday night, a lighthearted comedy on a stressful weekday, and a thought-provoking documentary on a lazy Sunday afternoon. AI systems now recognize these contextual preferences and adjust recommendations accordingly, learning that your tastes are not monolithic but situational.
 
-![Streaming service interface showing AI-generated content recommendations on a laptop](https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&h=400&fit=crop)
+![Smart TV displaying streaming content in modern living room setting with exposed brick wall.](/images/auto/pexels-ai-for-entertainment-recommendations-dis.jpg)
 
 ## AI Movie and TV Show Recommendations
 Game changer.

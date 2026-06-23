@@ -5,8 +5,8 @@ category: daily-life
 order: 13
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200&h=630&fit=crop"
-coverAlt: "Music producer working with AI music production software on multiple screens"
+coverImage: "/images/auto/pexels-ai-for-music-creation-and-discovery-comp.jpg"
+coverAlt: "Music producer focused on composing tracks in a dimly lit studio with laptop and keyboard."
 tags:
   - AI Music
   - Music Creation
@@ -32,7 +32,7 @@ The most exciting aspect of AI in music is how it democratizes creation. Making 
 
 AI's role in music falls into two broad categories: creation and discovery. On the creation side, AI tools assist with composition, arrangement, sound design, mixing, and mastering. On the discovery side, AI powers the recommendation engines that help listeners find new music tailored to their tastes. Both areas have seen transformative advances that are reshaping the music industry.
 
-![AI music production software showing a digital audio workstation with AI-assisted composition tools](https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=800&h=400&fit=crop)
+![Music producer focused on composing tracks in a dimly lit studio with laptop and keyboard.](/images/auto/pexels-ai-for-music-creation-and-discovery-comp.jpg)
 
 ## AI Music Composition and Songwriting
 Let me explain.

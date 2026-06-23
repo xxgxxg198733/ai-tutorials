@@ -5,8 +5,8 @@ category: daily-life
 order: 15
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1544568100-847a948585b9?w=1200&h=630&fit=crop"
-coverAlt: "Happy dog sitting next to a smartphone showing a pet care app"
+coverImage: "/images/auto/pexels-ai-pet-care-and-training-tools-smarter-p.jpg"
+coverAlt: "Two women happily taking a selfie with a Shiba Inu dog in a park setting."
 tags:
   - AI Pet Care
   - Pet Training
@@ -32,7 +32,7 @@ The challenge of pet care is that our animal companions can't tell us directly w
 
 AI pet tools are particularly valuable for the growing number of people who consider their pets family members and want to provide the highest quality of care. These tools don't replace the love and attention that pets need from their humans, but they help ensure that the care you provide is informed by the best available information and delivered consistently.
 
-![AI pet camera showing a live feed of a dog at home on a smartphone screen](https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop)
+![Two women happily taking a selfie with a Shiba Inu dog in a park setting.](/images/auto/pexels-ai-pet-care-and-training-tools-smarter-p.jpg)
 
 ## AI Pet Health Monitoring and Wellness Tracking
 

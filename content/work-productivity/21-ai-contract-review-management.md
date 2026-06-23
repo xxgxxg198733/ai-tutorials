@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 21
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200"
-coverAlt: "Legal documents and contracts being reviewed on a desk with digital tools"
+coverImage: "/images/auto/pexels-ai-contract-review-and-management.jpg"
+coverAlt: "Close-up of a workspace with a contract, laptop, smartphone, and cup of tea."
 tags:
   - contract review
   - legal AI

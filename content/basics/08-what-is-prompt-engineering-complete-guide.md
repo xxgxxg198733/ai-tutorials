@@ -5,8 +5,8 @@ category: basics
 order: 8
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1558431382-27e303142b9c?w=1200&h=630&fit=crop"
-coverAlt: "Person typing a prompt into an AI interface with glowing response"
+coverImage: "/images/auto/pexels-what-is-prompt-engineering-a-complete-gu.jpg"
+coverAlt: "Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology."
 tags:
   - Prompt Engineering
   - AI Communication
@@ -43,7 +43,7 @@ The third principle is defining the format. If you need a specific output struct
 
 The fourth principle is role assignment, sometimes called persona prompting. Asking the model to adopt a specific role can make a big difference to output quality. "Act as a seasoned financial advisor and explain dollar-cost averaging to a beginner" will produce different — and typically better — results than just asking "Wwhat'sdollar-cost averaging?" Role assignment leverages the model's training on different writing styles and professional perspectives, helping it adopt the appropriate tone, vocabulary, and framing.
 
-![A diagram showing how a clear prompt leads to a better AI response compared to a vague prompt](https://images.unsplash.com/photo-1558431382-27e303142b9c?w=800&h=400&fit=crop)
+![Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology.](/images/auto/pexels-what-is-prompt-engineering-a-complete-gu.jpg)
 
 ## Advanced Prompt Engineering Techniques
 

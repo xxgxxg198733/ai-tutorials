@@ -5,8 +5,8 @@ category: ai-tools
 order: 25
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&h=630&fit=crop"
-coverAlt: "Descript AI video editing interface showing text-based timeline and media editing tools"
+coverImage: "/images/auto/pexels-descript-ai-video-editing-tutorial-2026-.jpg"
+coverAlt: "Close-up of a video editing software interface showing timeline and controls."
 tags:
   - Descript AI
   - AI Video Editing
@@ -33,7 +33,7 @@ Descript has fundamentally reimagined video editing by treating video as a text 
 
 Descript was founded in 2017 by Andrew Mason (founder of Groupon) and a team of media and technology experts. The core insight behind Descript is that editing video and audio is really about editing a sequence of words, and the best interface for that is text. Traditional video editors force you to work with visual waveforms and clip segments on a timeline, requiring you to watch footage, find edit points, split clips, and rearrange segments manually. Descript eliminates nearly all of this friction. When you import a video or audio file into Descript, it automatically transcribes the spoken content using AI-powered speech recognition that's remarkably accurate, even with multiple speakers, accents, and background noise. The transcription appears as a text document in the editor, synchronized frame-by-frame with the media. Any edit you make to the text translates directly into an edit in the underlying media. Delete a sentence from the transcript, and the corresponding section of video and audio is removed from the timeline. Copy and paste a paragraph, and the media segments reorder themselves. This approach makes video editing intuitive for anyone who can use a word processor. The platform supports editing video, audio, and screen recordings, making it a comprehensive media production tool for podcasters, YouTubers, marketers, educators, and business communicators. Descript is available for Windows and macOS, with a free tier that provides basic editing features and transcription credits. Paid plans start at $24 per month for the Hobbyist plan (10 hours of transcription per month, basic AI features), $40 per month for the Business plan (unlimited transcription, all AI features, team collaboration), and Enterprise pricing for organizations with advanced needs. The transcription engine supports over 20 languages, and processed transcripts are searchable, making it easy to find specific content across your entire media library.
 
-![Descript AI editor showing the text-based transcript with synchronized video preview and media timeline](https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=450&fit=crop)
+![Close-up of a video editing software interface showing timeline and controls.](/images/auto/pexels-descript-ai-video-editing-tutorial-2026-.jpg)
 
 ## Core Editing: Transcription, Text-Based Cuts, and Audio Tools
 

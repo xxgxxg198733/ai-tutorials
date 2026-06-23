@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 33
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200"
-coverAlt: "Professional analyzing survey data results and feedback on digital dashboard"
+coverImage: "/images/auto/pexels-ai-for-survey-creation-and-analysis.jpg"
+coverAlt: "Team members analyze charts during a business meeting with laptops and smartphones."
 tags:
   - survey tools
   - data analysis

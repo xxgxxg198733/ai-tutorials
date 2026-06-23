@@ -5,8 +5,8 @@ category: basics
 order: 36
 date: 2026-06-07
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of industrial transformation from steam engines to AI"
+coverImage: "/images/auto/pexels-is-this-ai-wave-the-fourth-industrial-re.jpg"
+coverAlt: "A conceptual image blending technology and nature, symbolizing AI's role in sustainable energy."
 tags:
   - AI History
   - Industrial Revolution
@@ -49,7 +49,7 @@ The scale of potential economic impact is genuine. Goldman Sachs estimated in 20
 
 The speed of adoption is also historically unusual. ChatGPT reached 100 million users in two months. The telephone took 75 years to reach that many users. The internet took about seven years. When a technology spreads that fast through the global economy, it's reasonable to wonder whether we're seeing something fundamental shift.
 
-![Abstract representation of industrial revolutions](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+![A conceptual image blending technology and nature, symbolizing AI's role in sustainable energy.](/images/auto/pexels-is-this-ai-wave-the-fourth-industrial-re.jpg)
 
 ## The Case Against
 

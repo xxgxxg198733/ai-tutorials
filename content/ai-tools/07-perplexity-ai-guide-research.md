@@ -5,8 +5,8 @@ category: ai-tools
 order: 7
 date: 2026-06-03
 readingTime: 10
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
-coverAlt: "Digital search and research interface with AI-powered results"
+coverImage: "/images/auto/pexels-perplexity-ai-guide-for-research-2026-fe.jpg"
+coverAlt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
 tags:
   - Perplexity AI
   - AI Research
@@ -30,7 +30,7 @@ Perplexity AI has carved out a unique position in the AI landscape by combining 
 
 Perplexity AI is an AI-powered search and research platform that uses large language models to understand your questions, search the web in real time, and synthesize answers with inline citations. It effectively bridges the gap between traditional search engines and conversational AI by providing the best of both worlds -- the up-to-date, verifiable information of web search with the natural language comprehension and synthesis of AI. This makes Perplexity particularly valuable for research tasks where accuracy, timeliness, and source transparency matter. The platform is available as a web application at perplexity.ai and through mobile apps for iOS and Android. There are two tiers: a free version that uses Perplexity's standard model with limited Pro searches per day, and Perplexity Pro ($20 per month) which unlocks unlimited Pro searches, access to multiple AI models (including GPT-4, Claude 3.5, and Perplexity's own models), file upload capabilities, and priority processing. The free tier is already highly capable for everyday research, but Pro is essential for heavy research users who need deeper analysis, longer context windows, and access to the most advanced models. What truly distinguishes Perplexity is its commitment to source transparency -- every response includes numbered citations linking directly to the source documents, allowing you to verify claims, explore original context, and assess the credibility of the information. This feature alone makes it the preferred AI tool for students, journalists, analysts, and anyone who needs to trust the information they receive.
 
-![Perplexity AI interface showing a search query with cited sources](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop)
+![Close-up of a computer screen displaying ChatGPT interface in a dark setting.](/images/auto/pexels-perplexity-ai-guide-for-research-2026-fe.jpg)
 
 ## Core Search Features and How to Use Them
 

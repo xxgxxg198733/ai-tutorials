@@ -5,8 +5,8 @@ category: daily-life
 order: 10
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1200&h=630&fit=crop"
-coverAlt: "Couple smiling while looking at a dating app on a smartphone"
+coverImage: "/images/auto/pexels-ai-dating-and-relationship-apps-finding-.jpg"
+coverAlt: "Diverse glad couple in warm outerwear using mobile phone near door of building on street"
 tags:
   - AI Dating
   - Relationships
@@ -33,7 +33,7 @@ Dating apps were early adopters of AI, using matching algorithms from the very b
 
 The role of AI in dating is often misunderstood. Effective AI does not replace human connection or authentic interaction — it helps people find better matches, communicate more effectively, and build healthier relationships. The technology serves as a facilitator, removing friction, reducing uncertainty, and providing insights that help people make better decisions about their romantic lives.
 
-![Dating app interface showing AI-matched profiles on a smartphone](https://images.unsplash.com/photo-1521791136064-7986c2924716?w=800&h=400&fit=crop)
+![Diverse glad couple in warm outerwear using mobile phone near door of building on street](/images/auto/pexels-ai-dating-and-relationship-apps-finding-.jpg)
 
 ## AI Matching Algorithms and Compatibility
 

@@ -5,8 +5,8 @@ category: news-tools
 order: 31
 date: 2026-06-07
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
-coverAlt: "AI interface screens showing Chinese and English language models side by side"
+coverImage: "/images/auto/pexels-deepseek-and-doubao-chinas-ai-models-are.jpg"
+coverAlt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
 tags:
   - DeepSeek
   - Doubao
@@ -30,7 +30,7 @@ The reaction in Silicon Valley was predictable: skepticism, then alarm, then a g
 
 I'm not going to pretend I've run DeepSeek's benchmarks myself. What I can tell you is that I've used DeepSeek-V3 and its successor models for coding and writing tasks over the past few months, and the gap between it and the Western frontier models is smaller than most people in the US assume. On some tasks — particularly math and code generation — it's genuinely competitive.
 
-![AI interface showing Chinese and English language models](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop)
+![Close-up of a computer screen displaying ChatGPT interface in a dark setting.](/images/auto/pexels-deepseek-and-doubao-chinas-ai-models-are.jpg)
 
 ## What Makes DeepSeek Different
 

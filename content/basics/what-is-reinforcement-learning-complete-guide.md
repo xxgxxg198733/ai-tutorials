@@ -5,8 +5,8 @@ category: "basics"
 order: 17
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200"
-coverAlt: "Abstract visualization of an AI agent navigating a maze-like environment, representing reinforcement learning"
+coverImage: "/images/auto/pexels-what-is-reinforcement-learning-complete-.jpg"
+coverAlt: "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms."
 tags:
   - Reinforcement Learning
   - Machine Learning
@@ -38,7 +38,7 @@ At its heart, every reinforcement learning system consists of several essential 
 
 The agent's objective is to learn a **policy** — a strategy that maps states to actions in a way that maximizes the expected cumulative reward over time. This cumulative reward, often called the **return**, is typically discounted by a factor called gamma (γ), which prioritizes immediate rewards over distant future rewards. The discount factor helps ensure mathematical convergence and models the realistic preference for sooner rather than later outcomes. The agent's interaction with the environment unfolds in discrete time steps, creating a sequence of states, actions, and rewards known as a **trajectory** or **episode**.
 
-![Reinforcement Learning loop diagram showing agent-environment interaction](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800)
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](/images/auto/pexels-what-is-reinforcement-learning-complete-.jpg)
 
 ## Markov Decision Processes: The Mathematical Foundation
 

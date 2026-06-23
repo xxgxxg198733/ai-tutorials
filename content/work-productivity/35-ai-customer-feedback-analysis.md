@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 35
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200"
-coverAlt: "Customer experience team analyzing feedback data and sentiment metrics"
+coverImage: "/images/auto/pexels-ai-for-customer-feedback-analysis.jpg"
+coverAlt: "Team working on marketing strategy using data charts and papers in an office meeting."
 tags:
   - customer feedback
   - sentiment analysis

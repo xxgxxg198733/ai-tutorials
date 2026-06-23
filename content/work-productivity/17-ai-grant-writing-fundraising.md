@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 17
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1200"
-coverAlt: "Nonprofit professionals collaborating on grant writing and fundraising strategy"
+coverImage: "/images/auto/pexels-ai-for-grant-writing-and-fundraising.jpg"
+coverAlt: "A diverse team of professionals collaborating in a modern office setting, focusing on brainstorming and planning."
 tags:
   - grant writing
   - fundraising

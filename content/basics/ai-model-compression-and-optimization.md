@@ -5,8 +5,8 @@ category: "basics"
 order: 28
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
-coverAlt: "Data center visualization representing model compression and efficient computing"
+coverImage: "/images/auto/pexels-ai-model-compression-and-optimization.jpg"
+coverAlt: "Close-up of a modern server unit in a blue-lit data center environment."
 tags:
   - Model Optimization
   - Compression
@@ -38,7 +38,7 @@ Quantization is one of the most effective and widely deployed model compression 
 
 The key challenge in quantization is managing the accuracy loss that comes from reduced numerical precision. **Post-training quantization (PTQ)** applies quantization to a pre-trained model without any retraining, using calibration data to determine optimal scaling factors. PTQ is fast and requires minimal computational overhead, but accuracy degradation can be significant, especially for very low bit-widths. **Quantization-aware training (QAT)** incorporates quantization effects into the training process, simulating low-precision arithmetic during forward passes while maintaining full precision for gradient updates. QAT typically produces much better accuracy than PTQ, especially at 4-bit and lower precisions, at the cost of additional training time. **Mixed-precision quantization** assigns different precision levels to different layers, recognizing that some layers are more sensitive to quantization than others. Attention layers in transformers, for example, are often more sensitive than feedforward layers. Modern techniques like GPTQ, AWQ, and GGML have made 4-bit quantization practical for large language models, enabling models like LLaMA-70B to run on consumer hardware.
 
-![Comparison diagram showing precision levels from FP32 through INT4 quantization](https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800)
+![Close-up of a modern server unit in a blue-lit data center environment.](/images/auto/pexels-ai-model-compression-and-optimization.jpg)
 
 ## Pruning: Removing Redundant Parameters
 

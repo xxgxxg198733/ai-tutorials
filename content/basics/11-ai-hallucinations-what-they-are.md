@@ -5,8 +5,8 @@ category: basics
 order: 11
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=1200&h=630&fit=crop"
-coverAlt: "Surreal abstract artwork representing AI hallucinations and false information"
+coverImage: "/images/auto/pexels-ai-hallucinations-what-they-are-and-why-.jpg"
+coverAlt: "A vibrant abstract depiction of a human face conveying strong emotion."
 tags:
   - AI Hallucinations
   - AI Limitations
@@ -43,7 +43,7 @@ Statistical inference versus factual retrieval is at the heart of the issue. Whe
 
 The model's architecture and training also contribute to hallucination. Models are trained to be helpful and provide complete answers. A model that says "I don't know" is arguably behaving more honestly, but it may have been trained to avoid such responses. The fine-tuning process, particularly RLHF, can inadvertently encourage hallucination by rewarding models for providing detailed, confident-sounding responses that users find more satisfying, even when those responses may not be entirely accurate.
 
-![Abstract representation of an AI model creating false information from incomplete data](https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=800&h=400&fit=crop)
+![A vibrant abstract depiction of a human face conveying strong emotion.](/images/auto/pexels-ai-hallucinations-what-they-are-and-why-.jpg)
 
 ## Common Types of Hallucinations
 

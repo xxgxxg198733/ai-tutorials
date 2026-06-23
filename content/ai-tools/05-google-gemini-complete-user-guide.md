@@ -5,8 +5,8 @@ category: ai-tools
 order: 5
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=1200&h=630&fit=crop"
-coverAlt: "Google Gemini AI displayed on a smartphone and laptop"
+coverImage: "/images/auto/pexels-google-gemini-complete-user-guide-2026-f.jpg"
+coverAlt: "Close-up of a smartphone with AI chat interface, showcasing advanced technology in a sleek design."
 tags:
   - Google Gemini
   - Google AI
@@ -30,7 +30,7 @@ Google Gemini, formerly known as Bard, represents Google's most ambitious foray 
 
 Accessing Google Gemini is straightforward thanks to its deep integration with Google's services. The primary access point is gemini.google.com, where you can begin chatting with Gemini immediately using any Google account. Google also offers dedicated mobile apps for Android and iOS, with the Android version offering particularly deep integration, including the ability to replace Google Assistant as your default assistant. The service is available in two tiers: Gemini (free) and Gemini Advanced (part of the Google One AI Premium plan at $19.99/month). The free tier provides access to the Gemini Pro model with standard performance, while Gemini Advanced unlocks Gemini Ultra -- the most capable model -- along with priority access, expanded context windows, and advanced features like file analysis and extended conversations. Gemini Advanced also includes 2TB of Google Drive storage, making it a compelling bundle for users already invested in Google's ecosystem. After signing in, you will find a clean, minimalist chat interface. On the left sidebar, you can access recent conversations, explore the Gemini Activity dashboard, and manage settings. Gemini supports text input, voice input on mobile and desktop, and image uploads for analysis. You can also upload documents including PDFs, Word files, and spreadsheets for summarization and data extraction. One distinctive feature is Gemini's ability to verify its responses against Google Search -- you can click the "double-check" button to have Gemini search the web for sources that support or contradict its answer, helping you evaluate the reliability of the information provided.
 
-![Google Gemini chat interface showing multimodal input capabilities](https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&h=450&fit=crop)
+![Close-up of a smartphone with AI chat interface, showcasing advanced technology in a sleek design.](/images/auto/pexels-google-gemini-complete-user-guide-2026-f.jpg)
 
 ## Core Capabilities of Gemini
 Not even close.

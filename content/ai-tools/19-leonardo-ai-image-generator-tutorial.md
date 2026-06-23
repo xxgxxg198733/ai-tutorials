@@ -5,8 +5,8 @@ category: ai-tools
 order: 19
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1563089145-599997674d42?w=1200&h=630&fit=crop"
-coverAlt: "Leonardo AI image generation interface showing AI-created digital artwork"
+coverImage: "/images/auto/pexels-leonardo-ai-image-generator-tutorial-202.jpg"
+coverAlt: "Abstract black and white graphic featuring a multimodal model pattern with various shapes."
 tags:
   - Leonardo AI
   - AI Image Generation
@@ -33,7 +33,7 @@ Leonardo AI has emerged as one of the most powerful and versatile AI image gener
 
 Leonardo AI was launched in 2022 by a team of AI researchers and artists who wanted to create a platform that combined the power of open-source image generation models with a polished, professional user interface. The platform quickly gained traction among game developers, concept artists, and content creators who needed high-quality, consistent image generation at scale. Today, Leonardo AI serves millions of users worldwide and has become the go-to platform for anyone who needs professional-grade AI image generation without the complexity of running models locally. To get started, visit the Leonardo AI website at leonardo.ai and create a free account. The free tier provides 150 tokens per day, which is enough for roughly 150 standard image generations. For more demanding workflows, the platform offers several paid tiers: the Apprentice plan at $10 per month (2,500 tokens), the Artisan plan at $25 per month (7,000 tokens), and the Maestro plan at $49 per month (18,000 tokens). Paid plans also unlock features like faster generation speeds, private model generation, higher resolution outputs, and API access. When you first log in, you arrive at the Community Feed, which showcases images created by other users. This feed is an excellent source of inspiration and also demonstrates the platform's capabilities. You can filter the feed by model, resolution, and generation method to see specific types of outputs. The main creation tools are accessed through the left sidebar: AI Canvas (for image editing and inpainting), Finetuned Models (for managing your trained models), Real-Time Generation (for instant image creation), and Image Generation (the standard text-to-image interface). The platform also includes a prompt generation tool that helps you craft effective prompts by analyzing successful patterns from the community.
 
-![Leonardo AI platform showing the image generation interface with prompt input and model selection](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=800&h=450&fit=crop)
+![Abstract black and white graphic featuring a multimodal model pattern with various shapes.](/images/auto/pexels-leonardo-ai-image-generator-tutorial-202.jpg)
 
 But does it actually work that way?
 ## Mastering the Image Generation Interface

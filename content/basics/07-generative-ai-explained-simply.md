@@ -5,8 +5,8 @@ category: basics
 order: 7
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of generative AI creating digital art and content"
+coverImage: "/images/auto/pexels-generative-ai-explained-simply-what-it-i.jpg"
+coverAlt: "Dynamic abstract 3D render featuring intricate geometric structures in cool tones."
 tags:
   - Generative AI
   - AI Creativity
@@ -43,7 +43,7 @@ Diffusion models, the technology behind popular image generators like DALL-E, Mi
 
 For text generation, the dominant architecture is the Transformer, which powers models like GPT-4, Claude, and Gemini. These models are trained on the simple task of predicting the next token in a sequence. When generating text, they start with a prompt and predict one token at a time, with each prediction conditioned on all the tokens generated so far. The element of randomness in the selection process ensures that the output isn't deterministic — the same prompt can produce different responses on different occasions.
 
-![A visual comparison of original images, noise-added training images, and AI-generated outputs](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop)
+![Dynamic abstract 3D render featuring intricate geometric structures in cool tones.](/images/auto/pexels-generative-ai-explained-simply-what-it-i.jpg)
 
 Why does this matter?
 ## Types of Generative AI by Medium

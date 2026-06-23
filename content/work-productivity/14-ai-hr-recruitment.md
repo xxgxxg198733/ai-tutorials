@@ -5,8 +5,8 @@ category: work-productivity
 order: 14
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
-coverAlt: "HR professional using AI recruitment and talent management dashboard"
+coverImage: "/images/auto/pexels-ai-for-hr-and-recruitment-smarter-hiring.jpg"
+coverAlt: "Ethnic boss asking question to female candidate filling information form on clipboard during hiring meeting"
 tags:
   - AI Recruitment
   - HR Technology
@@ -32,7 +32,7 @@ AI tools have changed every stage of the talent lifecycle, from attraction and r
 
 The business impact of AI in HR is substantial. Organizations using AI recruitment tools reduce time-to-hire by 40-60% while improving quality-of-hire metrics. AI-driven employee engagement analysis reduces voluntary turnover by 15-25% by identifying and addressing issues before they lead to departures. Skills gap analysis powered by AI enables more targeted training investments, improving workforce capability while reducing training spend. The cumulative effect is a more agile, capable, and engaged workforce managed with greater efficiency and insight.
 
-![AI recruitment dashboard showing candidate matching, screening, and analytics](https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&h=400&fit=crop)
+![Ethnic boss asking question to female candidate filling information form on clipboard during hiring meeting](/images/auto/pexels-ai-for-hr-and-recruitment-smarter-hiring.jpg)
 
 ## AI-Powered Resume Screening and Candidate Matching
 

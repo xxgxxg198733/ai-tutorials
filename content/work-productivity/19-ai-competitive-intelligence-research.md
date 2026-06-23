@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 19
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200"
-coverAlt: "Business analytics dashboard showing competitive market data and insights"
+coverImage: "/images/auto/pexels-ai-for-competitive-intelligence-research.jpg"
+coverAlt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
 tags:
   - competitive intelligence
   - market research

@@ -5,8 +5,8 @@ category: basics
 order: 2
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of machine learning algorithms processing data"
+coverImage: "/images/auto/pexels-how-machine-learning-works-a-simple-expl.jpg"
+coverAlt: "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms."
 tags:
   - Machine Learning
   - AI Basics
@@ -44,7 +44,7 @@ The second ingredient is a model — the mathematical framework that will learn 
 
 The third ingredient is an algorithm — the learning procedure that updates the model based on the data. During training, the model makes a prediction, compares it to the correct answer, calculates how wrong it was (this is called the loss or error), and adjusts its internal parameters to reduce that error next time. This cycle repeats millions of times across all the training examples, with each iteration nudging the model toward better performance. The most common algorithm for this is called gradient descent, which works much like rolling a ball down a hill — it always moves in the direction of steepest descent toward the lowest error.
 
-![Data flowing through a machine learning pipeline from input to output](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](/images/auto/pexels-how-machine-learning-works-a-simple-expl.jpg)
 
 ## Supervised vs. Unsupervised vs. Reinforcement Learning
 

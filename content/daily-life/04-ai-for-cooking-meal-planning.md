@@ -5,8 +5,8 @@ category: daily-life
 order: 4
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1556911220-bffb3bed48f2?w=1200&h=630&fit=crop"
-coverAlt: "Modern kitchen with smart cooking devices and fresh ingredients"
+coverImage: "/images/auto/pexels-ai-for-cooking-and-meal-planning-your-ki.jpg"
+coverAlt: "Asian woman preparing a fresh salad with tomatoes and lettuce in a contemporary kitchen setting."
 tags:
   - AI Cooking
   - Meal Planning
@@ -32,7 +32,7 @@ The fundamental challenge of home cooking is balancing multiple constraints: nut
 
 What makes AI cooking tools particularly valuable is their ability to reduce food waste. The average household wastes a significant portion of the food they purchase, often because ingredients from one meal go unused before spoiling. AI meal planners can design recipes that share ingredients across multiple meals, ensuring that a bunch of cilantro or a carton of buttermilk gets fully utilized rather than left to wilt in the refrigerator.
 
-![AI cooking assistant displaying a recipe on a tablet in a modern kitchen](https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=400&fit=crop)
+![Asian woman preparing a fresh salad with tomatoes and lettuce in a contemporary kitchen setting.](/images/auto/pexels-ai-for-cooking-and-meal-planning-your-ki.jpg)
 
 ## AI Recipe Generation and Ingredient Substitution
 

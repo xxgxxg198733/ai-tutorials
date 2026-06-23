@@ -5,8 +5,8 @@ category: ai-tools
 order: 11
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=1200&h=630&fit=crop"
-coverAlt: "Microsoft Copilot AI interface on a Windows desktop with Office apps"
+coverImage: "/images/auto/pexels-microsoft-copilot-complete-guide-2026-fe.jpg"
+coverAlt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
 tags:
   - Microsoft Copilot
   - Microsoft 365
@@ -30,7 +30,7 @@ Microsoft Copilot is the most broadly integrated AI assistant in the market toda
 
 Microsoft Copilot isn't a single product but a family of AI assistants built on the same underlying technology -- a combination of OpenAI's GPT-4 model, Microsoft's Prometheus model (which adds grounding, safety, and search integration), and Microsoft Graph data for enterprise users. This means that while Copilot appears in many places, it shares a consistent core intelligence adapted to each context. The various forms of Copilot include: Windows Copilot (integrated into Windows 11 and Windows 10, accessible via a sidebar or the Win+C keyboard shortcut), Microsoft 365 Copilot (embedded in Word, Excel, PowerPoint, Outlook, Teams, and other Office applications), Copilot in Edge (a sidebar assistant that can analyze and summarize web pages), Copilot in Bing (the AI-powered search experience at bing.com), and GitHub Copilot (AI pair programming integrated into VS Code, JetBrains, and other IDEs). The consumer versions of Copilot -- Windows Copilot, Edge Copilot, and Bing Chat -- are free to use with a Microsoft account. Microsoft 365 Copilot requires a separate subscription ($30 per user per month) on top of an existing Microsoft 365 Business or Enterprise license. GitHub Copilot has its own pricing tiers. This integration strategy is Microsoft's key differentiator: no other AI company offers such deep, system-level access across an entire ecosystem. When you ask Windows Copilot a question, it can adjust system settings, open applications, and manage files. When you use Copilot in Word, it can draft documents referencing your other files on OneDrive. When you use Copilot in Teams, it can summarize meetings you missed, complete with who said what and what action items were assigned. This contextual awareness, powered by Microsoft Graph, is what makes Copilot genuinely useful for enterprise productivity rather than just another AI chatbot.
 
-![Microsoft Copilot integrated into the Windows 11 taskbar and Office applications](https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=800&h=450&fit=crop)
+![Close-up of a computer screen displaying ChatGPT interface in a dark setting.](/images/auto/pexels-microsoft-copilot-complete-guide-2026-fe.jpg)
 
 But is that the whole story?
 ## Windows Copilot: AI in Your Operating System

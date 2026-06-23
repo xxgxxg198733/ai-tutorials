@@ -5,8 +5,8 @@ category: "basics"
 order: 22
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1547954575-855750c57bd3?w=1200"
-coverAlt: "Abstract artistic visualization representing the diffusion process from noise to image"
+coverImage: "/images/auto/pexels-understanding-diffusion-models-for-ai-im.jpg"
+coverAlt: "Top view of transparent glass with bright aqua and spreading pigment flows reflecting on smooth surface"
 tags:
   - Diffusion Models
   - Generative AI
@@ -39,7 +39,7 @@ Understanding diffusion models requires grasping two complementary processes: fo
 
 The **reverse process** is where the magic happens. The model learns to undo the forward diffusion, step by step, transforming pure noise back into a coherent image. At each reverse step, the model predicts the noise that was added in the corresponding forward step and removes it. This requires the model to understand the structure of images deeply — what textures, shapes, objects, and scenes look like — so it can reconstruct them from noise. The entire process is typically implemented using a U-Net architecture, which has an encoder-decoder structure with skip connections that preserve fine-grained details. After training on millions of image-text pairs, the model develops an implicit understanding of the visual world, learning that certain patterns (like human faces, landscapes, or objects) correspond to specific configurations of pixels.
 
-![Diagram showing the forward diffusion process adding noise and the reverse diffusion process removing noise](https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800)
+![Top view of transparent glass with bright aqua and spreading pigment flows reflecting on smooth surface](/images/auto/pexels-understanding-diffusion-models-for-ai-im.jpg)
 
 ## Latent Diffusion and Stable Diffusion
 

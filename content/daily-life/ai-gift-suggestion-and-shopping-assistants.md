@@ -5,8 +5,8 @@ category: "daily-life"
 order: 24
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1513885535751-8b9238b345b8?w=1200"
-coverAlt: "Wrapped gifts with a smartphone showing AI-powered gift recommendations"
+coverImage: "/images/auto/pexels-ai-gift-suggestion-and-shopping-assistan.jpg"
+coverAlt: "Flat lay of Valentine's Day gifts, envelopes, and phone on a red background with heart motifs."
 tags: ["gift ideas", "shopping assistant", "AI recommendations", "personalized shopping", "gift finder"]
 keywords: ["AI gift finder", "gift recommendation engine", "personalized shopping AI", "gift idea generator", "smart shopping assistant", "AI shopping app", "birthday gift finder", "holiday shopping AI", "thoughtful gift AI", "gift budget optimizer"]
 ---
@@ -21,7 +21,7 @@ AI gift recommendation engines combine multiple data sources and machine learnin
 
 The AI then cross-references this profile against massive product databases, using collaborative filtering and content-based recommendation algorithms. Collaborative filtering identifies patterns by comparing the recipient's profile with similar users: "People who like hiking and photography also bought this water-resistant camera bag." Content-based filtering matches specific attributes of the recipient's interests against product features and categories. The most advanced systems use hybrid models that combine both approaches and add additional layers of context—seasonal trends, product reviews, price-to-value ratios, and delivery timelines. Some engines even incorporate sentiment analysis from gift reviews, learning which types of gifts tend to produce the most positive reactions from recipients with specific personality types.
 
-![Gift shopping on a smartphone app with AI-curated suggestions](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800)
+![Flat lay of Valentine's Day gifts, envelopes, and phone on a red background with heart motifs.](/images/auto/pexels-ai-gift-suggestion-and-shopping-assistan.jpg)
 
 Why does this matter?
 ## Budget Optimization and Group Gifting Coordination

@@ -5,8 +5,8 @@ category: "basics"
 order: 27
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200"
-coverAlt: "Conceptual image showing a small number of examples being used to teach an AI model"
+coverImage: "/images/auto/pexels-what-is-few-shot-and-zero-shot-learning.jpg"
+coverAlt: "Screen displaying ChatGPT examples, capabilities, and limitations."
 tags:
   - Few-Shot Learning
   - Zero-Shot Learning
@@ -37,7 +37,7 @@ The most prominent form of few-shot learning in modern AI is **in-context learni
 
 The mechanism behind in-context learning is not fully understood theoretically, but several explanations have emerged. One theory suggests that attention mechanisms allow the model to implement implicit gradient descent during the forward pass, effectively performing a form of meta-learning within a single inference. Another perspective holds that the massive pre-training corpus contains so many patterns of task demonstration that the model learns a general "learning algorithm" — the ability to recognize and follow patterns presented in context. Research on **induction heads** — specific attention patterns that emerge in transformer models during training — provides evidence for the mechanistic basis of in-context learning. These heads appear to implement pattern matching and copying mechanisms that enable few-shot learning capabilities. For more on how transformer models process these patterns, see our guide on [the transformer architecture](/basics/the-transformer-architecture-explained).
 
-![Comparison between traditional supervised learning, few-shot learning, and zero-shot learning approaches](https://images.unsplash.com/photo-1518183214770-9cffbec72538?w=800)
+![Screen displaying ChatGPT examples, capabilities, and limitations.](/images/auto/pexels-what-is-few-shot-and-zero-shot-learning.jpg)
 
 ## Zero-Shot Learning Mechanisms
 

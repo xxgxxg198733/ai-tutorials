@@ -5,8 +5,8 @@ category: work-productivity
 order: 7
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200&h=630&fit=crop"
-coverAlt: "Business meeting with AI transcription and notes on a tablet"
+coverImage: "/images/auto/pexels-ai-for-meeting-notes-and-summaries-never.jpg"
+coverAlt: "Two businessmen analyzing cryptocurrency market trends using a tablet and laptop in an office."
 tags:
   - AI Meeting Assistant
   - Meeting Notes
@@ -32,7 +32,7 @@ AI meeting assistants have emerged as a powerful solution to these challenges. B
 
 The productivity gains are substantial. Professionals using AI meeting tools report saving 3-5 hours per week that previously went to manual note-taking, follow-up email composition, and searching through meeting records. More importantly, AI meeting summaries ensure alignment across teams — decisions are documented consistently, action items have clear owners, and absent team members can quickly catch up on what they missed without interrupting colleagues for recaps.
 
-![AI meeting transcription and summary interface showing real-time notes](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=400&fit=crop)
+![Two businessmen analyzing cryptocurrency market trends using a tablet and laptop in an office.](/images/auto/pexels-ai-for-meeting-notes-and-summaries-never.jpg)
 
 ## Real-Time Transcription and Live Meeting Intelligence
 

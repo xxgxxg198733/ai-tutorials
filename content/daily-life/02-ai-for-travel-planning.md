@@ -5,8 +5,8 @@ category: daily-life
 order: 2
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
-coverAlt: "Traveler planning a trip on a laptop with world map in background"
+coverImage: "/images/auto/pexels-ai-for-travel-planning-and-itineraries-y.jpg"
+coverAlt: "Tattooed woman planning a trip with a world map, passports, and travel essentials on a wooden table."
 tags:
   - AI Travel
   - Trip Planning
@@ -32,7 +32,7 @@ The best AI travel planners do more than just aggregate information. They learn 
 
 Let me give you a concrete example. For the modern traveler, AI eliminates the paradox of choice that often overwhelms trip planning. Instead of sifting through thousands of options, you describe what you want, and the AI narrows it down to the best choices for you. This guide covers the best AI tools for travel planning and how to use them effectively.
 
-![AI travel planning app showing a personalized itinerary on a smartphone](https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=400&fit=crop)
+![Tattooed woman planning a trip with a world map, passports, and travel essentials on a wooden table.](/images/auto/pexels-ai-for-travel-planning-and-itineraries-y.jpg)
 
 ## AI Itinerary Generators: From Prompts to Perfect Plans
 

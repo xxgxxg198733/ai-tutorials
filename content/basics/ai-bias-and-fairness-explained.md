@@ -5,8 +5,8 @@ category: "basics"
 order: 20
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1574169208507-84376144848b?w=1200"
-coverAlt: "Balancing scales representing fairness and justice in AI decision-making"
+coverImage: "/images/auto/pexels-ai-bias-and-fairness-explained.jpg"
+coverAlt: "Golden justice scales on a desk beside a laptop, symbolizing law and balance."
 tags:
   - AI Ethics
   - Fairness
@@ -38,7 +38,7 @@ AI bias can enter systems at virtually every stage of the machine learning pipel
 
 **Algorithmic bias** emerges from the design choices made during model development. The choice of objective function, the features included or excluded from the model, and the way the problem is framed can all introduce systematic bias. A model optimized for overall accuracy may perform poorly for minority groups — a phenomenon known as the accuracy-fairness trade-off. **Deployment bias** occurs when a model that performs equitably in development causes unfair outcomes in production due to differences in how it is used, who it's applied to, or the context of its deployment. **Feedback loops** can amplify bias over time: a biased predictive policing model directs more police to certain neighborhoods, leading to more arrests in those areas, which reinforces the model's original biased predictions. Understanding these interconnected sources of bias is the first step toward building fairer AI systems.
 
-![Chart showing different types of bias across the AI development lifecycle](https://images.unsplash.com/photo-1504711434969-e33886168d0c?w=800)
+![Golden justice scales on a desk beside a laptop, symbolizing law and balance.](/images/auto/pexels-ai-bias-and-fairness-explained.jpg)
 
 ## Fairness Metrics and Definitions
 

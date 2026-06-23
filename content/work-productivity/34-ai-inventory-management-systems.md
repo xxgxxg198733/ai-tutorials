@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 34
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200"
-coverAlt: "Modern automated warehouse with robotic inventory management systems"
+coverImage: "/images/auto/pexels-ai-inventory-management-systems.jpg"
+coverAlt: "High-tech automated warehouse system featuring a green robotic arm handling blue storage crates."
 tags:
   - inventory management
   - supply chain

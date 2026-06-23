@@ -5,8 +5,8 @@ category: basics
 order: 1
 date: 2026-06-01
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of artificial intelligence neural network connections"
+coverImage: "/images/auto/pexels-what-is-artificial-intelligence-a-comple.jpg"
+coverAlt: "Abstract illustration depicting complex digital neural networks and data flow."
 tags:
   - AI Basics
   - Artificial Intelligence
@@ -37,7 +37,7 @@ General AI, also called Strong AI or AGI (Artificial General Intelligence), refe
 
 Superintelligent AI represents a theoretical future state where AI surpasses human intelligence in virtually all domains, including creativity, problem-solving, and social intelligence. While this concept features prominently in discussions about AI safety and the long-term future of humanity, it remains firmly in the realm of speculation and philosophy. For practical purposes, understanding and working with narrow AI is what matters most today.
 
-![Conceptual illustration of different types of AI from narrow to general](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop)
+![Abstract illustration depicting complex digital neural networks and data flow.](/images/auto/pexels-what-is-artificial-intelligence-a-comple.jpg)
 
 ## How Modern AI Actually Works
 

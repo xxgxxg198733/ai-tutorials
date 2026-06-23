@@ -5,8 +5,8 @@ category: news-tools
 order: 16
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&h=630&fit=crop"
-coverAlt: "Industrial data center with renewable energy infrastructure and cooling systems"
+coverImage: "/images/auto/pexels-the-environmental-impact-of-ai-energy-us.jpg"
+coverAlt: "Close-up of cooling fans in a server room, showcasing technology and efficiency."
 tags:
   - AI Environmental Impact
   - AI Sustainability
@@ -41,7 +41,7 @@ The trend toward increasingly large models has driven exponential growth in trai
 
 Several initiatives within the AI industry aim to reduce the carbon footprint of training. Companies including Google, Microsoft, and Amazon have committed to powering their AI data centers with renewable energy, either through direct renewable energy procurement, power purchase agreements, or carbon offset programs. Some organizations have implemented carbon-aware training scheduling, shifting training runs to times and locations where the electricity grid has lower carbon intensity. These measures help mitigate the environmental impact of AI training, but they do not eliminate it, and the continued growth in total AI compute may outpace the carbon reductions achieved through efficiency improvements and clean energy adoption.
 
-![Data center cooling towers and renewable energy infrastructure](https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=450&fit=crop)
+![Close-up of cooling fans in a server room, showcasing technology and efficiency.](/images/auto/pexels-the-environmental-impact-of-ai-energy-us.jpg)
 
 ## Inference Energy and Scalability Challenges
 

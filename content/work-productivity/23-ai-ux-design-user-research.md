@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 23
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=1200"
-coverAlt: "UX designer working on wireframes and user interface prototypes"
+coverImage: "/images/auto/pexels-ai-ux-design-and-user-research-tools.jpg"
+coverAlt: "A designer sketches a mobile app prototype on paper at an office desk, focusing on creativity and design."
 tags:
   - UX design
   - user research

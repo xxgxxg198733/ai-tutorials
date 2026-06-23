@@ -5,8 +5,8 @@ category: basics
 order: 3
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
-coverAlt: "Digital illustration of an artificial neural network with glowing nodes and connections"
+coverImage: "/images/auto/pexels-what-is-deep-learning-neural-networks-ex.jpg"
+coverAlt: "3D render abstract digital visualization depicting neural networks and AI technology."
 tags:
   - Deep Learning
   - Neural Networks
@@ -42,7 +42,7 @@ Neurons are organized into layers. The input layer receives the raw data — pix
 
 Connections between neurons in adjacent layers have associated weights that determine the strength and direction of influence. During forward propagation, data flows from the input layer through each hidden layer to the output layer, with each neuron processing its inputs and passing the result to the next layer. This forward pass produces a prediction, which is then compared to the correct answer to calculate the error. The network then performs backpropagation — sending the error backward through the network to adjust every weight and bias in a way that reduces future errors.
 
-![Visualization of a deep neural network with multiple hidden layers processing data](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop)
+![3D render abstract digital visualization depicting neural networks and AI technology.](/images/auto/pexels-what-is-deep-learning-neural-networks-ex.jpg)
 
 ## The Breakthrough of Backpropagation and Gradient Descent
 

@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 28
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1560520031-1a4bdc1b15b6?w=1200"
-coverAlt: "Real estate professional analyzing property market data on digital devices"
+coverImage: "/images/auto/pexels-ai-real-estate-market-analysis-tools.jpg"
+coverAlt: "Two professionals analyzing stock market trends on a tablet in an office setting."
 tags:
   - real estate
   - market analysis

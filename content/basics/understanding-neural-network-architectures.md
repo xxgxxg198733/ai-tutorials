@@ -5,8 +5,8 @@ category: "basics"
 order: 18
 date: 2026-06-03
 readingTime: 16
-coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200"
-coverAlt: "Visualization of a complex neural network with interconnected nodes and layers"
+coverImage: "/images/auto/pexels-understanding-neural-network-architectur.jpg"
+coverAlt: "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms."
 tags:
   - Neural Networks
   - Deep Learning
@@ -37,7 +37,7 @@ The simplest and most foundational neural network architecture is the feedforwar
 
 The activation function is a critical design choice in feedforward networks. Early networks used sigmoid or hyperbolic tangent functions, which squash input values into bounded ranges. However, these functions suffer from the vanishing gradient problem, where gradients become extremely small in deep networks, effectively preventing learning in earlier layers. The Rectified Linear Unit (ReLU) and its variants (Leaky ReLU, ELU, Swish) have largely replaced sigmoidal activations because they mitigate vanishing gradients and accelerate training. Feedforward networks are universal function approximators — given enough neurons and layers, they can theoretically represent any continuous function. Despite their simplicity, MLPs remain essential components in modern architectures, often serving as the final classification layers in convolutional networks and transformers.
 
-![Diagram of a feedforward neural network with input, hidden, and output layers](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](/images/auto/pexels-understanding-neural-network-architectur.jpg)
 
 Does this live up to the hype?
 ## Convolutional Neural Networks: Vision Masters

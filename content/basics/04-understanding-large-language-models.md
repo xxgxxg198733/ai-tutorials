@@ -5,8 +5,8 @@ category: basics
 order: 4
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
-coverAlt: "Digital representation of a large language model processing text"
+coverImage: "/images/auto/pexels-understanding-large-language-models-how-.jpg"
+coverAlt: "HTML and CSS code on a computer monitor, highlighting web development and programming."
 tags:
   - LLMs
   - Large Language Models
@@ -43,7 +43,7 @@ Before training begins, the raw text is preprocessed into a format the model can
 
 The actual training process uses the same fundamental approach as other neural networks: forward passes, loss calculation, and backpropagation. However, the scale is unprecedented. Training a model like GPT-4 requires thousands of specialized processors running continuously for weeks or months, consuming tens of millions of dollars in computing resources. The model processes the training data multiple times over many epochs, each time adjusting its parameters to improve its next-word predictions. During training, the model learns not just language patterns but also factual knowledge, reasoning chains, and stylistic conventions embedded in the training data.
 
-![A diagram showing the architecture of a Transformer-based language model](https://images.unsplash.com/photo-1558431382-27e303142b9c?w=800&h=400&fit=crop)
+![HTML and CSS code on a computer monitor, highlighting web development and programming.](/images/auto/pexels-understanding-large-language-models-how-.jpg)
 
 So what does this mean in practice?
 ## Tokenization: How LLMs Break Down Language

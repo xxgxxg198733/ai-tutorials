@@ -5,8 +5,8 @@ category: news-tools
 order: 32
 date: 2026-06-07
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop"
-coverAlt: "Rows of server racks in a modern data center with blue LED lighting"
+coverImage: "/images/auto/pexels-the-real-ai-gold-rush-nvidia-liquid-cool.jpg"
+coverAlt: "Detailed image of a server rack with glowing lights in a modern data center."
 tags:
   - NVIDIA
   - AI Infrastructure
@@ -30,7 +30,7 @@ NVIDIA's market cap crossed $3 trillion in 2024. By mid-2025 it briefly touched 
 
 This isn't a bubble, exactly — NVIDIA's revenue is real, growing at triple-digit rates year over year, driven by insatiable demand for the H100 and B200 GPUs that power essentially every major AI training run. But it does raise a question: who else is benefiting from the AI boom that nobody's talking about?
 
-![Data center server racks](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop)
+![Detailed image of a server rack with glowing lights in a modern data center.](/images/auto/pexels-the-real-ai-gold-rush-nvidia-liquid-cool.jpg)
 
 ## Why AI Needs Entirely New Data Centers
 

@@ -5,8 +5,8 @@ category: news-tools
 order: 14
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
-coverAlt: "Diverse team of technology professionals collaborating in a modern office"
+coverImage: "/images/auto/pexels-ai-jobs-and-career-opportunities-in-2026.jpg"
+coverAlt: "Multiethnic business colleagues talking about job while using netbook in convenient workspace in daytime"
 tags:
   - AI Careers
   - AI Jobs
@@ -41,7 +41,7 @@ AI research scientists continue to be in high demand, particularly at frontier A
 
 Prompt engineers and AI interaction designers have emerged as entirely new job categories that did not exist a few years ago. Prompt engineers specialize in crafting inputs that elicit optimal outputs from large language models, developing systematic approaches to prompt design, testing, and optimization. AI interaction designers focus on designing user experiences that effectively combine AI capabilities with human needs, addressing the unique challenges of designing for AI systems that are probabilistic rather than deterministic. These roles typically command salaries from $120,000 to $200,000 and offer accessible entry points for professionals from writing, design, and user research backgrounds.
 
-![Professionals working with AI technology in a modern office environment](https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&h=450&fit=crop)
+![Multiethnic business colleagues talking about job while using netbook in convenient workspace in daytime](/images/auto/pexels-ai-jobs-and-career-opportunities-in-2026.jpg)
 
 ## Skills and Education Paths
 

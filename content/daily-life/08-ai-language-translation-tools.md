@@ -5,8 +5,8 @@ category: daily-life
 order: 8
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200&h=630&fit=crop"
-coverAlt: "Person using AI translation app on smartphone with multi-language interface"
+coverImage: "/images/auto/pexels-ai-language-translation-tools-breaking-d.jpg"
+coverAlt: "Close-up of a person holding a smartphone displaying the ChatGPT application interface on a patterned table."
 tags:
   - AI Translation
   - Language Tools
@@ -33,7 +33,7 @@ The technology behind modern AI translation has shifted from statistical machine
 
 What makes current AI translation tools truly revolutionary is their multimodality. They can translate text you type, speech you speak, text in images captured by your camera, and even sign language in some advanced systems. This versatility means there's almost no communication scenario where AI translation cannot help, from reading a menu in Tokyo to negotiating a business contract in São Paulo.
 
-![AI translation app showing real-time language translation on a smartphone screen](https://images.unsplash.com/photo-1533228876829-65c94e7b5025?w=800&h=400&fit=crop)
+![Close-up of a person holding a smartphone displaying the ChatGPT application interface on a patterned table.](/images/auto/pexels-ai-language-translation-tools-breaking-d.jpg)
 
 But is that the whole story?
 ## Real-Time Voice and Conversation Translation

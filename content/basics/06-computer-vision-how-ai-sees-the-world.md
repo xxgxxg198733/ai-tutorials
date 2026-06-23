@@ -5,8 +5,8 @@ category: basics
 order: 6
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1558537348-e1b4e0c3a440?w=1200&h=630&fit=crop"
-coverAlt: "Computer visualization of AI analyzing and recognizing objects in images"
+coverImage: "/images/auto/pexels-computer-vision-how-ai-sees-the-world.jpg"
+coverAlt: "Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines."
 tags:
   - Computer Vision
   - AI Technology
@@ -41,7 +41,7 @@ In the early layers of a CNN, the network learns to detect basic visual patterns
 
 As information flows deeper into the network, the features become more complex and abstract. Middle layers combine edges into shapes — corners, curves, circles, stripes. They learn to detect things like "eye-like patterns" or "wheel-like patterns" without yet knowing what eyes or wheels are. Later layers assemble these shape features into recognizable parts — faces, car bodies, building windows, tree branches. The final layers integrate everything to identify complete objects with high confidence — "this is a cat," "this is a car," "this is a stop sign." Every level of this hierarchy is learned automatically from data, not programmed by humans.
 
-![AI system analyzing an image with bounding boxes around detected objects](https://images.unsplash.com/photo-1558537348-e1b4e0c3a440?w=800&h=400&fit=crop)
+![Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines.](/images/auto/pexels-computer-vision-how-ai-sees-the-world.jpg)
 
 But does it actually work that way?
 ## Key Tasks in Computer Vision

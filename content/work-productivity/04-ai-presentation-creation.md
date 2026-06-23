@@ -5,8 +5,8 @@ category: work-productivity
 order: 4
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
-coverAlt: "Professional business presentation on a large screen"
+coverImage: "/images/auto/pexels-ai-powerpoint-presentation-creation-buil.jpg"
+coverAlt: "Man presenting on a large screen in a modern office setting, engaging an audience."
 tags:
   - AI Presentations
   - PowerPoint AI
@@ -32,7 +32,7 @@ The fundamental shift comes from AI's ability to handle both the creative and te
 
 Something I wish I'd known earlier: for business professionals, this democratization of presentation design means that everyone can now produce consistently high-quality decks, regardless of their design skills or available time. Sales teams can rapidly create customized pitch decks for different prospects. Educators can transform lesson plans into engaging visual presentations. Executives can turn strategy documents into compelling boardroom presentations in minutes. The barrier between having great content and presenting it effectively has never been lower.
 
-![Modern presentation with charts, images, and clean design on a laptop](https://images.unsplash.com/photo-1606857521015-7f9fcf423740?w=800&h=400&fit=crop)
+![Man presenting on a large screen in a modern office setting, engaging an audience.](/images/auto/pexels-ai-powerpoint-presentation-creation-buil.jpg)
 
 ## Top AI Presentation Tools for 2026
 

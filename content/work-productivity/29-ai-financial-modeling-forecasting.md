@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 29
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
-coverAlt: "Financial analyst reviewing complex data models and forecasts on multiple monitors"
+coverImage: "/images/auto/pexels-ai-for-financial-modeling-and-forecastin.jpg"
+coverAlt: "Business professional analyzing financial data on multiple computer monitors at his workspace."
 tags:
   - financial modeling
   - forecasting

@@ -5,8 +5,8 @@ category: work-productivity
 order: 11
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
-coverAlt: "Person researching and writing a report with AI assistance on a laptop"
+coverImage: "/images/auto/pexels-ai-for-research-and-report-writing-deepe.jpg"
+coverAlt: "Person analyzing financial charts and graphs on a laptop with colorful documents, showcasing market analysis."
 tags:
   - AI Research Tools
   - Report Writing
@@ -32,7 +32,7 @@ In 2026, AI has transformed every stage of this process. AI research tools can s
 
 The impact on report quality is significant. When researchers spend less time on information retrieval and initial drafting, they can devote more effort to critical analysis, creative insight, and persuasive argumentation. AI tools also reduce the cognitive bias that comes from relying on a limited set of familiar sources — they surface perspectives and data points that human researchers might miss. Professionals using AI research tools consistently report producing deeper, better-supported reports in 40-60% less time.
 
-![AI research assistant showing analysis of multiple sources and synthesized findings](https://images.unsplash.com/photo-1504711434969-e33886168f2c?w=800&h=400&fit=crop)
+![Person analyzing financial charts and graphs on a laptop with colorful documents, showcasing market analysis.](/images/auto/pexels-ai-for-research-and-report-writing-deepe.jpg)
 
 ## AI Research Assistants and Source Discovery
 

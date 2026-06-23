@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 30
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200"
-coverAlt: "Software development team conducting quality assurance testing and code review"
+coverImage: "/images/auto/pexels-ai-quality-assurance-and-testing-tools.jpg"
+coverAlt: "Close-up of AI-assisted coding with menu options for debugging and problem-solving."
 tags:
   - quality assurance
   - software testing

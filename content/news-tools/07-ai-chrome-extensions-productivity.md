@@ -5,8 +5,8 @@ category: news-tools
 order: 7
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?w=1200&h=630&fit=crop"
-coverAlt: "Chrome browser window with AI extension icons visible in the toolbar"
+coverImage: "/images/auto/pexels-top-10-ai-chrome-extensions-for-producti.jpg"
+coverAlt: "Close-up of a digital assistant interface on a dark screen, showcasing AI technology communication."
 tags:
   - Chrome Extensions
   - AI Productivity
@@ -50,7 +50,7 @@ Grammarly remains the gold standard for AI writing assistance, and its Chrome ex
 
 The latest version includes a clarity score that rates how easy your writing is to understand and offers specific suggestions for improvement. The tone detector goes beyond simple labels to provide nuanced analysis of how your message might be perceived, with suggestions for adjusting formality, enthusiasm, and directness. Grammarly's comprehensive style guide features allow organizations to enforce brand voice and terminology across all written communications. The free version covers essential grammar, spelling, and tone detection, while Grammarly Premium at $12 per month adds full AI writing generation, plagiarism checking, and advanced style suggestions.
 
-![Browser view showing multiple AI extension popups and toolbars](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=450&fit=crop)
+![Close-up of a digital assistant interface on a dark screen, showcasing AI technology communication.](/images/auto/pexels-top-10-ai-chrome-extensions-for-producti.jpg)
 
 ## 4. Otter.ai: Meeting Transcription and Summaries
 

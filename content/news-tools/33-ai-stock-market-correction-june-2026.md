@@ -5,8 +5,8 @@ category: news-tools
 order: 33
 date: 2026-06-08
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=630&fit=crop"
-coverAlt: "Stock market charts showing downward trend with AI company logos overlaid"
+coverImage: "/images/auto/pexels-the-june-2026-ai-stock-selloff-correctio.jpg"
+coverAlt: "Close-up of stock market chart showing trends and data on a digital screen."
 tags:
   - AI Stocks
   - Market Correction
@@ -30,7 +30,7 @@ I was watching my own portfolio during the worst of it. I've held NVIDIA since e
 
 The trigger was a combination of things. A disappointing earnings forecast from a major cloud provider. New export control rumors out of Washington. A widely-read analyst note suggesting enterprise AI adoption was "measurably slower than consensus expectations." And probably the most important factor: after eighteen months of nearly uninterrupted gains, AI stocks were priced for perfection. Any crack in the narrative was going to cause a selloff.
 
-![Stock market chart showing downward trend](https://images.unsplash.com/photo-1590283603385-17ffb3a7ffe7?w=800&h=400&fit=crop)
+![Close-up of stock market chart showing trends and data on a digital screen.](/images/auto/pexels-the-june-2026-ai-stock-selloff-correctio.jpg)
 
 ## Let's Look at the Numbers
 

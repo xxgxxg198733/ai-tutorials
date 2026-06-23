@@ -5,8 +5,8 @@ category: ai-tools
 order: 14
 date: 2026-06-03
 readingTime: 10
-coverImage: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200&h=630&fit=crop"
-coverAlt: "Otter.ai transcription interface showing automated meeting notes on a laptop"
+coverImage: "/images/auto/pexels-otterai-transcription-tool-guide-2026-fe.jpg"
+coverAlt: "Person using a laptop with an online communication platform, showcasing modern work tech."
 tags:
   - Otter.ai
   - AI Transcription
@@ -34,7 +34,7 @@ Game changer.
 
 Otter.ai is available through its web application at otter.ai and through mobile apps for iOS and Android. The platform offers several subscription tiers. The Free plan provides 300 transcription minutes per month with basic features, 30-minute transcription limits per conversation, and limited export options. Otter Pro at $16.99 per month (billed annually) offers 1,200 transcription minutes per month, removes the per-conversation duration limit, includes advanced export formats, and provides Otter Assistant for automatic meeting joining and notes delivery. The Business plan at $30 per user per month (billed annually) adds team administration features, centralized billing, priority support, and advanced security controls. The Enterprise plan offers custom pricing with additional features like SSO, data retention policies, and dedicated support. Getting started is simple: create an Otter.ai account using your email or Google/Apple/Microsoft credentials. Once logged in, you can immediately start recording and transcribing by clicking the record button in the web app or mobile app. Otter will transcribe speech in real time, identifying different speakers and displaying the text as it's captured. The transcription accuracy depends on audio quality and speaker clarity but generally exceeds 95% for clear English speech. Otter supports English, Spanish, French, German, Japanese, and other major languages, with best results in English. For mobile users, the Otter app can transcribe in-person conversations using the device's microphone, making it useful for lectures, client meetings, and brainstorming sessions. The app works in the background, so you can take notes or reference materials while Otter captures the audio and generates the transcript. After a conversation ends, Otter processes the audio and produces a searchable, editable transcript with speaker labels, a summary with key points and action items, and a keyword overview. All transcripts are stored in your Otter account and can be organized into folders, searched, and shared with others.
 
-![Otter.ai transcription interface showing a meeting transcript with speaker labels and action items](https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=450&fit=crop)
+![Person using a laptop with an online communication platform, showcasing modern work tech.](/images/auto/pexels-otterai-transcription-tool-guide-2026-fe.jpg)
 
 ## Otter Assistant and Meeting Automation
 

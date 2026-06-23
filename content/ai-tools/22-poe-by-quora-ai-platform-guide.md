@@ -5,8 +5,8 @@ category: ai-tools
 order: 22
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1531746790095-e5cb15715051?w=1200&h=630&fit=crop"
-coverAlt: "Poe by Quora AI platform interface showing multiple AI model conversations"
+coverImage: "/images/auto/pexels-poe-by-quora-ai-platform-guide-2026-mult.jpg"
+coverAlt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
 tags:
   - Poe
   - Quora
@@ -32,7 +32,7 @@ Not even close.
 
 Poe's core value proposition is simple: one subscription gives you access to the best AI models from every major provider. When you sign up for Poe at poe.com, you immediately gain access to a diverse roster of AI models including GPT-4o and GPT-4 from OpenAI, Claude 3.5 Sonnet and Claude 3 Haiku from Anthropic, Gemini 1.5 Pro and Gemini 1.5 Flash from Google, Llama 3 from Meta, Mistral Large from Mistral AI, and several other specialized models. Each model appears as a separate "bot" in the Poe sidebar, and you can switch between them freely during a conversation. This is invaluable for comparative work -- you can ask the same question to multiple models and compare their responses to get a more complete understanding of any topic. The free tier of Poe provides limited daily messages across the models, typically a few hundred messages per month, which is sufficient for light use and experimentation. For heavy users, Poe offers two subscription tiers. Poe Premium at $19.99 per month provides unlimited messages on the platform's faster models (including Claude 3 Haiku, GPT-4o mini, and Gemini 1.5 Flash), plus substantial monthly message allocations for the most powerful models like GPT-4o and Claude 3.5 Sonnet. Poe Pro at $29.99 per month includes everything in Premium plus higher message limits on top-tier models, priority access during peak times, and early access to new models as they're added to the platform. Both tiers remove ads and provide a clean, distraction-free experience. The platform is accessible through web browsers at poe.com and through native mobile apps for iOS and Android. The mobile apps are particularly well-designed, offering a smooth chat experience with offline access to recent conversations, voice input support, and seamless synchronization across devices. When you start a conversation on Poe, you always choose which bot (model) you want to talk to. This is a key difference from platforms like ChatGPT where you are locked into a single model. Each bot has a profile showing its capabilities, knowledge cutoff date, and typical response style, helping you choose the right model for each task.
 
-![Poe AI platform sidebar showing multiple AI models available for conversation switching](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop)
+![Close-up of a computer screen displaying ChatGPT interface in a dark setting.](/images/auto/pexels-poe-by-quora-ai-platform-guide-2026-mult.jpg)
 
 ## Creating and Configuring Custom Bots
 

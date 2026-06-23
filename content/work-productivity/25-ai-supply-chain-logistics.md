@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 25
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200"
-coverAlt: "Logistics warehouse with automated systems and inventory management"
+coverImage: "/images/auto/pexels-ai-for-supply-chain-and-logistics.jpg"
+coverAlt: "High-tech automated warehouse system featuring a green robotic arm handling blue storage crates."
 tags:
   - supply chain
   - logistics

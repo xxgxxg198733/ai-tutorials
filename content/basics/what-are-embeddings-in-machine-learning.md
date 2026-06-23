@@ -5,8 +5,8 @@ category: "basics"
 order: 25
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
-coverAlt: "Abstract visualization of data points mapped into a multi-dimensional vector space"
+coverImage: "/images/auto/pexels-what-are-embeddings-in-machine-learning.jpg"
+coverAlt: "Abstract representation of a multimodal model with vectorized patterns and symbols in monochrome."
 tags:
   - Embeddings
   - Natural Language Processing
@@ -39,7 +39,7 @@ The process of creating embeddings involves training a neural network to map inp
 
 Modern embedding methods have evolved significantly. **Contextual embeddings**, produced by models like BERT and its successors, generate different embeddings for the same word depending on its surrounding context — the word "bank" receives a different embedding in "river bank" versus "savings bank." This contextual sensitivity dramatically improves performance on tasks requiring nuanced language understanding. **Sentence embeddings** (from models like Sentence-BERT, Instructor, or text-embedding-3) represent entire sentences or paragraphs as single vectors, enabling semantic similarity comparison across documents. The training process for sentence embeddings typically uses contrastive learning: pairs of similar sentences are pulled together in the embedding space while dissimilar pairs are pushed apart. **Image embeddings** from convolutional neural networks or vision transformers capture visual features, with similar images (same object, scene, or style) clustering together. Modern multimodal models like CLIP produce aligned embeddings across modalities — images and their text descriptions map to the same region of the embedding space. For more on how these models process information, see our guide on [neural network architectures](/basics/understanding-neural-network-architectures).
 
-![Visualization of word embeddings in a 2D space showing semantic clustering](https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=800)
+![Abstract representation of a multimodal model with vectorized patterns and symbols in monochrome.](/images/auto/pexels-what-are-embeddings-in-machine-learning.jpg)
 
 ## Properties of Embedding Spaces
 

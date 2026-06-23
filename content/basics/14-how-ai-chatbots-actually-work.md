@@ -5,8 +5,8 @@ category: basics
 order: 14
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
-coverAlt: "Person interacting with an AI chatbot interface on a computer screen"
+coverImage: "/images/auto/pexels-how-ai-chatbots-actually-work-behind-the.jpg"
+coverAlt: "A focused individual types on a laptop running AI software indoors."
 tags:
   - AI Chatbots
   - Conversational AI
@@ -43,7 +43,7 @@ Let me give you a concrete example. Safety filters and content moderation system
 
 Some chatbot implementations use Retrieval-Augmented Generation (RAG) to improve accuracy. Before the model generates a response, the RAG system searches an external knowledge base for relevant information and injects it into the context. This allows the chatbot to access up-to-date information, specific documents, or proprietary knowledge that was not part of its training data. RAG is increasingly used in enterprise chatbots to provide accurate information about company policies, products, and procedures.
 
-![Diagram showing the architecture of a chatbot system with user input, system prompt, safety filters, and language model](https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=400&fit=crop)
+![A focused individual types on a laptop running AI software indoors.](/images/auto/pexels-how-ai-chatbots-actually-work-behind-the.jpg)
 
 ## How Context and Memory Work
 

@@ -5,8 +5,8 @@ category: ai-tools
 order: 34
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
-coverAlt: "Grok by xAI interface showing AI conversation with real-time data and distinctive personality"
+coverImage: "/images/auto/pexels-grok-by-xai-user-guide-2026-complete-tut.jpg"
+coverAlt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
 tags:
   - Grok AI
   - xAI
@@ -30,7 +30,7 @@ Grok, developed by Elon Musk's xAI company, represents one of the most distincti
 
 Grok is accessible through several channels, each offering different convenience and feature levels. The primary access point is through the X platform (formerly Twitter), where Grok appears as a dedicated button in the sidebar navigation. Clicking the Grok icon opens the conversational interface within X, allowing you to chat with Grok while also browsing your feed. This tight integration means Grok can see and reference X posts, trending topics, and real-time conversations happening on the platform. For users who prefer a standalone experience, Grok is also available as a dedicated mobile app for iOS and Android (the "Grok" app by xAI), and through a web interface at grok.com. The web and app versions offer the same core AI capabilities but with less direct X integration. Access to Grok requires an X Premium subscription. X Premium+ at $16 per month (or $168 per year) provides full access to Grok including the latest Grok-2 model, priority access during peak usage, advanced image generation, and the ability to upload and analyze images and documents. X Premium at $8 per month (or $84 per year) provides Grok access with some limitations: access to the Grok-2 mini model instead of the full model, fewer image generations per day, and standard priority during high usage periods. There's also a Free tier that provides limited Grok access -- typically 10 to 20 messages per day with the Grok-2 mini model -- allowing free users to evaluate the assistant before subscribing. XAI also offers a standalone Grok API for developers, with pricing that is competitive with other API providers. The API supports the Grok-2 and Grok-2 mini models, with endpoints for chat completions, image generation (via Flux integration), and function calling. The API uses an OpenAI-compatible format, making it straightforward to integrate into existing applications. When you first open Grok, the interface presents a conversation panel with a text input at the bottom and a sidebar showing trending topics from X. The trending topics are clickable, allowing you to ask Grok for context or analysis about what's currently happening in the world. Grok's distinctive personality is immediately apparent -- it responds with humor, directness, and a willingness to engage with controversial topics that many other AI assistants handle with more caution. The system prompt that shapes Grok's personality encourages it to be "maximally truthful, useful, and a bit rebellious."
 
-![Grok AI conversation showing real-time X trend analysis with Grok's distinctive personality and image generation results](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop)
+![Close-up of a computer screen displaying ChatGPT interface in a dark setting.](/images/auto/pexels-grok-by-xai-user-guide-2026-complete-tut.jpg)
 
 ## Real-Time Knowledge and X Integration
 

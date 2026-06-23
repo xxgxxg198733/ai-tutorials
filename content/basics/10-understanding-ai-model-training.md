@@ -5,8 +5,8 @@ category: basics
 order: 10
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
-coverAlt: "Data flowing through a machine learning training pipeline diagram"
+coverImage: "/images/auto/pexels-understanding-ai-model-training-how-ai-l.jpg"
+coverAlt: "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms."
 tags:
   - AI Training
   - Machine Learning
@@ -46,7 +46,7 @@ With the loss calculated, the model performs backpropagation. This is the algori
 
 After testing this extensively, finally, an optimization algorithm uses the gradients to update the model's parameters. Gradient descent is the fundamental optimization algorithm, but modern training uses sophisticated variants like Adam or SGD with momentum. These optimizers adjust the learning rate during training, helping the model converge faster and avoid getting stuck in poor solutions. The updated model then processes the next batch, and the cycle repeats.
 
-![A diagram showing the iterative training loop of forward pass, loss calculation, backpropagation, and parameter update](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=400&fit=crop)
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](/images/auto/pexels-understanding-ai-model-training-how-ai-l.jpg)
 
 ## Hyperparameters: The Settings That Control Training
 It works.

@@ -5,8 +5,8 @@ category: news-tools
 order: 5
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=630&fit=crop"
-coverAlt: "Advanced medical technology display showing AI-powered diagnostic analysis"
+coverImage: "/images/auto/pexels-ai-in-healthcare-latest-breakthroughs-an.jpg"
+coverAlt: "Close-up of an MRI scanner displayed on a monitor in a medical clinic."
 tags:
   - AI Healthcare
   - Medical AI
@@ -40,7 +40,7 @@ I learned this the hard way: deepMind's AlphaFold, now in its third generation, 
 
 AI is also transforming the clinical trial process itself. Machine learning models analyze electronic health records to identify suitable trial participants, predict patient outcomes, and optimize trial designs for statistical power and efficiency. Digital twin technology, where AI creates virtual patient models, allows researchers to simulate trial outcomes and refine protocols before enrolling real patients. The result is faster, cheaper, and more effective clinical trials that bring life-saving treatments to patients years earlier than traditional approaches would allow.
 
-![AI-powered medical imaging analysis displayed on diagnostic monitors](https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&h=450&fit=crop)
+![Close-up of an MRI scanner displayed on a monitor in a medical clinic.](/images/auto/pexels-ai-in-healthcare-latest-breakthroughs-an.jpg)
 
 Sound familiar?
 ## Medical Imaging and Diagnostics

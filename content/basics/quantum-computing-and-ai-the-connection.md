@@ -5,8 +5,8 @@ category: "basics"
 order: 34
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200"
-coverAlt: "Abstract visualization of quantum computing concepts intertwined with AI neural networks"
+coverImage: "/images/auto/pexels-quantum-computing-and-ai-the-connection.jpg"
+coverAlt: "Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues."
 tags:
   - Quantum Computing
   - Quantum ML
@@ -41,7 +41,7 @@ After testing this extensively, **Entanglement** is another quantum phenomenon w
 
 **Quantum algorithms** exploit these properties to achieve computational advantages. Shor's algorithm factors large numbers exponentially faster than the best known classical algorithms, threatening current cryptographic systems. Grover's algorithm searches unsorted databases with a quadratic speedup. For AI applications, quantum algorithms are being developed for linear algebra operations (which dominate machine learning), optimization (central to model training), and sampling (important for generative models). The current era is characterized by **Noisy Intermediate-Scale Quantum (NISQ)** devices — quantum processors with 50-1000 qubits that operate with significant error rates. These devices are too small and noisy to achieve the full promise of quantum computing but are sufficient for experimental demonstrations and hybrid quantum-classical algorithms. For more on the computational paradigms driving AI, see our article on [AI inference vs training](/basics/understanding-ai-inference-vs-training).
 
-![Quantum computing concept visualization showing qubits in superposition](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800)
+![Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.](/images/auto/pexels-quantum-computing-and-ai-the-connection.jpg)
 
 ## Quantum Machine Learning Approaches
 Really well, actually.

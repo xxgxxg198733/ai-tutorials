@@ -5,8 +5,8 @@ category: work-productivity
 order: 37
 date: 2026-06-07
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=1200&h=630&fit=crop"
-coverAlt: "Three code editors side by side on a large monitor showing AI coding tools"
+coverImage: "/images/auto/pexels-claude-code-vs-cursor-vs-github-copilot-.jpg"
+coverAlt: "Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development."
 tags:
   - Claude Code
   - Cursor
@@ -30,7 +30,7 @@ Six months later, I'm still paying for all three. Not because I'm indecisive or 
 
 Here's how I think about each one, with specific examples of when each has saved me — and when each has wasted my time.
 
-![Developer workstation with multiple screens](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=800&h=400&fit=crop)
+![Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development.](/images/auto/pexels-claude-code-vs-cursor-vs-github-copilot-.jpg)
 
 ## GitHub Copilot: The Autocomplete King
 

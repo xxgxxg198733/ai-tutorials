@@ -5,8 +5,8 @@ category: news-tools
 order: 9
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
-coverAlt: "Legal documents and gavel representing AI copyright and intellectual property law"
+coverImage: "/images/auto/pexels-ai-copyright-and-legal-issues-update-202.jpg"
+coverAlt: "Judge signing documents at desk with focus on gavel, representing law and justice."
 tags:
   - AI Copyright
   - AI Legal Issues
@@ -42,7 +42,7 @@ The key legal question centers on fair use doctrine, which permits limited use o
 
 Several notable settlements have also shaped the landscape. Major news organizations including The New York Times, The Associated Press, and Axel Springer have reached licensing agreements with AI companies, establishing a framework for compensated use of news content in AI training. These deals set important precedents for how training data rights might be commercialized. The Getty Images lawsuit against Stability AI resulted in a significant settlement that included both financial compensation and licensing arrangements, establishing that visual works used in training require proper attribution and compensation. The trajectory suggests a future where training on copyrighted data will increasingly require licensing, creating new markets for training data rights.
 
-![Legal documents and scales of justice representing AI law](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop)
+![Judge signing documents at desk with focus on gavel, representing law and justice.](/images/auto/pexels-ai-copyright-and-legal-issues-update-202.jpg)
 
 But is that the whole story?
 ## Copyright Protection for AI-Generated Works

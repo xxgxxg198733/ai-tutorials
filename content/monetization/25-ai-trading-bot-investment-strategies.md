@@ -5,8 +5,8 @@ category: "monetization"
 order: 25
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600"
-coverAlt: "Stock market charts and trading data displayed on digital screens"
+coverImage: "/images/auto/pexels-ai-trading-bots-what-they-actually-are-a.jpg"
+coverAlt: "Detailed financial trading screen with colorful charts and data representing market fluctuations."
 tags:
   - AI trading bots
   - algorithmic trading
@@ -45,7 +45,7 @@ But here's the part that most "AI trading bot" marketing conveniently leaves out
 
 The gap between institutional and retail algorithmic trading is enormous. It's like comparing a Formula 1 car to a Honda Civic — they're both cars, but the similarity ends there.
 
-![Cryptocurrency trading dashboard showing AI bot performance analytics](https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=1200)
+![Detailed financial trading screen with colorful charts and data representing market fluctuations.](/images/auto/pexels-ai-trading-bots-what-they-actually-are-a.jpg)
 
 ## The Types of Trading Bots You'll Encounter
 

@@ -5,8 +5,8 @@ category: news-tools
 order: 6
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
-coverAlt: "Students using AI-powered educational technology in a modern classroom"
+coverImage: "/images/auto/pexels-ai-in-education-transforming-how-we-lear.jpg"
+coverAlt: "Students using laptops in a classroom setting with a teacher supervising, promoting digital education."
 tags:
   - AI Education
   - EdTech
@@ -40,7 +40,7 @@ Khan Academy's Khanmigo, now in its third year of deployment, exemplifies the po
 
 Adaptive learning platforms powered by AI have transformed how educational content is sequenced and delivered. Platforms like Carnegie Learning's MATHia, DreamBox, and ALEKS use AI models to continuously assess student knowledge and adjust the difficulty and sequence of content in real-time. If a student struggles with a particular concept, the system provides additional practice and alternative explanations. If they master material quickly, the system moves them forward without unnecessary repetition. This adaptive approach ensures that every student is consistently working at the edge of their capabilities, maximizing learning efficiency and engagement.
 
-![Students collaborating with AI-powered educational tablets in a modern classroom](https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&h=450&fit=crop)
+![Students using laptops in a classroom setting with a teacher supervising, promoting digital education.](/images/auto/pexels-ai-in-education-transforming-how-we-lear.jpg)
 
 ## Automated Assessment and Feedback
 

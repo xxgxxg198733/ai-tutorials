@@ -5,8 +5,8 @@ category: "basics"
 order: 19
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200"
-coverAlt: "Conceptual image showing knowledge transfer between connected AI systems"
+coverImage: "/images/auto/pexels-what-is-transfer-learning-in-ai.jpg"
+coverAlt: "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms."
 tags:
   - Transfer Learning
   - Deep Learning
@@ -39,7 +39,7 @@ The mechanism behind transfer learning depends on the type of model and the natu
 
 There are several common strategies for applying transfer learning. **Feature extraction** involves using the pre-trained model as a fixed feature extractor: you pass your target dataset through the pre-trained network, extract the activations from an intermediate layer, and use these as input features for a new classifier trained on your specific task. This approach is computationally efficient since the pre-trained weights remain frozen. **Fine-tuning** goes a step further by allowing the pre-trained weights to be updated during training on the target task. Typically, the earlier layers are fine-tuned with a lower learning rate (to avoid catastrophic forgetting of their general knowledge), while the new task-specific layers are trained from scratch with a higher learning rate. **Progressive unfreezing** is a hybrid strategy where layers are gradually unfrozen during training, starting from the final layers and working backward, allowing the model to adapt progressively without destabilizing early training.
 
-![Transfer learning diagram showing knowledge flow from source task to target task](https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800)
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](/images/auto/pexels-what-is-transfer-learning-in-ai.jpg)
 
 ## Types of Transfer Learning
 I'm not exaggerating.

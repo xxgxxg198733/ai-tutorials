@@ -5,8 +5,8 @@ category: "basics"
 order: 21
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200"
-coverAlt: "Network visualization showing connected devices in a federated learning system"
+coverImage: "/images/auto/pexels-what-is-federated-learning.jpg"
+coverAlt: "Abstract illustration depicting complex digital neural networks and data flow."
 tags:
   - Federated Learning
   - Privacy
@@ -37,7 +37,7 @@ The federated learning process operates in rounds, with each round consisting of
 
 The key innovation of federated learning lies in its aggregation mechanism. The most widely used algorithm, Federated Averaging (FedAvg), works by having the server compute a weighted average of the model updates received from participating clients, with weights proportional to the size of each client's local dataset. This aggregated update is then applied to the global model, completing one round. This process repeats across many rounds until the global model converges to satisfactory performance. Several critical design choices affect the efficiency and effectiveness of federated learning: the fraction of clients selected per round, the number of local training epochs, the batch size, and the learning rate schedule. Communication efficiency is crucial since network bandwidth is often limited, especially for mobile devices. Techniques like gradient compression, quantization, and sparsification can dramatically reduce the amount of data transmitted, making federated learning practical even on low-bandwidth connections.
 
-![Federated learning architecture diagram showing model updates flowing between devices and central server](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800)
+![Abstract illustration depicting complex digital neural networks and data flow.](/images/auto/pexels-what-is-federated-learning.jpg)
 
 ## Types of Federated Learning
 Worth every penny.

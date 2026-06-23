@@ -5,8 +5,8 @@ category: work-productivity
 order: 36
 date: 2026-06-07
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=630&fit=crop"
-coverAlt: "Developer working with Claude Code on a laptop, terminal and editor visible"
+coverImage: "/images/auto/pexels-claude-code-in-practice-what-ive-built-b.jpg"
+coverAlt: "A developer writing code on a laptop, displaying programming scripts in an office environment."
 tags:
   - Claude Code
   - AI Coding
@@ -32,7 +32,7 @@ It pointed out that I was destructuring a nested object before checking if the p
 
 That's when I started taking Claude Code seriously.
 
-![Developer working with Claude Code on a laptop](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop)
+![A developer writing code on a laptop, displaying programming scripts in an office environment.](/images/auto/pexels-claude-code-in-practice-what-ive-built-b.jpg)
 
 ## What Claude Code Is, and What It Isn't
 

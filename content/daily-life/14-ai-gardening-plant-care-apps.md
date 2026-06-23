@@ -5,8 +5,8 @@ category: daily-life
 order: 14
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&h=630&fit=crop"
-coverAlt: "Person using a smartphone plant identification app in a lush garden"
+coverImage: "/images/auto/pexels-ai-gardening-and-plant-care-apps-grow-gr.jpg"
+coverAlt: "A person takes a photo of lush ferns in an outdoor setting using a smartphone."
 tags:
   - AI Gardening
   - Plant Care
@@ -32,7 +32,7 @@ The fundamental challenge of plant care is that plants cannot tell you what they
 
 AI gardening tools cover the full spectrum of plant care: identifying plants you encounter, diagnosing problems, scheduling care routines, planning gardens, and even controlling automated irrigation systems. Each of these capabilities makes gardening more accessible to beginners while helping experienced gardeners achieve better results with less effort.
 
-![AI plant identification app showing information about a flower on a smartphone](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&h=400&fit=crop)
+![A person takes a photo of lush ferns in an outdoor setting using a smartphone.](/images/auto/pexels-ai-gardening-and-plant-care-apps-grow-gr.jpg)
 
 Sound familiar?
 ## AI Plant Identification and Information

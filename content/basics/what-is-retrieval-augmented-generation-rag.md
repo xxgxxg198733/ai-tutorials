@@ -5,8 +5,8 @@ category: "basics"
 order: 23
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200"
-coverAlt: "Conceptual visualization of an AI retrieving and generating information from a knowledge base"
+coverImage: "/images/auto/pexels-what-is-retrieval-augmented-generation-r.jpg"
+coverAlt: "Abstract black and white graphic featuring a multimodal model pattern with various shapes."
 tags:
   - RAG
   - Large Language Models
@@ -38,7 +38,7 @@ The RAG architecture consists of several well-defined stages that transform a us
 
 The second stage is **retrieval**: the query vector is used to search a knowledge base for the most relevant documents. This search is typically performed against a **vector database** (like Pinecone, Weaviate, Qdrant, or pgvector) that stores pre-computed embeddings of all documents in the knowledge base. The vector database returns the top-k most similar documents based on vector similarity. Many production systems enhance this with hybrid search that combines vector similarity with traditional keyword-based retrieval (BM25), capturing both semantic meaning and exact term matches. Advanced RAG systems may also apply re-ranking, where a cross-encoder model scores the retrieved candidates more accurately to improve the quality of the final context. The third stage is **generation**: the retrieved documents are inserted into a carefully crafted prompt alongside the user's original query, and the LLM generates a response based on this augmented context. The model uses its reasoning capabilities to synthesize information from the retrieved documents, cite sources, and formulate a coherent answer.
 
-![RAG architecture diagram showing the retrieval and generation pipeline](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800)
+![Abstract black and white graphic featuring a multimodal model pattern with various shapes.](/images/auto/pexels-what-is-retrieval-augmented-generation-r.jpg)
 
 ## Key Components of a RAG System
 

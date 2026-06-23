@@ -5,8 +5,8 @@ category: daily-life
 order: 9
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&h=630&fit=crop"
-coverAlt: "Professional camera with AI editing software displayed on a laptop screen"
+coverImage: "/images/auto/pexels-ai-for-photography-and-photo-editing-cap.jpg"
+coverAlt: "Photographer reviews camera settings while editing wedding photos on a laptop."
 tags:
   - AI Photography
   - Photo Editing
@@ -32,7 +32,7 @@ The most profound change is that AI has democratized professional-quality photog
 
 AI photography tools fall into several categories: capture assistance that helps you take better photos, enhancement tools that improve image quality, creative editing that transforms images artistically, and generative AI that creates entirely new imagery. Each category has seen remarkable advances, and the line between traditional photography and AI-generated imagery continues to blur.
 
-![AI photo editing software showing advanced retouching tools on a laptop](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
+![Photographer reviews camera settings while editing wedding photos on a laptop.](/images/auto/pexels-ai-for-photography-and-photo-editing-cap.jpg)
 
 ## AI-Powered Camera Technology
 

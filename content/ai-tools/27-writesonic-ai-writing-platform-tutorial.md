@@ -5,8 +5,8 @@ category: ai-tools
 order: 27
 date: 2026-06-03
 readingTime: 11
-coverImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
-coverAlt: "Writesonic AI writing platform showing content generation editor with formatting tools"
+coverImage: "/images/auto/pexels-writesonic-ai-writing-platform-tutorial-.jpg"
+coverAlt: "Close-up of AI-assisted coding with menu options for debugging and problem-solving."
 tags:
   - Writesonic
   - AI Writing
@@ -34,7 +34,7 @@ It works.
 
 Writesonic is designed to be accessible to users of all skill levels, from solo entrepreneurs creating their first website copy to enterprise marketing teams producing content at scale. To begin, visit writesonic.com and create a free account. The free tier provides 10,000 words per month across all tools, which is generous compared to many competitors and sufficient for testing the platform's capabilities. Paid plans start with the Individual plan at $20 per month (50,000 words, access to all templates, basic SEO features), the Professional plan at $49 per month (200,000 words, priority support, API access, advanced SEO features), the Advanced plan at $149 per month (unlimited words, team collaboration, enterprise-grade security, custom templates), and Enterprise plans with custom requirements. All paid plans include access to both GPT-4 and Claude models for generation, with the ability to choose which model powers different types of content. When you log into Writesonic for the first time, you are greeted by a clean dashboard organized around the platform's main capabilities: Articles (long-form content), Copywriting (marketing copy), ChatSonic (conversational AI), AI Image Generator, and AI Chat (general AI assistant). The article writer is the flagship feature, capable of generating SEO-optimized blog posts from a single title or keyword. The process is straightforward: enter your topic or target keyword, select your audience and tone (professional, conversational, humorous, authoritative, or customized), choose your desired article length (short at 300 words, medium at 600 words, long at 1,200 words, or comprehensive at 2,000+ words), and click generate. Writesonic produces a complete article with introduction, body sections with headings, and a conclusion. You can then edit the output using the built-in rich text editor, which includes formatting tools, image placement, and the ability to regenerate specific sections or paragraphs individually. Writesonic also supports the "One-Shot Article" feature, which generates an entire article in a single pass, and the "Step-by-Step Article" mode, which generates the outline first and then writes each section, giving you more control over the structure and direction.
 
-![Writesonic article editor showing AI-generated blog post with formatting toolbar and SEO analysis sidebar](https://images.unsplash.com/photo-1504711434969-e33886168d8c?w=800&h=450&fit=crop)
+![Close-up of AI-assisted coding with menu options for debugging and problem-solving.](/images/auto/pexels-writesonic-ai-writing-platform-tutorial-.jpg)
 
 But how do you actually use this?
 ## Templates and Content Types

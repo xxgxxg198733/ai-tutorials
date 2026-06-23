@@ -5,8 +5,8 @@ category: basics
 order: 13
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=1200&h=630&fit=crop"
-coverAlt: "Venn diagram showing the relationship between AI, machine learning, and deep learning"
+coverImage: "/images/auto/pexels-ai-vs-machine-learning-vs-deep-learning-.jpg"
+coverAlt: "Visual representation of geometric calculations comparing bits and qubits in black and white."
 tags:
   - AI Basics
   - Machine Learning
@@ -56,7 +56,7 @@ Machine learning requires feature engineering — the process of selecting and c
 
 Let me give you a concrete example. Machine learning also encompasses different learning paradigms. Supervised learning requires labeled data — inputs paired with correct outputs. Unsupervised learning finds patterns in unlabeled data. Reinforcement learning learns through trial and error interaction with an environment. Semi-supervised learning combines a small amount of labeled data with a large amount of unlabeled data. Each paradigm suits different types of problems and data availability.
 
-![A visual Venn diagram showing AI as the largest circle, ML inside it, and deep learning inside ML](https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=800&h=400&fit=crop)
+![Visual representation of geometric calculations comparing bits and qubits in black and white.](/images/auto/pexels-ai-vs-machine-learning-vs-deep-learning-.jpg)
 
 ## Deep Learning: Neural Networks at Scale
 

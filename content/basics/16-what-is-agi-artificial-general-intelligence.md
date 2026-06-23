@@ -5,8 +5,8 @@ category: basics
 order: 16
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1635322966219-b75ed06f108e?w=1200&h=630&fit=crop"
-coverAlt: "Futuristic representation of artificial general intelligence and human cognition"
+coverImage: "/images/auto/pexels-what-is-agi-artificial-general-intellige.jpg"
+coverAlt: "A robotic hand reaching into a digital network on a blue background, symbolizing AI technology."
 tags:
   - AGI
   - Artificial General Intelligence
@@ -58,7 +58,7 @@ The systems integration perspective suggests that AGI won't come from a single b
 
 There are also more speculative paths involving whole-brain emulation, neuromorphic computing that directly mimics biological neurons, and approaches based on quantum computing. These are further from current practice but represent fundamentally different approaches to creating general intelligence.
 
-![A conceptual comparison showing narrow AI specialists versus a general AGI system](https://images.unsplash.com/photo-1635322966219-b75ed06f108e?w=800&h=400&fit=crop)
+![A robotic hand reaching into a digital network on a blue background, symbolizing AI technology.](/images/auto/pexels-what-is-agi-artificial-general-intellige.jpg)
 
 ## AGI Timelines: Expert Predictions
 

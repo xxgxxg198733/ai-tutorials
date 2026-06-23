@@ -5,8 +5,8 @@ category: work-productivity
 order: 3
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop"
-coverAlt: "Spreadsheet with charts and data visualization on a laptop screen"
+coverImage: "/images/auto/pexels-automate-excel-tasks-with-ai-transform-y.jpg"
+coverAlt: "Focused business analysis with charts and graphs on a laptop in a modern office setting."
 tags:
   - Excel Automation
   - AI Productivity
@@ -33,7 +33,7 @@ The business case for AI Excel automation is compelling. Studies show that knowl
 
 AI automation extends across the full spectrum of Excel work: data import and cleaning, formula and function writing, macro and VBA generation, chart creation, pivot table analysis, and report generation. Each of these areas has seen transformative AI tools emerge over the past two years. The key insight is that AI doesn't replace the need for spreadsheet skills — it elevates them, allowing users to focus on analysis and decision-making rather than the mechanical aspects of spreadsheet construction.
 
-![Person working on an automated Excel dashboard with AI-generated charts](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![Focused business analysis with charts and graphs on a laptop in a modern office setting.](/images/auto/pexels-automate-excel-tasks-with-ai-transform-y.jpg)
 
 ## Microsoft Copilot in Excel: Your AI Spreadsheet Assistant
 

@@ -5,8 +5,8 @@ category: news-tools
 order: 11
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=630&fit=crop"
-coverAlt: "Stock market and investment data charts with AI technology concepts"
+coverImage: "/images/auto/pexels-ai-startup-funding-and-investment-trends.jpg"
+coverAlt: "Close-up of stock market trading screen displaying financial growth and charts."
 tags:
   - AI Investment
   - AI Startups
@@ -41,7 +41,7 @@ OpenAI's valuation has continued to climb, with the company reportedly raising a
 
 A notable development in 2026 is the emergence of more specialized foundation models that target specific verticals or modalities. Companies like Cohere, focusing on enterprise natural language processing, and Adept, focusing on AI agents for software tasks, have carved out niches that attract significant investment without requiring the capital intensity of general-purpose frontier models. This specialization trend is likely to continue as the market recognizes that one-size-fits-all foundation models may not be optimal for every use case, creating opportunities for focused players with deep domain expertise.
 
-![Investment chart showing AI startup funding growth over time](https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800&h=450&fit=crop)
+![Close-up of stock market trading screen displaying financial growth and charts.](/images/auto/pexels-ai-startup-funding-and-investment-trends.jpg)
 
 ## Enterprise AI and Vertical Applications
 

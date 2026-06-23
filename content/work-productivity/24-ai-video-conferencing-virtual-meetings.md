@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 24
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1516387938699-a93567ec168e?w=1200"
-coverAlt: "Professional team participating in a virtual video conference meeting"
+coverImage: "/images/auto/pexels-ai-video-conferencing-and-virtual-meetin.jpg"
+coverAlt: "From above of diverse employees gathering at table in contemporary conference hall and having video call with coworker on TV set"
 tags:
   - video conferencing
   - virtual meetings

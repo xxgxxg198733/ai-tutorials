@@ -5,8 +5,8 @@ category: news-tools
 order: 10
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&h=630&fit=crop"
-coverAlt: "Smartphone screens showcasing various AI app interfaces on both iPhone and Android devices"
+coverImage: "/images/auto/pexels-best-ai-apps-for-iphone-and-android-in-2.jpg"
+coverAlt: "Detailed close-up view of a smartphone screen displaying various popular social media app icons."
 tags:
   - AI Mobile Apps
   - iOS AI Apps
@@ -49,7 +49,7 @@ Lensa AI remains one of the most popular AI photo apps, offering AI-generated av
 
 For AI image generation on mobile, DALL-E 4 through the ChatGPT mobile app offers the most seamless experience, generating images from text descriptions directly in the chat interface. Midjourney's mobile app provides access to its V7 image generation model with a touch-optimized interface for prompt creation and image browsing. Leonardo.AI's mobile app offers a free tier for AI image generation with style presets that make it easy to create consistent visual content quickly. These apps have made AI image generation genuinely mobile, allowing you to create professional-quality visuals anywhere.
 
-![Smartphone displaying an AI art generation app in use](https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800&h=450&fit=crop)
+![Detailed close-up view of a smartphone screen displaying various popular social media app icons.](/images/auto/pexels-best-ai-apps-for-iphone-and-android-in-2.jpg)
 
 Is it worth the effort?
 ## Best AI Productivity and Utility Apps

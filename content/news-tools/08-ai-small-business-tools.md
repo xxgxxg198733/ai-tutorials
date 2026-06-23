@@ -5,8 +5,8 @@ category: news-tools
 order: 8
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=630&fit=crop"
-coverAlt: "Small business owner working at a desk with AI tools displayed on multiple screens"
+coverImage: "/images/auto/pexels-ai-for-small-business-affordable-tools-g.jpg"
+coverAlt: "Business professional analyzing financial data on multiple computer monitors at his workspace."
 tags:
   - AI Small Business
   - Business AI Tools
@@ -40,7 +40,7 @@ Canva's AI-powered design suite is the standout tool for small business marketin
 
 For written content, ChatGPT's paid tier at $20 per month is a powerful marketing assistant that can generate blog posts, email sequences, product descriptions, and social media captions. Small business owners can describe their product or service, specify their target audience and brand voice, and receive polished copy ready for review and publication. Combined with Mailchimp's AI-powered email marketing tools, which include subject line optimization, send-time optimization, and content recommendations, small businesses can run sophisticated email marketing campaigns with minimal manual effort.
 
-![Small business owner using AI marketing tools on a laptop](https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=450&fit=crop)
+![Business professional analyzing financial data on multiple computer monitors at his workspace.](/images/auto/pexels-ai-for-small-business-affordable-tools-g.jpg)
 
 So where does that leave us?
 ## AI Customer Service and Communication

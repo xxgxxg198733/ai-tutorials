@@ -5,8 +5,8 @@ category: news-tools
 order: 13
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&h=630&fit=crop"
-coverAlt: "Digital security and privacy concept with AI-related data protection imagery"
+coverImage: "/images/auto/pexels-ai-security-and-privacy-concerns.jpg"
+coverAlt: "A family stands in digital blue light, symbolizing online privacy and security."
 tags:
   - AI Security
   - AI Privacy
@@ -41,7 +41,7 @@ Model extraction attacks represent another significant threat. In these attacks,
 
 I'll be honest: data poisoning attacks target the training process itself. By injecting malicious data into training datasets, attackers can create backdoors, bias model outputs in specific directions, or degrade model performance on particular tasks. The scale of modern training datasets, often comprising billions of data points scraped from the internet, makes comprehensive data validation impractical. Supply chain security for AI models has also become critical, as organizations increasingly use pre-trained models and fine-tuned variants from third-party sources that may contain hidden vulnerabilities or malicious modifications. The SolarWinds-style supply chain attack, but for AI models, is a realistic and concerning scenario that security professionals are working to prevent.
 
-![Cybersecurity concept with digital locks and AI technology elements](https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=450&fit=crop)
+![A family stands in digital blue light, symbolizing online privacy and security.](/images/auto/pexels-ai-security-and-privacy-concerns.jpg)
 
 ## Privacy Risks in AI Systems
 

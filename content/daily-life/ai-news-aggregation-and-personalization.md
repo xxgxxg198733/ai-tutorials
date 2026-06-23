@@ -5,8 +5,8 @@ category: "daily-life"
 order: 30
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1504711434969-e33886168d8c?w=1200"
-coverAlt: "Person reading news on multiple devices with AI-curated content feeds"
+coverImage: "/images/auto/pexels-ai-news-aggregation-and-personalization-.jpg"
+coverAlt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
 tags: ["news aggregation", "personalized news", "AI journalism", "content curation", "media technology"]
 keywords: ["AI news aggregator", "personalized news feed", "news curation AI", "bias detection AI", "AI news summary", "fact-checking tool", "smart news reader", "news recommendation engine", "media analysis AI", "content personalization"]
 ---
@@ -22,7 +22,7 @@ The era of the one-size-fits-all newspaper is long past, and AI-powered news agg
 
 What distinguishes modern AI news curation from simple topic filtering is its understanding of nuance and context. The AI can distinguish between a passing interest—clicking on one celebrity news article shared by a friend—and a genuine preference for that content category. It can recognize that you prefer in-depth analysis of technology news but brief summaries of political developments. Some platforms offer granular control over source preferences, allowing users to prioritize certain publications while deprioritizing others. Advanced systems incorporate recency, source credibility, and geographic relevance into their ranking algorithms. The goal is not to create an echo chamber but to ensure that the most important and relevant content rises to the top of each user's feed, reducing the signal-to-noise ratio that makes traditional news consumption so time-consuming.
 
-![Multiple news sources displayed on tablet with AI curation interface](https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800)
+![Close-up of a smartphone displaying ChatGPT app held over AI textbook.](/images/auto/pexels-ai-news-aggregation-and-personalization-.jpg)
 
 ## Smart Summarization and Briefing Generation
 

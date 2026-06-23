@@ -5,8 +5,8 @@ category: ai-tools
 order: 13
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=1200&h=630&fit=crop"
-coverAlt: "Runway AI video editing interface showing AI-generated video timeline"
+coverImage: "/images/auto/pexels-runway-ai-video-generation-guide-2026-ge.jpg"
+coverAlt: "Close-up of a video editing software interface showing timeline and controls."
 tags:
   - Runway AI
   - AI Video Generation
@@ -34,7 +34,7 @@ I'm not exaggerating.
 
 Runway is a cloud-based AI video platform that provides a comprehensive suite of generative AI tools for video content creation. Unlike traditional video editing software that requires manual techniques for every effect, Runway uses machine learning models to generate, modify, and enhance video content through natural language descriptions and simple controls. The platform operates primarily through a web browser at runwayml.com, though there's also a desktop application for improved performance on supported hardware. Runway offers several subscription tiers. The Free plan provides a limited number of credits (approximately 5-10 generations per month) for evaluation. The Standard plan at $15 per month offers 625 credits with standard generation speed and export quality. The Pro plan at $35 per month provides 2250 credits, faster generations, higher resolution exports, and priority processing. The Unlimited plan at $95 per month offers unlimited video generations and exports for heavy users. Enterprise plans with custom pricing are available for studios and organizations. Credits are consumed based on generation complexity and duration -- a 5-second Gen-3 video generation might cost 25-40 credits, while simpler tools like background removal cost fewer credits. Understanding the credit system helps you plan projects and manage subscription costs effectively. Getting started is straightforward: create an account, choose a plan, and navigate to the Tools tab to access Runway's full catalog of AI capabilities. The interface organizes tools by category -- Generate (text-to-video, image-to-video), Edit (inpainting, outpainting, erasing), and Enhance (upscaling, frame interpolation, colorization). Each tool has a dedicated workspace with specific controls and settings. Runway also offers a library of training resources, community showcases, and example projects that demonstrate best practices and inspire creative applications.
 
-![Runway AI interface showing Gen-3 Alpha video generation workspace](https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=450&fit=crop)
+![Close-up of a video editing software interface showing timeline and controls.](/images/auto/pexels-runway-ai-video-generation-guide-2026-ge.jpg)
 
 ## Gen-3 Alpha: Text-to-Video and Image-to-Video
 

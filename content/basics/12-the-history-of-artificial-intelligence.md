@@ -5,8 +5,8 @@ category: basics
 order: 12
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
-coverAlt: "Historical timeline visualization of artificial intelligence development"
+coverImage: "/images/auto/pexels-the-history-of-artificial-intelligence-f.jpg"
+coverAlt: "Abstract representation of a multimodal model with vectorized patterns and symbols in monochrome."
 tags:
   - AI History
   - AI Milestones
@@ -52,7 +52,7 @@ AI experienced a resurgence in the 1980s driven by expert systems. Unlike the ea
 
 The second AI winter came in the late 1980s and early 1990s. Expert systems proved brittle and difficult to maintain. The Japanese Fifth Generation project failed to meet its ambitious goals. High-profile AI companies collapsed. Government and corporate funding dried up once again. Yet this period also saw important foundational work in neural networks, statistical methods, and machine learning that would eventually power the next AI revolution.
 
-![Historical photograph of early AI researchers working at computer terminals](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+![Abstract representation of a multimodal model with vectorized patterns and symbols in monochrome.](/images/auto/pexels-the-history-of-artificial-intelligence-f.jpg)
 
 ## The Modern AI Renaissance: Deep Learning and Beyond
 

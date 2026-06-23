@@ -5,8 +5,8 @@ category: ai-tools
 order: 2
 date: 2026-06-02
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=630&fit=crop"
-coverAlt: "AI-generated abstract artwork with vibrant colors and geometric patterns"
+coverImage: "/images/auto/pexels-midjourney-beginners-guide-create-stunni.jpg"
+coverAlt: "Colorful 3D rendering resembling neural networks or data visualization."
 tags:
   - Midjourney
   - AI Art
@@ -34,7 +34,7 @@ Does this live up to the hype?
 
 To begin using Midjourney, you will need a Discord account and a Midjourney subscription. Start by visiting midjourney.com and clicking the "Join the Beta" button, which will redirect you to Discord. Once you accept the invite to the Midjourney server, you can explore the community channels and see what other users are creating.
 
-![Midjourney Discord interface showing image generations](https://images.unsplash.com/photo-1549490349-8643362247b5?w=800&h=400&fit=crop)
+![Colorful 3D rendering resembling neural networks or data visualization.](/images/auto/pexels-midjourney-beginners-guide-create-stunni.jpg)
 
 For generating images, you will need a subscription plan. Midjourney offers several tiers ranging from a Basic plan suitable for casual users to Pro plans designed for heavy commercial use. The subscription provides you with a certain number of GPU minutes per month, which translates to image generations. New users receive a small number of free trial generations to test the platform before committing to a subscription.
 

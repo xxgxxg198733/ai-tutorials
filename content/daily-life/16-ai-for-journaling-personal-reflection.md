@@ -5,8 +5,8 @@ category: daily-life
 order: 16
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=1200&h=630&fit=crop"
-coverAlt: "Person writing in a journal next to a laptop with an AI journaling app open"
+coverImage: "/images/auto/pexels-ai-for-journaling-and-personal-reflectio.jpg"
+coverAlt: "Business person multitasking with a smartphone and notebook at their desk."
 tags:
   - AI Journaling
   - Personal Reflection
@@ -32,7 +32,7 @@ In 2026, AI-powered journaling apps have evolved from simple digital diaries int
 
 The most important principle of AI-assisted journaling is that the AI serves your reflection, not the other way around. The technology should help you go deeper, write more honestly, and gain more insight from your practice. It should never feel like you are writing for the AI or censoring yourself because an algorithm will analyze your words. The best AI journaling tools are designed with privacy and authenticity as their foundation.
 
-![AI journaling app showing a writing interface with mood tracking and prompts](https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&h=400&fit=crop)
+![Business person multitasking with a smartphone and notebook at their desk.](/images/auto/pexels-ai-for-journaling-and-personal-reflectio.jpg)
 
 ## AI Journal Prompts and Writing Guidance
 

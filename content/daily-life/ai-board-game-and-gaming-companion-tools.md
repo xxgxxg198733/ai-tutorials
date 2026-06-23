@@ -5,8 +5,8 @@ category: "daily-life"
 order: 32
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1606503153255-59d8b2a4b0f7?w=1200"
-coverAlt: "Board game setup with tablet showing AI companion app for rules and scoring"
+coverImage: "/images/auto/pexels-ai-board-game-and-gaming-companion-tools.jpg"
+coverAlt: "Close-up view of Monopoly board game with metal tokens and stacked Jenga blocks on a table."
 tags: ["board games", "AI gaming", "tabletop gaming", "game assistants", "gaming technology"]
 keywords: ["AI board game assistant", "board game app AI", "game rule assistant", "AI game opponent", "board game recommendation", "strategy analysis AI", "tabletop gaming AI", "board game scoring app", "AI dungeon master", "gaming companion app"]
 ---
@@ -21,7 +21,7 @@ I was skeptical at first, but one of the oldest applications of AI in gaming is 
 
 What makes modern AI opponents particularly impressive is their ability to play games with hidden information, bluffing, and social deduction—elements that were traditionally considered beyond the reach of computer players. AI systems can now play games like The Resistance, Coup, and even negotiate in trading games like Settlers of Catan with surprising sophistication. For solo players, this means virtually any board game can be enjoyed alone, with AI opponents providing genuine challenge and unpredictable gameplay. Some AI opponents can also serve as "coaches," explaining their strategic thinking and helping human players understand why certain moves are stronger than others. This educational aspect is transforming AI from a mere opponent into a training partner that helps players improve their skills.
 
-![Colorful board game pieces with a tablet running a game companion app](https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=800)
+![Close-up view of Monopoly board game with metal tokens and stacked Jenga blocks on a table.](/images/auto/pexels-ai-board-game-and-gaming-companion-tools.jpg)
 
 ## Rules Assistance and Scorekeeping
 

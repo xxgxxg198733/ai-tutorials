@@ -5,8 +5,8 @@ category: "basics"
 order: 29
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
-coverAlt: "Data visualization representing artificially generated training data"
+coverImage: "/images/auto/pexels-what-is-synthetic-data-in-ai-training.jpg"
+coverAlt: "Colorful 3D rendering resembling neural networks or data visualization."
 tags:
   - Synthetic Data
   - Data Generation
@@ -37,7 +37,7 @@ The techniques for generating synthetic data vary widely depending on the type o
 
 For **image and video data**, the leading approaches include GANs (StyleGAN, StyleGAN-XL) that can generate photorealistic images of faces, objects, and scenes; diffusion models (Stable Diffusion, DALL-E) that offer greater diversity and controllability; and **rendering-based approaches** that use 3D engines (Unity, Unreal Engine, Blender) to generate images with precise control over lighting, pose, viewpoint, and scene composition. These rendering approaches are particularly important for domains like autonomous driving, where synthetic images from simulators like CARLA and Waymo's Carcraft provide perfect pixel-level labels for objects, depth, and semantics. For **text and language data**, large language models themselves are increasingly used as data generators. An LLM can be prompted with carefully designed instructions to produce synthetic text for training smaller models, creating diverse examples of specific writing styles, conversation types, or domain-specific content. For more on how models generate these outputs, see our article on [diffusion models](/basics/understanding-diffusion-models-for-ai-images).
 
-![Visualization of real versus synthetic data distributions showing similar statistical properties](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
+![Colorful 3D rendering resembling neural networks or data visualization.](/images/auto/pexels-what-is-synthetic-data-in-ai-training.jpg)
 
 But is that the whole story?
 ## Applications and Use Cases

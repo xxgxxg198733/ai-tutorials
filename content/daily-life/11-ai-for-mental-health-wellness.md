@@ -5,8 +5,8 @@ category: daily-life
 order: 11
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&h=630&fit=crop"
-coverAlt: "Person meditating in a peaceful room with a smartphone showing a wellness app"
+coverImage: "/images/auto/pexels-ai-for-mental-health-and-wellness-your-d.jpg"
+coverAlt: "A woman in workout attire doing yoga at home, recording on a smartphone."
 tags:
   - AI Mental Health
   - Wellness
@@ -32,7 +32,7 @@ In 2026, AI mental health tools have evolved from simple mood tracking apps into
 
 The most important principle in AI mental health is that these tools work best as part of a comprehensive wellness approach. They can help you build emotional awareness, practice coping skills, maintain consistency with therapeutic exercises, and identify patterns that you might discuss with a human therapist. Used thoughtfully, they can significantly improve emotional wellbeing and resilience.
 
-![AI mental health app showing a guided meditation and mood tracking interface](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&h=400&fit=crop)
+![A woman in workout attire doing yoga at home, recording on a smartphone.](/images/auto/pexels-ai-for-mental-health-and-wellness-your-d.jpg)
 
 ## AI Therapy Chatbots and Counseling Support
 

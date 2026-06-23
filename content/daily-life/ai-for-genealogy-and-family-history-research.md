@@ -5,8 +5,8 @@ category: "daily-life"
 order: 33
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1590742998426-f8251a026ebb?w=1200"
-coverAlt: "Vintage family photographs and documents arranged on a table with a laptop displaying genealogy research"
+coverImage: "/images/auto/pexels-ai-for-genealogy-and-family-history-rese.jpg"
+coverAlt: "Antique family photographs with pink roses and historic documents."
 tags: ["genealogy", "family history", "ancestry research", "AI genealogy", "historical records"]
 keywords: ["AI genealogy research", "family tree AI", "ancestry DNA analysis", "historical record matching", "handwriting recognition AI", "genealogy tool", "family history research", "AI record transcription", "ancestor discovery", "genealogy automation"]
 ---
@@ -21,7 +21,7 @@ The most significant contribution of AI to genealogy is automated record matchin
 
 What makes modern AI record matching so powerful is its ability to handle the ambiguity inherent in historical records. Names were frequently misspelled, ages recorded inaccurately, and locations listed inconsistently. Traditional exact-match search algorithms would miss a record simply because "John Smith" was recorded as "Jno. Smyth" in an 1880 census. AI systems use fuzzy matching algorithms that understand historical name variations, phonetic similarities (like Soundex and Metaphone algorithms), and typical recording errors. They consider multiple data points simultaneously—name, age, location, spouse name, children's names—to calculate a confidence score for each potential match. The AI can identify a great-great-grandmother in a 1900 census even though her surname (from a second marriage) is different from what the researcher expected, because all other identifying details align with the family profile.
 
-![Old family photographs and historical documents spread on a wooden table](https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800)
+![Antique family photographs with pink roses and historic documents.](/images/auto/pexels-ai-for-genealogy-and-family-history-rese.jpg)
 
 ## Handwriting Recognition and Document Transcription
 

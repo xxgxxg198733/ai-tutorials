@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 18
 date: 2026-06-03
 readingTime: 15
-coverImage: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200"
-coverAlt: "Sales team reviewing analytics and performance dashboards in a modern office"
+coverImage: "/images/auto/pexels-ai-sales-automation-tools-guide.jpg"
+coverAlt: "Close-up of professionals reviewing financial graphs at a business meeting."
 tags:
   - sales automation
   - CRM AI

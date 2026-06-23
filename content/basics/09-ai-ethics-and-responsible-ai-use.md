@@ -5,8 +5,8 @@ category: basics
 order: 9
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=1200&h=630&fit=crop"
-coverAlt: "Balancing scale representing ethical considerations in artificial intelligence"
+coverImage: "/images/auto/pexels-ai-ethics-and-responsible-ai-use-a-pract.jpg"
+coverAlt: "Lady Justice figurine on wooden table in dimly lit room symbolizes law and fairness."
 tags:
   - AI Ethics
   - Responsible AI
@@ -45,7 +45,7 @@ Addressing bias requires action at multiple stages of the AI development pipelin
 
 However, technical fixes alone are insufficient. Fairness is fundamentally a social and ethical concept, not a mathematical one. Different stakeholders may have legitimate but conflicting definitions of fairness. Equal opportunity — giving everyone the same chance — differs from equal outcome — ensuring proportional representation. AI ethicists and practitioners must engage with these philosophical questions, not just optimize mathematical metrics.
 
-![A visual representation of bias in AI training data and outcomes](https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&h=400&fit=crop)
+![Lady Justice figurine on wooden table in dimly lit room symbolizes law and fairness.](/images/auto/pexels-ai-ethics-and-responsible-ai-use-a-pract.jpg)
 
 ## Transparency and Explainability
 

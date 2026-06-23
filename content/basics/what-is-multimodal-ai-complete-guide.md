@@ -5,8 +5,8 @@ category: "basics"
 order: 32
 date: 2026-06-03
 readingTime: 14
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
-coverAlt: "Visualization of multimodal AI integrating text, images, and audio inputs"
+coverImage: "/images/auto/pexels-what-is-multimodal-ai-complete-guide.jpg"
+coverAlt: "Abstract black and white graphic featuring a multimodal model pattern with various shapes."
 tags:
   - Multimodal AI
   - Vision-Language Models
@@ -37,7 +37,7 @@ Multimodal AI systems face a fundamental architectural challenge: how to combine
 
 The typical architecture begins with **modality-specific encoders**: each input type is processed by a specialized neural network that extracts meaningful features. Text is processed by a language model (often a transformer), images by a vision encoder (a vision transformer like ViT, or a convolutional network), and audio by an audio encoder (like Whisper or HuBERT). These encoders produce representations in their own dimensional spaces. The key challenge is **alignment** — learning to map these different representations into a shared embedding space where corresponding concepts from different modalities are close together. CLIP (Contrastive Language-Image Pre-training) pioneered this approach by training a text encoder and an image encoder jointly on 400 million image-text pairs, learning to project the description "a dog playing in the park" and an image of exactly that into nearby points in a shared embedding space. Finally, **cross-modal fusion** combines information from different modalities for tasks like visual question answering, where the model must integrate text and image information to produce an answer. Fusion can occur at different levels: early fusion combines raw inputs, late fusion combines high-level features, and intermediate fusion builds cross-modal interactions through attention mechanisms at multiple layers. For more on the underlying architectures, see our guide on [the transformer architecture](/basics/the-transformer-architecture-explained).
 
-![Multimodal AI architecture diagram showing text, image, and audio encoders feeding into a shared representation space](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800)
+![Abstract black and white graphic featuring a multimodal model pattern with various shapes.](/images/auto/pexels-what-is-multimodal-ai-complete-guide.jpg)
 
 What's the catch?
 ## Major Multimodal Models and Architectures

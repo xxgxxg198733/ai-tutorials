@@ -5,8 +5,8 @@ category: news-tools
 order: 4
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1200&h=630&fit=crop"
-coverAlt: "Collection of colorful app icons representing various free AI tools"
+coverImage: "/images/auto/pexels-best-free-ai-tools-you-should-be-using-i.jpg"
+coverAlt: "Close-up of a hand holding a smartphone with AI applications on screen."
 tags:
   - Free AI Tools
   - AI Productivity
@@ -41,7 +41,7 @@ Claude's free tier offers access to Claude 4 Sonnet, Anthropic's mid-tier model,
 
 For specialized writing assistance, Grammarly's free tier has expanded its AI capabilities significantly, now offering full AI-powered writing suggestions, tone detection, and a basic generative writing assistant. The premium features are mainly focused on advanced style suggestions and plagiarism checking, leaving the core AI writing features accessible to free users. Similarly, Notion AI offers a limited number of free AI responses each month, integrated directly into its powerful note-taking and project management platform, which itself has a generous free tier.
 
-![A laptop screen showing multiple free AI tool interfaces](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=450&fit=crop)
+![Close-up of a hand holding a smartphone with AI applications on screen.](/images/auto/pexels-best-free-ai-tools-you-should-be-using-i.jpg)
 
 But is that the whole story?
 ## Best Free AI Image Generation Tools

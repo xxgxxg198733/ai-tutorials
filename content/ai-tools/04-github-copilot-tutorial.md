@@ -5,8 +5,8 @@ category: ai-tools
 order: 4
 date: 2026-06-03
 readingTime: 12
-coverImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=630&fit=crop"
-coverAlt: "Code editor with AI-powered suggestions on a developer's screen"
+coverImage: "/images/auto/pexels-github-copilot-tutorial-for-developers-2.jpg"
+coverAlt: "A laptop screen showing a code editor with a cute orange crab plush toy beside it."
 tags:
   - GitHub Copilot
   - AI Coding
@@ -30,7 +30,7 @@ GitHub Copilot has transformed the way developers write code by providing an AI-
 
 Getting started with GitHub Copilot requires a GitHub account and a subscription plan, which includes Free, Individual ($10/month or $100/year), Business ($19/user/month), and Enterprise ($39/user/month) tiers. The Free tier provides limited completions per month, making it a great way to evaluate the tool before committing. Once you've an active subscription, installation takes just a few minutes. Copilot is available as an extension for Visual Studio Code, JetBrains IDEs (IntelliJ, PyCharm, WebStorm), Neovim, and Visual Studio. For VS Code, open the Extensions panel, search for "GitHub Copilot," and install both the Copilot and Copilot Chat extensions. After installation, sign in with your GitHub account in the editor, and a small Copilot icon will appear in the status bar indicating it is active. You may need to authorize the extension through your GitHub settings on first use. Once configured, Copilot begins working immediately, offering code suggestions as you type and providing context-aware completions based on your open files, project structure, and coding patterns. For teams using Copilot Business or Enterprise, administrators can configure policy settings, manage user access through the GitHub organization settings, and review usage analytics to understand adoption across the team. It's also worth exploring the Copilot settings panel in your editor, where you can customize suggestion behavior -- such as enabling or disabling suggestions for specific languages, adjusting the suggestion delay, and toggling inline suggestions on or off.
 
-![Developer coding with GitHub Copilot suggestions appearing inline in VS Code](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=450&fit=crop)
+![A laptop screen showing a code editor with a cute orange crab plush toy beside it.](/images/auto/pexels-github-copilot-tutorial-for-developers-2.jpg)
 
 ## Core Features: Code Completions and Suggestions
 

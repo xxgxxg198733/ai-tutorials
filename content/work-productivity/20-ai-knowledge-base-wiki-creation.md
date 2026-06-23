@@ -5,8 +5,8 @@ category: "work-productivity"
 order: 20
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200"
-coverAlt: "Team collaborating on knowledge base documentation in a modern workspace"
+coverImage: "/images/auto/pexels-ai-knowledge-base-and-wiki-creation.jpg"
+coverAlt: "A diverse group of office workers collaborating on a creative project around a laptop in a modern workspace."
 tags:
   - knowledge management
   - wiki creation

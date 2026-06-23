@@ -5,8 +5,8 @@ category: basics
 order: 15
 date: 2026-06-03
 readingTime: 13
-coverImage: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
-coverAlt: "Abstract visualization of data tokens and numerical parameters in AI systems"
+coverImage: "/images/auto/pexels-understanding-ai-parameters-and-tokens-t.jpg"
+coverAlt: "A black and white graphic illustrating the concept of tokenization with abstract patterns."
 tags:
   - AI Parameters
   - Tokens
@@ -64,7 +64,7 @@ Larger context windows come with trade-offs. Processing more tokens requires mor
 
 There is also evidence that models use their context windows imperfectly. Even when a model has a 100,000-token context window, it may perform better with relevant information near the beginning or end of the context — a phenomenon called lost-in-the-middle. Retrieval strategies that place the most relevant information strategically within the context can significantly improve performance.
 
-![Visualization showing how text is broken into tokens and processed within a model's context window](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=800&h=400&fit=crop)
+![A black and white graphic illustrating the concept of tokenization with abstract patterns.](/images/auto/pexels-understanding-ai-parameters-and-tokens-t.jpg)
 
 ## Practical Implications for AI Users
 
