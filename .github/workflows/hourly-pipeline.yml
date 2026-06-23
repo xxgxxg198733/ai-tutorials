@@ -32,4 +32,7 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_BRANCH: ${{ github.ref_name }}
 
-      # Vercel auto-deploys on push — no manual trigger needed
+      - name: Pull latest content & deploy
+        run: |
+          git pull origin main
+          npx vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
