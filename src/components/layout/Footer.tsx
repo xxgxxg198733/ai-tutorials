@@ -85,12 +85,9 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-border mt-8 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-xs text-muted-foreground">
             &copy; {currentYear} {SITE_NAME}. All rights reserved.
-          </p>
-          <p className="text-xs text-muted-foreground">
-            Built with ❤️ using Next.js &bull; Deployed on Vercel
           </p>
         </div>
       </div>
