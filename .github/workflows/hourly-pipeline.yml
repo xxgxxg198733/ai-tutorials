@@ -33,10 +33,17 @@ jobs:
           GITHUB_BRANCH: ${{ github.ref_name }}
 
       - name: Deploy to Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: team_RbRdvq0IYLtW6AXPjvlzp7u7
-          VERCEL_PROJECT_ID: prj_MNXaz3Pi5WaqpjgAf8EWtkvRnwJl
         run: |
-          git pull origin main
-          npx vercel deploy --prod --yes
+          curl -s -X POST "https://api.vercel.com/v13/deployments" \
+            -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "name": "ai-tutorials",
+              "project": "prj_MNXaz3Pi5WaqpjgAf8EWtkvRnwJl",
+              "target": "production",
+              "gitSource": {
+                "type": "github",
+                "repo": "xxgxxg198733/ai-tutorials",
+                "ref": "main"
+              }
+            }'
