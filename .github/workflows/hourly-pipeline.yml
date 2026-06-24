@@ -32,7 +32,11 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_BRANCH: ${{ github.ref_name }}
 
-      - name: Pull latest content & deploy
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_RbRdvq0IYLtW6AXPjvlzp7u7
+          VERCEL_PROJECT_ID: prj_MNXaz3Pi5WaqpjgAf8EWtkvRnwJl
         run: |
           git pull origin main
-          npx vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
+          npx vercel deploy --prod --yes
