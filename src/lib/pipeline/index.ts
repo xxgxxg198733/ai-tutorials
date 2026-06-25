@@ -3,10 +3,16 @@
  * Hourly: fetch news → rewrite → images → GitHub API commit → Vercel auto-deploy.
  */
 
+import fs from "fs";
+import path from "path";
 import { fetchAINews } from "./fetcher";
 import { rewriteArticle } from "./rewriter";
 import { fetchCoverImage, fetchInlineImage } from "./pexels";
 import type { RawArticle } from "./fetcher";
+
+const CONTENT_DIR = path.join(process.cwd(), "content");
+const IMAGE_DIR = path.join(process.cwd(), "public/images/auto");
+const IS_CI = !!process.env.CI; // GitHub Actions sets CI=true
 
 const GITHUB_TOKEN = process.env.GH_TOKEN || "";
 const GITHUB_REPO = process.env.GITHUB_REPO || ""; // "owner/repo"
@@ -32,8 +38,17 @@ function slugify(title: string): string {
  * Get existing file list from GitHub repo to compute next order number.
  */
 async function getExistingOrders(category: string): Promise<number[]> {
-  if (!GITHUB_TOKEN || !GITHUB_REPO) return [];
+  // CI: read from local filesystem
+  if (IS_CI) {
+    const dir = path.join(process.cwd(), "content", category);
+    if (!fs.existsSync(dir)) return [];
+    return fs.readdirSync(dir)
+      .filter(f => f.endsWith(".md"))
+      .map(f => { const m = f.match(/^(\d+)-/); return m ? parseInt(m[1]) : 0; });
+  }
 
+  // Local: use GitHub API
+  if (!GITHUB_TOKEN || !GITHUB_REPO) return [];
   try {
     const res = await fetch(
       `https://api.github.com/repos/${GITHUB_REPO}/contents/content/${category}?ref=${GITHUB_BRANCH}`,
@@ -126,6 +141,24 @@ async function createGitHubFile(
   }
 }
 
+async function writeArticle(filepath: string, content: string, title: string): Promise<boolean> {
+  if (IS_CI) {
+    // GitHub Actions: write locally, then git commit+push triggers Vercel
+    try {
+      const fullPath = path.join(process.cwd(), filepath);
+      const dir = path.dirname(fullPath);
+      if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+      fs.writeFileSync(fullPath, content, "utf-8");
+      return true;
+    } catch (err: any) {
+      console.error("Local write failed:", err.message);
+      return false;
+    }
+  }
+  // Local: use GitHub API
+  return createGitHubFile(filepath, content, `auto: ${title.slice(0, 60)} [pipeline]`);
+}
+
 /**
  * Main pipeline.
  */
@@ -205,21 +238,11 @@ source: "${rewritten.sourceUrl}"
 
 ${rewritten.content}${inlineMd}${citation}`;
 
-      // 2d. Upload via GitHub API
-      console.log("  Uploading...");
-      const uploaded = await createGitHubFile(
-        filepath,
-        md,
-        `auto: ${rewritten.title.slice(0, 60)} [pipeline]`
-      );
-
+      // 2d. Write to disk (CI) or GitHub API (local)
+      const uploaded = await writeArticle(filepath, md, rewritten.title);
       if (uploaded) {
         result.articlesWritten++;
-        result.articles.push({
-          title: rewritten.title,
-          category: rewritten.category,
-          slug,
-        });
+        result.articles.push({ title: rewritten.title, category: rewritten.category, slug });
         console.log(`  ✓ ${rewritten.category}/${filename}`);
       } else {
         result.errors.push(`Upload failed: ${rewritten.title}`);
