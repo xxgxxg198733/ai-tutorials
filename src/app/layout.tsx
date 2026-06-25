@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Inter, JetBrains_Mono } from "next/font/google";
 
 import { ThemeProvider } from "@/components/shared/ThemeProvider";
@@ -87,13 +88,6 @@ export default function RootLayout({
     >
       <head>
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        {/* Google Analytics */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5F4076B26" />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-Q5F4076B26');`,
-          }}
-        />
         {/* Google AdSense */}
         <script
           async
@@ -126,6 +120,17 @@ export default function RootLayout({
           <BackToTop />
           <CookieConsent />
           <Analytics />
+          <Script
+            strategy="afterInteractive"
+            src="https://www.googletagmanager.com/gtag/js?id=G-Q5F4076B26"
+          />
+          <Script
+            id="google-analytics"
+            strategy="afterInteractive"
+            dangerouslySetInnerHTML={{
+              __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-Q5F4076B26');`,
+            }}
+          />
         </ThemeProvider>
       </body>
     </html>
