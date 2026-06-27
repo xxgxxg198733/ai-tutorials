@@ -36,6 +36,7 @@ jobs:
         run: |
           git config user.name "pipeline-bot"
           git config user.email "bot@aitutorialshub.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git"
           git add content/ public/images/auto/
           if git diff --staged --quiet; then
             echo "No changes to commit"
