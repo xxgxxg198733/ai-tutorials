@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   pipeline:
     runs-on: ubuntu-latest
@@ -36,11 +39,10 @@ jobs:
         run: |
           git config user.name "pipeline-bot"
           git config user.email "bot@aitutorialshub.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git"
           git add content/ public/images/auto/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "auto: pipeline update [skip ci]"
+            git commit -m "auto: pipeline update"
             git push origin main
           fi
