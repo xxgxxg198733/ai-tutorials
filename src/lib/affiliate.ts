@@ -213,6 +213,33 @@ export const AFFILIATE_LINKS: Record<string, AffiliateLinkConfig> = {
     valueProp: "AI digital human video creation — script to video in seconds",
     requiresPurchase: false,
   },
+
+  cappt: {
+    name: "Kaplan PPT",
+    url: "https://cappt.cgref.cn/s/dqnd8wre2z",
+    platform: "ClickGlue",
+    cta: "Try Kaplan PPT Free",
+    valueProp: "AI-powered presentation platform — 45+ formats, one-click design",
+    requiresPurchase: false,
+  },
+
+  artarch: {
+    name: "ArtArch Studio",
+    url: "https://artarchstudio.cgaff.link/s/59ng42xnr2",
+    platform: "CGAff",
+    cta: "Try ArtArch Studio Free",
+    valueProp: "AI creative design studio — generate pro visuals in seconds",
+    requiresPurchase: false,
+  },
+
+  joypix: {
+    name: "JoyPix AI",
+    url: "https://joypixai.cgaff.link/s/20eppmjew1",
+    platform: "CGAff",
+    cta: "Try JoyPix AI Free",
+    valueProp: "AI photo and image creation — stunning visuals made simple",
+    requiresPurchase: false,
+  },
 };
 
 /**
