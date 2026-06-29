@@ -204,6 +204,15 @@ export const AFFILIATE_LINKS: Record<string, AffiliateLinkConfig> = {
     valueProp: "AI-first code editor — free tier available",
     requiresPurchase: false,
   },
+
+  xfzhizuo: {
+    name: "iFlytek XFZhizuo",
+    url: "https://xfzhizuo.cgref.cn/s/1zn5m7rkqm",
+    platform: "ClickGlue",
+    cta: "Try iFlytek AI Digital Human Free",
+    valueProp: "AI digital human video creation — script to video in seconds",
+    requiresPurchase: false,
+  },
 };
 
 /**
