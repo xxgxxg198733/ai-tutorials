@@ -46,3 +46,13 @@ jobs:
             git commit -m "auto: pipeline update"
             git push origin main
           fi
+
+      - name: Deploy to Vercel
+        run: |
+          git pull origin main
+          npm install
+          npx vercel deploy --prod --yes
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_RbRdvq0IYLtW6AXPjvlzp7u7
+          VERCEL_PROJECT_ID: prj_MNXaz3Pi5WaqpjgAf8EWtkvRnwJl
