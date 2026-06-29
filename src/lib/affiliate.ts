@@ -240,6 +240,24 @@ export const AFFILIATE_LINKS: Record<string, AffiliateLinkConfig> = {
     valueProp: "AI photo and image creation — stunning visuals made simple",
     requiresPurchase: false,
   },
+
+  wondercv: {
+    name: "WonderCV",
+    url: "https://wondercv.cgref.cn/s/qmnogp6e29",
+    platform: "ClickGlue",
+    cta: "Create Your AI Resume Free",
+    valueProp: "AI-powered resume builder — craft a professional CV in minutes",
+    requiresPurchase: false,
+  },
+
+  seko: {
+    name: "Seko by SenseTime",
+    url: "https://seko.cgref.cn/s/rpe3l8je05",
+    platform: "ClickGlue",
+    cta: "Try Seko AI Free",
+    valueProp: "SenseTime AI platform — intelligent content and creation tools",
+    requiresPurchase: false,
+  },
 };
 
 /**
