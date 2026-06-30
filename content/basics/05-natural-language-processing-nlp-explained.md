@@ -80,7 +80,7 @@ Sound familiar?
 I learned this the hard way: - Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language
 - Language is inherently ambiguous and context-dependent, making NLP one of AI's most challenging fields — wish I'd known this six months ago
 - Key NLP tasks include tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, machine translation, and summarization
-- Deep learning, particularly the Transformer architecture, revolutionized NLP by enabling parallel processing and rich contextual understanding
+- Deep learning, particularly the Transformer architecture, overhauld NLP by enabling parallel processing and rich contextual understanding
 - Word embeddings capture semantic relationships between words as numerical vectors
 - NLP powers search engines, email filters, voice assistants, translation services, grammar checkers, and modern AI chat interfaces
 - Modern NLP systems are built on pre-trained language models that can be fine-tuned for specific tasks with relatively small amounts of labeled data — wish I'd known this six months ago

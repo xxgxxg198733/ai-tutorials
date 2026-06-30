@@ -55,7 +55,7 @@ The speed of adoption is also historically unusual. ChatGPT reached 100 million 
 
 Okay, counterarguments.
 
-First, calling something a "revolution" before it's actually revolutionized anything is premature. The first industrial revolution wasn't obvious to the people living through it. Most people in 1790 were still farmers whose daily lives hadn't changed much. The revolution is only visible in retrospect. We might be calling AI a revolution because it's exciting right now, not because we know how it plays out.
+First, calling something a "revolution" before it's actually improved anything is premature. The first industrial revolution wasn't obvious to the people living through it. Most people in 1790 were still farmers whose daily lives hadn't changed much. The revolution is only visible in retrospect. We might be calling AI a revolution because it's exciting right now, not because we know how it plays out.
 
 Second, a lot of the economic impact projections assume that AI capabilities will continue improving at their current rate, and that the improvements will translate directly into productivity gains. Neither assumption is guaranteed. There could be diminishing returns to bigger models. The hard problems of reliability, factual accuracy, and reasoning might prove more stubborn than the scaling curves suggest. The gap between "AI that impresses in a demo" and "AI that you can trust with actual work" could remain wide.
 

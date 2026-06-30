@@ -63,7 +63,7 @@ This architecture gives CNNs two important properties. First, translation invari
 So where does that leave us?
 ## Transformers and the Rise of Language Models
 
-While CNNs dominated computer vision, a different architecture called the Transformer, introduced in the 2017 paper "Attention Is All You Need," revolutionized natural language processing. The key innovation of the Transformer is the attention mechanism, which allows the model to weigh the importance of different input elements when producing each output element. When generating a word in a sentence, the model can "attend to" relevant words elsewhere in the text, regardless of their distance.
+While CNNs dominated computer vision, a different architecture called the Transformer, introduced in the 2017 paper "Attention Is All You Need," changed natural language processing. The key innovation of the Transformer is the attention mechanism, which allows the model to weigh the importance of different input elements when producing each output element. When generating a word in a sentence, the model can "attend to" relevant words elsewhere in the text, regardless of their distance.
 
 Unlike older recurrent neural networks (RNNs) that processed words sequentially, Transformers process all input tokens in parallel. This parallelization makes training dramatically faster and enables the model to capture long-range dependencies far more effectively. In a sentence like "The cat that chased the mouse that ate the cheese was tired," a Transformer can maintain the connection between "cat" and "was tired" even with many words in between — something that was challenging for earlier architectures.
 

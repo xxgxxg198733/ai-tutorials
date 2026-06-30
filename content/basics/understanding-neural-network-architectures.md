@@ -72,7 +72,7 @@ Here's the thing: **Graph Neural Networks** (GNNs) extend neural network archite
 
 Here's a real example from my own use: - Neural network architectures determine what a model can learn and how efficiently it processes information, making architecture choice critical for any AI project.
 - Feedforward networks (MLPs) form the fundamental building block, serving as universal function approximators that are still used in modern architectures. (this one actually surprised me)
-- CNNs revolutionized computer vision through local connectivity and hierarchical feature learning, enabling breakthroughs in image recognition. (this one actually surprised me)
+- CNNs changed computer vision through local connectivity and hierarchical feature learning, enabling breakthroughs in image recognition. (this one actually surprised me)
 - RNNs and their gated variants (LSTM, GRU) enabled sequence processing, though transformers have largely superseded them for many tasks. (this one actually surprised me)
 - The transformer architecture, built entirely on attention mechanisms, underlies virtually all modern large language models and has transformed NLP.
 - Emerging architectures like mixture of experts, state space models, graph neural networks, and spiking neural networks point toward the future of AI computation.

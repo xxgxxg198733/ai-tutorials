@@ -1,6 +1,6 @@
 ---
 title: "AI UX Design and User Research Tools"
-description: "Discover how AI tools revolutionize UX design and user research with automated usability testing, design generation, user behavior analysis, and personalized experiences."
+description: "Discover how AI tools overhaul UX design and user research with automated usability testing, design generation, user behavior analysis, and personalized experiences."
 category: "work-productivity"
 order: 23
 date: 2026-06-03
